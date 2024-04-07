@@ -1,0 +1,3336 @@
+23/08/22, 10:30 am - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+23/08/22, 10:30 am - #çhäñdáñ...: print("\nEnter Your Marks as Follows :\n")
+dsa=int(input('Enter DSA Mark (FULl : 100) : '))
+dsa_lab=int(input('Enter DSA Lab Mark (FULl : 100) : '))
+pc=int(input('Enter the Physics/Chemistry Mark (FULl : 100) : '))
+pc_lab=int(input('Enter the Physics/Chemistry Lab Mark (FULl : 100) : '))
+be=int(input('Enter the BEE Mark (FULl : 100) : '))
+be_lab=int(input('Enter the BEE Lab Mark (FULl : 100) : '))
+cte=int(input('Enter the CTE Mark (FULl : 100) : '))
+cte_lab=int(input('Enter the CTE Lab Mark (FULl : 100) : '))
+mth=int(input('Enter the Math Mark (FULl : 100) : '))
+ed=int(input('Enter The ED/MP Lab Mark (FULl : 100) : '))
+points=((dsa//10+1)*3)+((dsa_lab//10+1)*2)+((pc//10+1)*3)+(pc_lab//10+1)+((be//10+1)*2)+(be_lab//10+1)+((cte//10+1)*2)+(cte_lab//10+1)+((mth//10+1)*3)+(ed//10+1)
+print(f'\nSGPA = {points/19}')
+24/08/22, 6:57 pm - #çhäñdáñ...: <Media omitted>
+29/08/22, 11:21 am - Home Minister 😎: <Media omitted>
+30/08/22, 6:50 pm - Home Minister 😎: Tu kede anaguria te be
+30/08/22, 6:50 pm - Home Minister 😎: Ebe bi asunu
+30/08/22, 6:50 pm - #çhäñdáñ...: He jibi ta tk paban dauchii
+30/08/22, 6:51 pm - #çhäñdáñ...: Gharaku gale sei phone taku tipibi
+30/08/22, 6:51 pm - Home Minister 😎: Tu kauti basichu
+30/08/22, 6:51 pm - #çhäñdáñ...: Mangala graha re
+30/08/22, 6:52 pm - Home Minister 😎: Mu dekhiki asili Tipu dokan pakhare nahu
+30/08/22, 6:57 pm - #çhäñdáñ...: Eithi
+30/08/22, 6:57 pm - #çhäñdáñ...: Mars
+30/08/22, 6:57 pm - #çhäñdáñ...: Asichi
+30/08/22, 6:57 pm - #çhäñdáñ...: Jauchi rahuna
+30/08/22, 6:57 pm - #çhäñdáñ...: Kan palauchi na mu kuade
+01/09/22, 10:58 pm - Home Minister 😎: <Media omitted>
+01/09/22, 10:58 pm - Home Minister 😎: <Media omitted>
+01/09/22, 10:58 pm - Home Minister 😎: <Media omitted>
+01/09/22, 10:58 pm - Home Minister 😎: <Media omitted>
+01/09/22, 10:58 pm - Home Minister 😎: <Media omitted>
+01/09/22, 10:58 pm - Home Minister 😎: <Media omitted>
+01/09/22, 10:58 pm - Home Minister 😎: <Media omitted>
+01/09/22, 10:58 pm - Home Minister 😎: <Media omitted>
+01/09/22, 11:00 pm - #çhäñdáñ...: <Media omitted>
+01/09/22, 11:00 pm - #çhäñdáñ...: <Media omitted>
+01/09/22, 11:00 pm - #çhäñdáñ...: <Media omitted>
+01/09/22, 11:00 pm - #çhäñdáñ...: <Media omitted>
+01/09/22, 11:00 pm - #çhäñdáñ...: <Media omitted>
+01/09/22, 11:00 pm - #çhäñdáñ...: <Media omitted>
+01/09/22, 11:00 pm - #çhäñdáñ...: <Media omitted>
+02/09/22, 11:25 pm - Home Minister 😎: <Media omitted>
+02/09/22, 11:25 pm - Home Minister 😎: <Media omitted>
+02/09/22, 11:25 pm - Home Minister 😎: <Media omitted>
+02/09/22, 11:25 pm - Home Minister 😎: <Media omitted>
+02/09/22, 11:25 pm - Home Minister 😎: <Media omitted>
+02/09/22, 11:25 pm - Home Minister 😎: <Media omitted>
+02/09/22, 11:25 pm - Home Minister 😎: <Media omitted>
+02/09/22, 11:25 pm - Home Minister 😎: <Media omitted>
+02/09/22, 11:25 pm - Home Minister 😎: <Media omitted>
+02/09/22, 11:25 pm - Home Minister 😎: <Media omitted>
+06/09/22, 11:48 am - Home Minister 😎: Asibani Ki be
+07/09/22, 12:13 pm - Home Minister 😎: Be hela na kama
+07/09/22, 12:18 pm - #çhäñdáñ...: BM nahi mu basichi baba jaichanti kuade
+07/09/22, 12:19 pm - Home Minister 😎: Hau
+07/09/22, 12:19 pm - #çhäñdáñ...: Hmm
+07/09/22, 12:19 pm - Home Minister 😎: Asibe na
+07/09/22, 12:19 pm - Home Minister 😎: Aji
+07/09/22, 12:19 pm - #çhäñdáñ...: Kejani staff kahila wait kara boli
+07/09/22, 12:20 pm - Home Minister 😎: Hau
+07/09/22, 12:20 pm - #çhäñdáñ...: Hmm
+07/09/22, 5:38 pm - Home Minister 😎: Be jaunu
+09/09/22, 2:03 am - #çhäñdáñ...: https://www.mediafire.com/file/2awehzbpkdca3tc/New_Hack_2.1.7z/file
+10/09/22, 10:19 am - Home Minister 😎: <Media omitted>
+10/09/22, 10:19 am - #çhäñdáñ...: Hm dekhichi
+11/09/22, 11:34 pm - Home Minister 😎: <Media omitted>
+11/09/22, 11:34 pm - Home Minister 😎: <Media omitted>
+25/09/22, 2:32 pm - Home Minister 😎: Photo guda patha be
+25/09/22, 2:57 pm - #çhäñdáñ...: <Media omitted>
+25/09/22, 2:57 pm - #çhäñdáñ...: <Media omitted>
+25/09/22, 2:57 pm - #çhäñdáñ...: <Media omitted>
+25/09/22, 2:57 pm - #çhäñdáñ...: <Media omitted>
+25/09/22, 2:57 pm - #çhäñdáñ...: <Media omitted>
+25/09/22, 2:57 pm - #çhäñdáñ...: <Media omitted>
+25/09/22, 2:57 pm - #çhäñdáñ...: <Media omitted>
+25/09/22, 2:57 pm - #çhäñdáñ...: <Media omitted>
+25/09/22, 2:57 pm - #çhäñdáñ...: <Media omitted>
+25/09/22, 2:57 pm - #çhäñdáñ...: <Media omitted>
+25/09/22, 2:57 pm - #çhäñdáñ...: <Media omitted>
+25/09/22, 2:57 pm - #çhäñdáñ...: <Media omitted>
+27/09/22, 1:40 pm - #çhäñdáñ...: <Media omitted>
+27/09/22, 7:37 pm - #çhäñdáñ...: <Media omitted>
+27/09/22, 7:37 pm - #çhäñdáñ...: <Media omitted>
+27/09/22, 7:37 pm - #çhäñdáñ...: <Media omitted>
+27/09/22, 7:37 pm - #çhäñdáñ...: <Media omitted>
+27/09/22, 7:37 pm - #çhäñdáñ...: <Media omitted>
+27/09/22, 7:37 pm - #çhäñdáñ...: <Media omitted>
+27/09/22, 7:37 pm - #çhäñdáñ...: <Media omitted>
+28/09/22, 10:16 am - #çhäñdáñ...: Kahili
+28/09/22, 10:16 am - #çhäñdáñ...: Katiki
+28/09/22, 10:17 am - #çhäñdáñ...: Voice cl kara
+28/09/22, 10:17 am - #çhäñdáñ...: Hmm
+02/10/22, 10:56 pm - Home Minister 😎: <Media omitted>
+05/10/22, 10:40 pm - #çhäñdáñ...: <Media omitted>
+09/10/22, 11:42 pm - #çhäñdáñ...: anilkumarchotray
+10/10/22, 1:39 pm - Home Minister 😎: <Media omitted>
+11/10/22, 7:41 am - #çhäñdáñ...: <Media omitted>
+11/10/22, 7:53 am - Home Minister 😎: Tu basichu na seat re
+11/10/22, 7:54 am - Home Minister 😎: Jota troli laptop sabu carefully rakhibu
+11/10/22, 7:54 am - #çhäñdáñ...: Hmm
+11/10/22, 7:54 am - #çhäñdáñ...: Yuppp
+11/10/22, 7:54 am - #çhäñdáñ...: Don't worry
+11/10/22, 7:55 am - #çhäñdáñ...: Mote kuha tamara sabu katha mane kemiti ruhe
+11/10/22, 7:55 am - #çhäñdáñ...: Mo mind re hi nathila i card katha
+11/10/22, 7:55 am - #çhäñdáñ...: Sala gate bhitaraku pureibeni i card bina
+11/10/22, 8:14 am - Home Minister 😎: Mu jeparyanta mane pakauthibi sejae tu emiti bhulibu.
+11/10/22, 8:15 am - Home Minister 😎: Hau biscuits tike khainebu bhoka re rahibuni
+11/10/22, 8:16 am - Home Minister 😎: College re pahanchile nija kama thik re karibu au Mu call kale utheibu
+11/10/22, 8:17 am - #çhäñdáñ...: Angya
+11/10/22, 10:57 am - Home Minister 😎: Bus asilani na
+11/10/22, 1:59 pm - Home Minister 😎: Laptop thik hela na
+11/10/22, 4:57 pm - Home Minister 😎: Kn karuchhu
+11/10/22, 5:08 pm - #çhäñdáñ...: Pahanchiki
+11/10/22, 5:08 pm - #çhäñdáñ...: Sajada sajadi sariki
+11/10/22, 5:08 pm - #çhäñdáñ...: Jauchi gadheiki ase
+11/10/22, 5:09 pm - #çhäñdáñ...: Luga b safa karidebi auu
+11/10/22, 5:09 pm - Home Minister 😎: Hau
+11/10/22, 5:09 pm - #çhäñdáñ...: Hmm
+11/10/22, 5:09 pm - Home Minister 😎: Surf achhi na
+11/10/22, 5:09 pm - #çhäñdáñ...: Hmm
+11/10/22, 5:09 pm - #çhäñdáñ...: Achii
+11/10/22, 5:09 pm - Home Minister 😎: Hau ja
+11/10/22, 5:10 pm - #çhäñdáñ...: Hmm
+11/10/22, 6:48 pm - #çhäñdáñ...: Aji kharcha hela 
+Key board = 450/-
+Bus = 30 + 20+25 = 75/-
+Cold drink = 20/-
+Total = 550/-
+11/10/22, 6:49 pm - #çhäñdáñ...: Achi cash 150/-
+11/10/22, 6:49 pm - #çhäñdáñ...: Acount re 1758/-
+11/10/22, 6:49 pm - #çhäñdáñ...: Tama recharge karidauchii
+12/10/22, 6:00 pm - Home Minister 😎: Bapa earbot ta carefully rakhuthibu
+12/10/22, 6:03 pm - #çhäñdáñ...: Hm hm
+13/10/22, 6:11 pm - #çhäñdáñ...: <Media omitted>
+13/10/22, 6:11 pm - #çhäñdáñ...: Pahada bhalia size
+13/10/22, 6:11 pm - #çhäñdáñ...: Chicken samosa
+13/10/22, 6:12 pm - Home Minister 😎: Hau kha
+13/10/22, 6:12 pm - #çhäñdáñ...: He na
+13/10/22, 6:12 pm - #çhäñdáñ...: Mu nuhe
+13/10/22, 6:12 pm - #çhäñdáñ...: Priyanshuu
+13/10/22, 6:12 pm - Home Minister 😎: Khauchi na sie
+13/10/22, 6:12 pm - #çhäñdáñ...: Na khai sarilani
+13/10/22, 6:13 pm - Home Minister 😎: Tu khailu na
+13/10/22, 6:13 pm - #çhäñdáñ...: Aluchap 2 ta singda goye
+13/10/22, 6:14 pm - Home Minister 😎: Hau
+13/10/22, 6:14 pm - #çhäñdáñ...: Hmm
+13/10/22, 6:15 pm - Home Minister 😎: Kete tanka
+13/10/22, 6:16 pm - #çhäñdáñ...: 30
+13/10/22, 6:16 pm - Home Minister 😎: Tu aniki khaibu au dine hela
+13/10/22, 6:16 pm - #çhäñdáñ...: Hm ma bhala laguni
+13/10/22, 6:16 pm - #çhäñdáñ...: Jama
+13/10/22, 6:17 pm - Home Minister 😎: Oho
+13/10/22, 6:17 pm - #çhäñdáñ...: Hmm
+13/10/22, 6:17 pm - #çhäñdáñ...: Mu kn khaibi nai
+13/10/22, 6:17 pm - #çhäñdáñ...: Mu janichi
+13/10/22, 6:17 pm - #çhäñdáñ...: Tame kain tension naucha
+13/10/22, 6:17 pm - Home Minister 😎: Hau
+13/10/22, 6:18 pm - Home Minister 😎: Git gunpur re pagala Bhai pua padhuchi
+13/10/22, 6:18 pm - #çhäñdáñ...: Hau
+13/10/22, 10:59 pm - Home Minister 😎: Kn msg kari delete karichu
+13/10/22, 11:04 pm - #çhäñdáñ...: Na kichi nai
+13/10/22, 11:04 pm - Home Minister 😎: Hau soipada
+13/10/22, 11:04 pm - #çhäñdáñ...: Hmm
+13/10/22, 11:05 pm - Home Minister 😎: Class jibu kali kete ta re
+13/10/22, 11:05 pm - #çhäñdáñ...: 8
+13/10/22, 11:05 pm - Home Minister 😎: Hau
+13/10/22, 11:05 pm - Home Minister 😎: Soija
+13/10/22, 11:05 pm - #çhäñdáñ...: Hmm
+14/10/22, 2:34 pm - Home Minister 😎: 500 rupees patheichi
+14/10/22, 2:35 pm - Home Minister 😎: Check karinabu
+14/10/22, 3:13 pm - #çhäñdáñ...: Hmm
+14/10/22, 5:10 pm - #çhäñdáñ...: <Media omitted>
+14/10/22, 9:09 pm - Home Minister 😎: Order kalu na khaiba
+14/10/22, 9:18 pm - #çhäñdáñ...: Hm khaisarilunii
+14/10/22, 9:18 pm - #çhäñdáñ...: 400 deichi au
+14/10/22, 9:19 pm - Home Minister 😎: Biriyani khaila na
+14/10/22, 9:51 pm - #çhäñdáñ...: Hm
+14/10/22, 9:51 pm - #çhäñdáñ...: Mora biriyani
+14/10/22, 9:51 pm - #çhäñdáñ...: Semane kn sabu order karithile
+14/10/22, 9:51 pm - #çhäñdáñ...: 5 jana order kalu 700
+14/10/22, 9:51 pm - #çhäñdáñ...: Mu 400 deli
+14/10/22, 9:52 pm - #çhäñdáñ...: Se 4 jana 300
+14/10/22, 9:52 pm - #çhäñdáñ...: Badal mu Priyanshu swastik anshuman
+15/10/22, 2:54 pm - Home Minister 😎: Khaiki asiluni na
+15/10/22, 2:54 pm - #çhäñdáñ...: Hn
+15/10/22, 2:55 pm - Home Minister 😎: Garam hauchi Ki
+15/10/22, 2:55 pm - Home Minister 😎: Kn aji khaiba
+15/10/22, 2:55 pm - #çhäñdáñ...: Na
+15/10/22, 2:56 pm - Home Minister 😎: Soyastik anibu kahuthilu neiasibu
+15/10/22, 2:57 pm - Home Minister 😎: Aji veg khailu na
+15/10/22, 2:58 pm - #çhäñdáñ...: Hm
+15/10/22, 2:59 pm - Home Minister 😎: Kandia ghara sabu bhada Neiki rahuchanti
+15/10/22, 3:00 pm - Home Minister 😎: Chhaka re
+15/10/22, 3:00 pm - Home Minister 😎: Pua paisa re led sofa emiti kete kn anichhanti
+15/10/22, 3:02 pm - Home Minister 😎: <Media omitted>
+15/10/22, 7:32 pm - Home Minister 😎: Kn karuchhu
+15/10/22, 7:33 pm - Home Minister 😎: Evening re khaichu na kichhi
+15/10/22, 10:02 pm - Home Minister 😎: Hmm hoigala
+16/10/22, 6:06 pm - #çhäñdáñ...: Deal of the day: boAt Bassheads 242 in Ear Wired Earphones with Mic(Blue) https://amzn.eu/d/95tplWH
+17/10/22, 6:30 pm - Home Minister 😎: Bapa kn karuchhu
+17/10/22, 7:06 pm - #çhäñdáñ...: Soki uthili
+17/10/22, 7:24 pm - Home Minister 😎: Hau
+17/10/22, 7:31 pm - #çhäñdáñ...: Hn
+17/10/22, 10:52 pm - #çhäñdáñ...: <Media omitted>
+17/10/22, 10:54 pm - Home Minister 😎: <Media omitted>
+17/10/22, 10:54 pm - Home Minister 😎: <Media omitted>
+19/10/22, 4:26 pm - Home Minister 😎: Kn karuchhu
+19/10/22, 4:48 pm - #çhäñdáñ...: Asili class ru
+19/10/22, 4:49 pm - #çhäñdáñ...: 5 30 re movie achi
+19/10/22, 4:49 pm - #çhäñdáñ...: Cinemax
+22/10/22, 8:11 pm - Home Minister 😎: Kn karuchhu
+22/10/22, 8:11 pm - Home Minister 😎: Khailuni na
+22/10/22, 8:50 pm - #çhäñdáñ...: Hn
+22/10/22, 9:00 pm - Home Minister 😎: Ruti khaichu na
+22/10/22, 9:01 pm - Home Minister 😎: Cake Kati sarilani Ki
+22/10/22, 9:03 pm - #çhäñdáñ...: Nop
+22/10/22, 9:03 pm - #çhäñdáñ...: Na
+22/10/22, 9:03 pm - #çhäñdáñ...: Biryani
+22/10/22, 9:04 pm - Home Minister 😎: Hau
+22/10/22, 9:04 pm - Home Minister 😎: Kn lo
+22/10/22, 9:10 pm - #çhäñdáñ...: Mane na
+23/10/22, 12:14 pm - Home Minister 😎: Galu na
+23/10/22, 12:21 pm - #çhäñdáñ...: Na jiba au
+23/10/22, 12:51 pm - Home Minister 😎: Hau
+23/10/22, 6:57 pm - #çhäñdáñ...: <Media omitted>
+23/10/22, 6:57 pm - #çhäñdáñ...: <Media omitted>
+23/10/22, 6:57 pm - #çhäñdáñ...: <Media omitted>
+23/10/22, 6:57 pm - #çhäñdáñ...: <Media omitted>
+23/10/22, 6:57 pm - #çhäñdáñ...: <Media omitted>
+23/10/22, 6:57 pm - #çhäñdáñ...: <Media omitted>
+23/10/22, 6:57 pm - #çhäñdáñ...: <Media omitted>
+23/10/22, 6:57 pm - #çhäñdáñ...: <Media omitted>
+23/10/22, 6:57 pm - #çhäñdáñ...: <Media omitted>
+23/10/22, 6:57 pm - #çhäñdáñ...: <Media omitted>
+23/10/22, 6:57 pm - #çhäñdáñ...: <Media omitted>
+23/10/22, 7:01 pm - Home Minister 😎: Kauti Lo
+23/10/22, 7:01 pm - #çhäñdáñ...: Jaithilu jou khaibaku
+23/10/22, 7:01 pm - #çhäñdáñ...: Seithi pa
+23/10/22, 7:02 pm - Home Minister 😎: Oho
+23/10/22, 7:02 pm - #çhäñdáñ...: Hmm
+23/10/22, 7:02 pm - #çhäñdáñ...: 4500 re 8 jana khailu
+23/10/22, 7:02 pm - Home Minister 😎: Rati pari laguchi
+23/10/22, 7:02 pm - #çhäñdáñ...: Hn taa bhitara pa
+23/10/22, 7:02 pm - Home Minister 😎: Kn sabu khaila
+23/10/22, 7:03 pm - #çhäñdáñ...: Chilli baby corn
+23/10/22, 7:03 pm - #çhäñdáñ...: Chilli paneer
+23/10/22, 7:03 pm - #çhäñdáñ...: Boneless chilli chicken
+23/10/22, 7:03 pm - Home Minister 😎: Tst ta name bodhe
+23/10/22, 7:03 pm - #çhäñdáñ...: Chicken fried rice
+23/10/22, 7:03 pm - #çhäñdáñ...: Butter chicken
+23/10/22, 7:03 pm - #çhäñdáñ...: Nan
+23/10/22, 7:04 pm - #çhäñdáñ...: Desert
+23/10/22, 7:04 pm - Home Minister 😎: Au rati re khaibu na
+23/10/22, 7:04 pm - #çhäñdáñ...: Na
+23/10/22, 7:05 pm - Home Minister 😎: Tft ta name bodhe
+23/10/22, 7:05 pm - #çhäñdáñ...: Hn
+23/10/22, 7:06 pm - Home Minister 😎: Badal jaini Ki
+23/10/22, 7:07 pm - #çhäñdáñ...: Taa mandu asithila se jaithila dekha karibaku
+23/10/22, 7:07 pm - Home Minister 😎: Hau
+23/10/22, 7:07 pm - #çhäñdáñ...: Hmm
+23/10/22, 7:07 pm - Home Minister 😎: Kn Priyanshu Katha kahuthilu
+23/10/22, 7:08 pm - #çhäñdáñ...: Hm kahibi pare
+23/10/22, 7:09 pm - Home Minister 😎: Hau
+23/10/22, 7:12 pm - Home Minister 😎: Kaha shoe gote pindhiki jaichu
+23/10/22, 7:13 pm - #çhäñdáñ...: Badal
+23/10/22, 7:13 pm - Home Minister 😎: Kahili gote jota nabaku suniluni magiki pindhuchu bhal laguchi
+23/10/22, 7:14 pm - #çhäñdáñ...: Eii tame ete katha chinta karani
+23/10/22, 7:14 pm - Home Minister 😎: Earbot ta pare anithantu
+23/10/22, 7:14 pm - Home Minister 😎: Mote bhal laguchi na emiti dekhibaku
+23/10/22, 7:15 pm - #çhäñdáñ...: Ki katha
+23/10/22, 7:15 pm - #çhäñdáñ...: Mo earbud se magiki neithila
+23/10/22, 7:15 pm - Home Minister 😎: Winter season asilani gote jota anibu
+23/10/22, 7:15 pm - Home Minister 😎: Hela
+23/10/22, 7:16 pm - #çhäñdáñ...: Hm dekhia
+23/10/22, 7:17 pm - Home Minister 😎: Janichu na radha padhuchi cvraman re
+23/10/22, 7:17 pm - #çhäñdáñ...: Hauu
+23/10/22, 7:17 pm - Home Minister 😎: Kn kahibu
+23/10/22, 7:18 pm - Home Minister 😎: Pura khata ta se puni degree karuchi
+23/10/22, 7:18 pm - #çhäñdáñ...: Hau
+24/10/22, 10:42 am - #çhäñdáñ...: <Media omitted>
+24/10/22, 10:44 am - #çhäñdáñ...: <Media omitted>
+24/10/22, 1:40 pm - Home Minister 😎: <Media omitted>
+24/10/22, 3:10 pm - Home Minister 😎: Hela na
+24/10/22, 3:11 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 3:14 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 3:16 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 3:18 pm - Home Minister 😎: <Media omitted>
+24/10/22, 3:18 pm - Home Minister 😎: Eita bhala laguchi
+24/10/22, 3:19 pm - #çhäñdáñ...: 8 size ra achi eita
+24/10/22, 3:19 pm - #çhäñdáñ...: Mora 9
+24/10/22, 3:20 pm - Home Minister 😎: <Media omitted>
+24/10/22, 3:21 pm - #çhäñdáñ...: White ra dekhe
+24/10/22, 3:22 pm - Home Minister 😎: Hau hau
+24/10/22, 3:48 pm - #çhäñdáñ...: It
+24/10/22, 3:50 pm - Home Minister 😎: Kete price
+24/10/22, 3:52 pm - Home Minister 😎: <Media omitted>
+24/10/22, 3:53 pm - #çhäñdáñ...: Abe payment
+24/10/22, 3:53 pm - Home Minister 😎: <Media omitted>
+24/10/22, 3:53 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 3:54 pm - Home Minister 😎: <Media omitted>
+24/10/22, 4:21 pm - Home Minister 😎: <Media omitted>
+24/10/22, 4:22 pm - #çhäñdáñ...: Kn jordan
+24/10/22, 4:22 pm - #çhäñdáñ...: 😆
+24/10/22, 4:22 pm - Home Minister 😎: 61000 ru eka thare 500
+24/10/22, 4:23 pm - #çhäñdáñ...: 😂
+24/10/22, 4:23 pm - Home Minister 😎: Mu eita order karibi
+24/10/22, 4:23 pm - #çhäñdáñ...: Hau
+24/10/22, 4:23 pm - Home Minister 😎: Samastanku kahibini 61000 rupees
+24/10/22, 4:23 pm - #çhäñdáñ...: Hmm
+24/10/22, 4:24 pm - #çhäñdáñ...: Celebrity mane pindhanti
+24/10/22, 4:24 pm - Home Minister 😎: Mu paa gote bada celebrity
+24/10/22, 4:25 pm - #çhäñdáñ...: Hm hm
+24/10/22, 4:25 pm - Home Minister 😎: 😁😁😂😂😂
+24/10/22, 4:25 pm - #çhäñdáñ...: 😂
+24/10/22, 6:39 pm - Home Minister 😎: Kn karuchhu
+24/10/22, 7:35 pm - #çhäñdáñ...: Bahare achi pa
+24/10/22, 7:35 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 7:35 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 7:45 pm - Home Minister 😎: Ta photo pathani
+24/10/22, 7:50 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 7:51 pm - Home Minister 😎: 👌👌👌
+24/10/22, 7:52 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 7:52 pm - #çhäñdáñ...: Saru mu debi
+24/10/22, 7:55 pm - Home Minister 😎: Hau
+24/10/22, 7:55 pm - #çhäñdáñ...: Hmm
+24/10/22, 7:56 pm - Home Minister 😎: Prgm ketebele start heba
+24/10/22, 7:56 pm - #çhäñdáñ...: 8
+24/10/22, 7:56 pm - Home Minister 😎: Hau
+24/10/22, 7:57 pm - Home Minister 😎: Room ku asile call karibu
+24/10/22, 7:57 pm - Home Minister 😎: Photo patheibu
+24/10/22, 7:57 pm - #çhäñdáñ...: Hmmm
+24/10/22, 9:55 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 9:55 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 9:55 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 9:55 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 9:55 pm - #çhäñdáñ...: <Media omitted>
+24/10/22, 10:37 pm - #çhäñdáñ...: Tk rani ra getup ta dekha
+24/10/22, 10:38 pm - #çhäñdáñ...: Mama dei status rakhichi
+24/10/22, 10:39 pm - Home Minister 😎: Hmm dekhichi
+24/10/22, 10:40 pm - #çhäñdáñ...: Hmm
+25/10/22, 8:51 am - Home Minister 😎: Photo patheichi na pathani
+25/10/22, 8:51 am - #çhäñdáñ...: Hmm
+25/10/22, 8:51 am - #çhäñdáñ...: Patheichi
+25/10/22, 8:52 am - Home Minister 😎: Send karani
+25/10/22, 8:53 am - #çhäñdáñ...: <Media omitted>
+25/10/22, 8:53 am - #çhäñdáñ...: <Media omitted>
+25/10/22, 8:53 am - #çhäñdáñ...: <Media omitted>
+25/10/22, 8:53 am - #çhäñdáñ...: <Media omitted>
+25/10/22, 8:53 am - #çhäñdáñ...: <Media omitted>
+25/10/22, 8:53 am - #çhäñdáñ...: <Media omitted>
+25/10/22, 8:53 am - #çhäñdáñ...: <Media omitted>
+25/10/22, 8:53 am - #çhäñdáñ...: <Media omitted>
+25/10/22, 8:53 am - #çhäñdáñ...: <Media omitted>
+25/10/22, 8:56 am - Home Minister 😎: Ta bhauni bahut mota heigalani
+25/10/22, 8:56 am - #çhäñdáñ...: Hmm
+25/10/22, 9:58 pm - Home Minister 😎: <Media omitted>
+25/10/22, 9:58 pm - Home Minister 😎: <Media omitted>
+26/10/22, 8:05 pm - Home Minister 😎: Missed video call
+26/10/22, 10:08 pm - Home Minister 😎: Missed video call
+26/10/22, 11:13 pm - Home Minister 😎: Phone kali utheiluni.
+26/10/22, 11:14 pm - Home Minister 😎: Uthile msg kari debu
+27/10/22, 6:18 am - #çhäñdáñ...: Hm mama uthili
+27/10/22, 4:45 pm - #çhäñdáñ...: <Media omitted>
+27/10/22, 4:54 pm - Home Minister 😎: <Media omitted>
+27/10/22, 4:54 pm - Home Minister 😎: <Media omitted>
+27/10/22, 4:57 pm - Home Minister 😎: Thau cancel karana
+27/10/22, 6:03 pm - Home Minister 😎: Missed video call
+27/10/22, 10:00 pm - #çhäñdáñ...: Take a look at this DUCATI Casuals For Men on Flipkart
+https://dl.flipkart.com/dl/ducati-casuals-men/p/itma3ac259de92a7?pid=SHOGCGY9SH8R2HTA&cmpid=product.share.pp&_refId=PP.18f02f45-09e0-4cd0-95d1-961a7047a3ee.SHOGCGY9SH8R2HTA&_appId=WA
+28/10/22, 5:34 pm - Home Minister 😎: Phone uthaunu kanhiki
+28/10/22, 5:35 pm - Home Minister 😎: Soichu Ki
+29/10/22, 3:35 pm - Home Minister 😎: Asile msg karidabu
+29/10/22, 4:31 pm - Home Minister 😎: Pahanchi galu na sahid nagar re
+29/10/22, 8:12 pm - #çhäñdáñ...: <Media omitted>
+30/10/22, 11:30 am - #çhäñdáñ...: <Media omitted>
+30/10/22, 6:21 pm - Home Minister 😎: Kn karuchhu
+01/11/22, 8:15 am - Home Minister 😎: <Media omitted>
+01/11/22, 8:34 am - #çhäñdáñ...: <Media omitted>
+01/11/22, 8:34 am - #çhäñdáñ...: <Media omitted>
+01/11/22, 8:34 am - #çhäñdáñ...: <Media omitted>
+01/11/22, 8:34 am - #çhäñdáñ...: <Media omitted>
+02/11/22, 9:17 am - Home Minister 😎: Jaichu na class
+02/11/22, 10:14 am - #çhäñdáñ...: Hmm
+03/11/22, 9:09 am - Home Minister 😎: Bapa class re achhu na
+03/11/22, 9:09 am - #çhäñdáñ...: Na
+03/11/22, 9:09 am - #çhäñdáñ...: Room re
+03/11/22, 9:09 am - Home Minister 😎: <Media omitted>
+03/11/22, 9:09 am - #çhäñdáñ...: Na
+03/11/22, 9:09 am - #çhäñdáñ...: First class karini
+03/11/22, 7:43 pm - Home Minister 😎: Kn karuchhu
+03/11/22, 7:43 pm - #çhäñdáñ...: Soithili tk aau
+03/11/22, 7:44 pm - Home Minister 😎: Deha bhal nahi Ki
+03/11/22, 7:44 pm - #çhäñdáñ...: Hmmm se munda bindhuchi tk
+03/11/22, 7:44 pm - Home Minister 😎: Khaichu na
+03/11/22, 7:44 pm - #çhäñdáñ...: Hmm
+03/11/22, 7:45 pm - Home Minister 😎: Gas heijaichi Ki
+03/11/22, 7:45 pm - #çhäñdáñ...: Hm bodhe
+03/11/22, 7:45 pm - Home Minister 😎: Tablet gote khaine
+03/11/22, 7:45 pm - Home Minister 😎: Bhal lagiba
+03/11/22, 7:45 pm - #çhäñdáñ...: He na bhala heijiba
+03/11/22, 7:46 pm - Home Minister 😎: Lunch khaithilu na
+03/11/22, 7:46 pm - #çhäñdáñ...: Hmm
+03/11/22, 7:46 pm - #çhäñdáñ...: Fried rice heithila
+03/11/22, 7:46 pm - #çhäñdáñ...: Au payes
+03/11/22, 7:46 pm - #çhäñdáñ...: Khaithili
+03/11/22, 7:47 pm - Home Minister 😎: Hau rati re khaibu
+03/11/22, 7:47 pm - Home Minister 😎: Ruti
+03/11/22, 7:47 pm - #çhäñdáñ...: Hmm
+03/11/22, 7:47 pm - #çhäñdáñ...: Hn
+03/11/22, 7:47 pm - Home Minister 😎: Khaiki asi call karibu
+03/11/22, 7:47 pm - #çhäñdáñ...: Hb
+03/11/22, 7:47 pm - #çhäñdáñ...: Hn
+03/11/22, 7:47 pm - Home Minister 😎: Hau
+03/11/22, 7:48 pm - #çhäñdáñ...: Hn
+04/11/22, 12:20 pm - #çhäñdáñ...: <Media omitted>
+04/11/22, 12:43 pm - Home Minister 😎: Khaiki galuni na
+04/11/22, 12:45 pm - #çhäñdáñ...: Hmm
+04/11/22, 12:45 pm - #çhäñdáñ...: Class re
+04/11/22, 5:37 pm - #çhäñdáñ...: <Media omitted>
+04/11/22, 6:04 pm - Home Minister 😎: <Media omitted>
+04/11/22, 6:45 pm - Home Minister 😎: <Media omitted>
+04/11/22, 6:45 pm - Home Minister 😎: <Media omitted>
+04/11/22, 6:46 pm - Home Minister 😎: This message was deleted
+04/11/22, 6:52 pm - #çhäñdáñ...: Punii
+05/11/22, 12:11 pm - Home Minister 😎: Bapa recharge karideni
+05/11/22, 12:13 pm - #çhäñdáñ...: Dekha heigala na
+05/11/22, 12:17 pm - Home Minister 😎: Hmm
+05/11/22, 12:17 pm - #çhäñdáñ...: Ok
+05/11/22, 4:36 pm - Home Minister 😎: paisa gala na
+05/11/22, 4:48 pm - #çhäñdáñ...: <Media omitted>
+05/11/22, 5:22 pm - Home Minister 😎: <Media omitted>
+05/11/22, 8:00 pm - Home Minister 😎: Kn karuchhu
+05/11/22, 8:00 pm - Home Minister 😎: Feriluni na room ku
+05/11/22, 8:02 pm - #çhäñdáñ...: Hm pahanchiki luga safa kariki asili
+05/11/22, 8:03 pm - Home Minister 😎: Hau
+05/11/22, 8:03 pm - #çhäñdáñ...: Hn
+05/11/22, 8:03 pm - Home Minister 😎: Khainabu jaiki
+05/11/22, 8:03 pm - #çhäñdáñ...: <Media omitted>
+05/11/22, 8:03 pm - #çhäñdáñ...: Hmm
+05/11/22, 8:03 pm - Home Minister 😎: Evening re khaichu na kichhi
+05/11/22, 8:04 pm - #çhäñdáñ...: Na kichi khainu
+05/11/22, 8:04 pm - Home Minister 😎: Ki
+05/11/22, 8:04 pm - #çhäñdáñ...: He time helani
+05/11/22, 8:05 pm - #çhäñdáñ...: 5201/- ra total shoping heichi aji
+05/11/22, 8:05 pm - #çhäñdáñ...: Mu au gote socks anichi
+05/11/22, 8:05 pm - #çhäñdáñ...: 70 tanka nela
+05/11/22, 8:05 pm - Home Minister 😎: Hau
+05/11/22, 8:05 pm - #çhäñdáñ...: Jiba asiba 30
+05/11/22, 8:06 pm - Home Minister 😎: Bhala karichu
+05/11/22, 8:06 pm - Home Minister 😎: Thanda re socks pindhibu
+05/11/22, 8:06 pm - #çhäñdáñ...: Hmm
+05/11/22, 8:08 pm - Home Minister 😎: T-shirt sangare paint pindhiki full photo utheile bhal lagiba
+05/11/22, 8:08 pm - #çhäñdáñ...: N
+05/11/22, 8:08 pm - #çhäñdáñ...: Hmm
+05/11/22, 8:08 pm - Home Minister 😎: Hau
+05/11/22, 8:09 pm - #çhäñdáñ...: Hmm
+06/11/22, 9:12 am - Home Minister 😎: Gelha ra admit card ta dekhibu ta asilani Ki
+06/11/22, 5:31 pm - Home Minister 😎: Kn piuthilu kahilu au thare
+06/11/22, 5:32 pm - #çhäñdáñ...: Mocktail
+06/11/22, 5:32 pm - Home Minister 😎: Seta kn
+06/11/22, 5:33 pm - #çhäñdáñ...: Seita pudina flavour add heiki sprite
+06/11/22, 5:33 pm - Home Minister 😎: Oho
+06/11/22, 5:33 pm - #çhäñdáñ...: Auu blue colour add hue
+06/11/22, 5:33 pm - #çhäñdáñ...: Mo stts dekhuna
+06/11/22, 5:33 pm - Home Minister 😎: Tu feriluni na
+06/11/22, 5:34 pm - #çhäñdáñ...: Hmmm room re
+06/11/22, 5:34 pm - Home Minister 😎: Kn
+06/11/22, 5:34 pm - #çhäñdáñ...: Status
+06/11/22, 5:34 pm - Home Minister 😎: Hau gulak kaka kali jibe
+06/11/22, 5:35 pm - #çhäñdáñ...: Hau
+06/11/22, 5:35 pm - #çhäñdáñ...: Admission pain
+06/11/22, 5:35 pm - #çhäñdáñ...: ?
+06/11/22, 5:35 pm - Home Minister 😎: Hmm
+06/11/22, 5:35 pm - #çhäñdáñ...: Hau
+06/11/22, 5:35 pm - Home Minister 😎: Kete price
+06/11/22, 5:36 pm - #çhäñdáñ...: 89/-
+06/11/22, 5:36 pm - Home Minister 😎: Oh God
+06/11/22, 5:37 pm - Home Minister 😎: Gote biriyani heijiba
+06/11/22, 5:37 pm - #çhäñdáñ...: Hm 😂
+06/11/22, 5:37 pm - Home Minister 😎: Mko re
+06/11/22, 5:38 pm - #çhäñdáñ...: Hm
+06/11/22, 6:15 pm - Home Minister 😎: 9437727951 eita gulaka kaka number save karide
+06/11/22, 6:16 pm - Home Minister 😎: Kali call kari swettar neijibu
+06/11/22, 6:16 pm - #çhäñdáñ...: Hmm
+07/11/22, 7:33 pm - Home Minister 😎: Kn karuchhu
+07/11/22, 7:33 pm - #çhäñdáñ...: Basichi au
+07/11/22, 7:34 pm - Home Minister 😎: Patha padha nahi Ki
+07/11/22, 7:34 pm - #çhäñdáñ...: Na
+07/11/22, 7:34 pm - Home Minister 😎: Khailu na evening re
+07/11/22, 7:35 pm - #çhäñdáñ...: Bread chop 2 ta
+07/11/22, 7:35 pm - Home Minister 😎: Hau
+07/11/22, 7:35 pm - Home Minister 😎: Rati re time re khainebu
+07/11/22, 7:35 pm - #çhäñdáñ...: Hmm
+09/11/22, 8:47 am - Home Minister 😎: Bapa class jaichu na
+09/11/22, 10:19 am - #çhäñdáñ...: Hmm
+09/11/22, 12:50 pm - Home Minister 😎: Bhal laguchi na deha tike
+09/11/22, 3:29 pm - #çhäñdáñ...: Hm soithili abe uthili
+09/11/22, 3:29 pm - #çhäñdáñ...: Tk bhala laguchi
+09/11/22, 10:08 pm - Home Minister 😎: bapa mu 1000 rupees patheichi
+09/11/22, 11:40 pm - #çhäñdáñ...: Hn
+10/11/22, 6:28 am - Home Minister 😎: Bapa uthiluni
+10/11/22, 6:32 am - Home Minister 😎: Uthile call karibu
+10/11/22, 8:53 am - Home Minister 😎: Khailu na
+10/11/22, 8:53 am - #çhäñdáñ...: Hmm
+10/11/22, 8:53 am - #çhäñdáñ...: Upama heithila
+10/11/22, 8:54 am - #çhäñdáñ...: Khaiki medicine khaichi au
+10/11/22, 8:54 am - Home Minister 😎: Medicine khailu
+10/11/22, 8:54 am - Home Minister 😎: Hau
+10/11/22, 8:54 am - #çhäñdáñ...: Hn
+10/11/22, 11:11 am - Home Minister 😎: Bapa au jara asini ta
+10/11/22, 11:44 am - #çhäñdáñ...: Na
+10/11/22, 11:44 am - #çhäñdáñ...: Jara nahi au
+10/11/22, 11:44 am - #çhäñdáñ...: Khali kasa tk tk hauchi
+10/11/22, 11:45 am - Home Minister 😎: Hau
+10/11/22, 4:29 pm - Home Minister 😎: Au jara achhi na
+10/11/22, 4:29 pm - #çhäñdáñ...: Naa
+10/11/22, 4:29 pm - Home Minister 😎: Hau
+10/11/22, 4:31 pm - Home Minister 😎: Kn karuchhu
+10/11/22, 4:31 pm - #çhäñdáñ...: Ei basichi
+10/11/22, 4:31 pm - #çhäñdáñ...: Pura kameidela temperature
+10/11/22, 4:32 pm - #çhäñdáñ...: Na khaithile atebelaku abasta kharap heisarantani
+10/11/22, 4:32 pm - Home Minister 😎: Hmm
+10/11/22, 4:32 pm - #çhäñdáñ...: Hmm
+10/11/22, 4:33 pm - Home Minister 😎: Kn karibu Pura Tensionlaguchi
+10/11/22, 4:33 pm - #çhäñdáñ...: Kahinki tension naucha tame
+10/11/22, 4:33 pm - Home Minister 😎: Tate jibara achhi na
+10/11/22, 4:34 pm - #çhäñdáñ...: Are ahuri 2 dina rahilani
+10/11/22, 4:34 pm - #çhäñdáñ...: Byasta kain haucha
+10/11/22, 4:34 pm - Home Minister 😎: Nahele ta gharaku paleiasi thantu
+10/11/22, 4:34 pm - #çhäñdáñ...: He na ma
+10/11/22, 4:34 pm - #çhäñdáñ...: Ate b deha kharap heini
+10/11/22, 4:35 pm - Home Minister 😎: Hau
+10/11/22, 4:35 pm - Home Minister 😎: Mobile ku besi chanhana munda bindhiba
+10/11/22, 4:36 pm - #çhäñdáñ...: Hm hm
+10/11/22, 4:36 pm - #çhäñdáñ...: Tame ate tension niani
+10/11/22, 7:35 pm - Home Minister 😎: Khailu na bread
+10/11/22, 7:35 pm - #çhäñdáñ...: Hn
+10/11/22, 7:35 pm - #çhäñdáñ...: Khaichi
+10/11/22, 7:35 pm - Home Minister 😎: Hau
+10/11/22, 7:35 pm - #çhäñdáñ...: Hmm
+10/11/22, 7:36 pm - Home Minister 😎: Ruti khaibaku jibu
+10/11/22, 7:36 pm - #çhäñdáñ...: Hmm
+10/11/22, 7:36 pm - Home Minister 😎: Seitu tike luna neiasibu
+10/11/22, 7:36 pm - #çhäñdáñ...: Hm
+10/11/22, 7:37 pm - Home Minister 😎: Deha bhal laguchi na
+10/11/22, 7:39 pm - #çhäñdáñ...: Hmm
+10/11/22, 8:57 pm - Home Minister 😎: Khaiki medicine khailu na
+10/11/22, 9:38 pm - Home Minister 😎: Paracetamol ta late re khaibu
+10/11/22, 10:10 pm - Home Minister 😎: Baba call karithile uthaunu kanhiki
+11/11/22, 8:15 am - Home Minister 😎: Class jaichu na
+11/11/22, 8:16 am - Home Minister 😎: Ta deha kemiti achhi call karibu
+11/11/22, 11:33 am - Home Minister 😎: Baba khailu na lo
+11/11/22, 11:49 am - #çhäñdáñ...: Hm khaiki medicine khai ki class karuchi
+11/11/22, 12:23 pm - Home Minister 😎: Hau thik achhi
+11/11/22, 5:23 pm - Home Minister 😎: Heigala na paisa
+11/11/22, 5:24 pm - #çhäñdáñ...: Heiki balilaa
+11/11/22, 5:24 pm - Home Minister 😎: Hau
+11/11/22, 5:24 pm - #çhäñdáñ...: Hmm
+11/11/22, 7:45 pm - Home Minister 😎: Golak kaka baba nku phone kari ta number magile. So baba jaithile Ta pakhaku.
+11/11/22, 7:46 pm - Home Minister 😎: Se kahile kali chinu gale tu mana karibu kichhi kariparibuni boli.
+11/11/22, 7:46 pm - #çhäñdáñ...: Hmm
+11/11/22, 7:46 pm - Home Minister 😎: Hela
+11/11/22, 7:46 pm - #çhäñdáñ...: Hmm
+11/11/22, 7:47 pm - Home Minister 😎: Sie bi kahiki asichhanti seat fill-up hoijaichi
+11/11/22, 7:47 pm - #çhäñdáñ...: Hmm
+11/11/22, 7:48 pm - Home Minister 😎: Hau
+11/11/22, 7:50 pm - #çhäñdáñ...: Hmm
+12/11/22, 2:17 pm - Home Minister 😎: Kn karuchhu
+12/11/22, 3:03 pm - #çhäñdáñ...: Fresher chalichi
+12/11/22, 3:20 pm - Home Minister 😎: Chinu dekha hela na
+12/11/22, 4:10 pm - Home Minister 😎: Video pathani
+12/11/22, 4:12 pm - #çhäñdáñ...: <Media omitted>
+12/11/22, 4:19 pm - Home Minister 😎: Swastik dance patheibu ta
+12/11/22, 7:35 pm - Home Minister 😎: Baba medicine khaiki ja room ru
+12/11/22, 7:39 pm - #çhäñdáñ...: Hm hm
+12/11/22, 7:39 pm - Home Minister 😎: Hau
+12/11/22, 8:08 pm - Home Minister 😎: baharigalani na
+12/11/22, 8:24 pm - #çhäñdáñ...: Hmm
+12/11/22, 8:24 pm - #çhäñdáñ...: Basilu bus re
+12/11/22, 8:24 pm - Home Minister 😎: Hau
+12/11/22, 8:24 pm - #çhäñdáñ...: Hmm
+12/11/22, 8:24 pm - #çhäñdáñ...: Tame kn karucha
+12/11/22, 8:24 pm - Home Minister 😎: Basichi
+12/11/22, 8:25 pm - #çhäñdáñ...: Gelu padhuchi
+12/11/22, 8:25 pm - Home Minister 😎: Hmm
+12/11/22, 8:25 pm - Home Minister 😎: Cap lageichu na
+12/11/22, 8:26 pm - #çhäñdáñ...: <Media omitted>
+12/11/22, 8:26 pm - #çhäñdáñ...: <Media omitted>
+12/11/22, 9:50 pm - Home Minister 😎: Train re basilani na
+12/11/22, 9:56 pm - #çhäñdáñ...: Hela aau khali formal shoe te darkar taa pare ta jaliba pura au
+12/11/22, 9:56 pm - Home Minister 😎: Tu basilu na seat re
+12/11/22, 9:57 pm - #çhäñdáñ...: He na
+12/11/22, 9:57 pm - #çhäñdáñ...: Train late achi station re
+12/11/22, 10:10 pm - #çhäñdáñ...: <Media omitted>
+12/11/22, 11:01 pm - Home Minister 😎: Chhadilani na train
+12/11/22, 11:05 pm - #çhäñdáñ...: Where is my train re
+12/11/22, 11:05 pm - #çhäñdáñ...: Search karanti jou
+12/11/22, 11:05 pm - #çhäñdáñ...: Seithi search karidia
+12/11/22, 11:05 pm - Home Minister 😎: Hmm
+12/11/22, 11:06 pm - Home Minister 😎: Kn train ta naa kahunu
+12/11/22, 11:06 pm - #çhäñdáñ...: 18118
+12/11/22, 11:07 pm - #çhäñdáñ...: Train number
+12/11/22, 11:07 pm - Home Minister 😎: What is train name
+12/11/22, 11:08 pm - #çhäñdáñ...: Number search kara
+12/11/22, 11:08 pm - #çhäñdáñ...: Asijiba
+12/11/22, 11:08 pm - #çhäñdáñ...: 18118
+12/11/22, 11:09 pm - #çhäñdáñ...: Naheele search kara
+12/11/22, 11:10 pm - Home Minister 😎: Hmm paichi
+12/11/22, 11:10 pm - #çhäñdáñ...: Kou thi kuhani
+12/11/22, 11:10 pm - #çhäñdáñ...: Dekhauchi
+12/11/22, 11:10 pm - Home Minister 😎: <Media omitted>
+12/11/22, 11:11 pm - #çhäñdáñ...: Hau
+12/11/22, 11:12 pm - Home Minister 😎: Ebe Cuttack pahanchila train
+12/11/22, 11:13 pm - Home Minister 😎: Rajyarani train hela
+12/11/22, 11:14 pm - #çhäñdáñ...: Exactly
+12/11/22, 11:14 pm - #çhäñdáñ...: Hela auu
+12/11/22, 11:14 pm - #çhäñdáñ...: Talented heigalani au
+12/11/22, 11:14 pm - Home Minister 😎: Hmm aau
+12/11/22, 11:14 pm - Home Minister 😎: Kaha jhia kahani
+12/11/22, 11:15 pm - Home Minister 😎: Hau tu suibuni
+12/11/22, 11:16 pm - Home Minister 😎: Gote seat re tu Priyanshu au kie achhi
+12/11/22, 11:16 pm - #çhäñdáñ...: Hau hau
+12/11/22, 11:16 pm - #çhäñdáñ...: Na
+12/11/22, 11:16 pm - #çhäñdáñ...: Priyansh ra mora samna samna
+12/11/22, 11:16 pm - #çhäñdáñ...: Priyansh upare mu
+12/11/22, 11:16 pm - #çhäñdáñ...: Sorry
+12/11/22, 11:16 pm - #çhäñdáñ...: Priyansh upare badal
+12/11/22, 11:17 pm - Home Minister 😎: 3 seated
+12/11/22, 11:17 pm - Home Minister 😎: Tora Pura upare na middle na tale
+12/11/22, 11:36 pm - #çhäñdáñ...: Middle
+12/11/22, 11:36 pm - #çhäñdáñ...: <Media omitted>
+12/11/22, 11:37 pm - Home Minister 😎: Mama dei ring ceremony 11 December
+12/11/22, 11:37 pm - #çhäñdáñ...: Hela au
+12/11/22, 11:37 pm - #çhäñdáñ...: Toka?
+12/11/22, 11:37 pm - Home Minister 😎: Sei
+12/11/22, 11:38 pm - #çhäñdáñ...: Basudev pur
+12/11/22, 11:38 pm - Home Minister 😎: Basudebpur ra bideipur
+12/11/22, 11:38 pm - Home Minister 😎: Sthiti ghara pakhare
+12/11/22, 11:38 pm - #çhäñdáñ...: Hau
+13/11/22, 4:48 am - Home Minister 😎: Baba Kn karuchhu
+13/11/22, 4:50 am - #çhäñdáñ...: Nida bhangila eina
+13/11/22, 4:50 am - Home Minister 😎: Soithilu na
+13/11/22, 4:50 am - #çhäñdáñ...: Hmm
+13/11/22, 4:51 am - Home Minister 😎: Ghudithilu na
+13/11/22, 5:01 am - #çhäñdáñ...: Hn
+13/11/22, 9:17 am - Home Minister 😎: Pahanchi gala na
+13/11/22, 10:03 am - Home Minister 😎: <Media omitted>
+13/11/22, 10:03 am - Home Minister 😎: <Media omitted>
+13/11/22, 12:54 pm - #çhäñdáñ...: <Media omitted>
+13/11/22, 3:23 pm - Home Minister 😎: Bapa khailu na
+13/11/22, 6:15 pm - #çhäñdáñ...: <Media omitted>
+13/11/22, 8:51 pm - Home Minister 😎: Khailuni na
+13/11/22, 8:51 pm - #çhäñdáñ...: Na
+13/11/22, 8:51 pm - #çhäñdáñ...: Jainu room
+13/11/22, 8:52 pm - #çhäñdáñ...: Jiba au
+13/11/22, 8:52 pm - #çhäñdáñ...: Khaiba au
+13/11/22, 8:52 pm - Home Minister 😎: Thanda padibani
+13/11/22, 8:52 pm - #çhäñdáñ...: Hmm
+13/11/22, 8:52 pm - Home Minister 😎: Jaiki rest nia
+13/11/22, 8:53 pm - #çhäñdáñ...: Hm tame tension tk kam nia
+13/11/22, 8:53 pm - #çhäñdáñ...: Chua chap ki sua
+13/11/22, 8:53 pm - Home Minister 😎: Deha kharap heba
+13/11/22, 8:53 pm - #çhäñdáñ...: Au kan haba
+13/11/22, 8:53 pm - #çhäñdáñ...: Heisarilani pa
+13/11/22, 8:53 pm - Home Minister 😎: Tora sabu bekar Katha
+13/11/22, 8:54 pm - #çhäñdáñ...: Hmm
+14/11/22, 11:25 am - Home Minister 😎: <Media omitted>
+14/11/22, 11:25 am - Home Minister 😎: <Media omitted>
+14/11/22, 11:26 am - Home Minister 😎: Mama dei ra husband
+14/11/22, 11:26 am - #çhäñdáñ...: Would be husband
+14/11/22, 11:26 am - Home Minister 😎: Hmm
+14/11/22, 11:26 am - Home Minister 😎: Bhal laguchi na
+14/11/22, 11:27 am - #çhäñdáñ...: Hmm
+14/11/22, 11:27 am - #çhäñdáñ...: Prastaba asithila ta tankara auu 😂
+14/11/22, 11:27 am - Home Minister 😎: <Media omitted>
+14/11/22, 11:27 am - Home Minister 😎: <Media omitted>
+14/11/22, 11:32 am - Home Minister 😎: Mama Dei status dekha
+14/11/22, 11:35 am - #çhäñdáñ...: Dekhichi
+14/11/22, 11:35 am - #çhäñdáñ...: Hau
+14/11/22, 8:36 pm - Home Minister 😎: Bahariluni na
+14/11/22, 8:36 pm - Home Minister 😎: Kauti ebe
+14/11/22, 10:15 pm - Home Minister 😎: Train re basilu na
+14/11/22, 10:22 pm - #çhäñdáñ...: Hmm
+14/11/22, 10:22 pm - #çhäñdáñ...: Train chhadilanu
+14/11/22, 10:22 pm - #çhäñdáñ...: i
+14/11/22, 10:22 pm - #çhäñdáñ...: Ketevelu
+14/11/22, 10:23 pm - Home Minister 😎: Ta number kaha
+14/11/22, 10:23 pm - #çhäñdáñ...: 18117
+14/11/22, 10:23 pm - Home Minister 😎: Hau
+14/11/22, 10:23 pm - #çhäñdáñ...: Hmm
+15/11/22, 11:26 am - #çhäñdáñ...: Total kharcha 513/-
+15/11/22, 11:27 am - #çhäñdáñ...: <Media omitted>
+15/11/22, 11:27 am - #çhäñdáñ...: Se 1240/-
+15/11/22, 11:27 am - #çhäñdáñ...: NIT kharcha 1753/-
+15/11/22, 3:24 pm - Home Minister 😎: Tate Mu kahithili na class re basiki list karibaku
+15/11/22, 3:24 pm - #çhäñdáñ...: Hn
+15/11/22, 3:26 pm - Home Minister 😎: Tate dauchi rahitha
+15/11/22, 3:27 pm - Home Minister 😎: Yoga class jibu na
+15/11/22, 3:27 pm - #çhäñdáñ...: Hmm
+15/11/22, 3:27 pm - #çhäñdáñ...: Jibi
+15/11/22, 3:28 pm - Home Minister 😎: Hau
+15/11/22, 3:28 pm - #çhäñdáñ...: Hn
+15/11/22, 6:24 pm - Home Minister 😎: Soichu Ki
+15/11/22, 9:04 pm - Home Minister 😎: Missed video call
+16/11/22, 5:59 am - Home Minister 😎: Nua ganji pindhiki photo send karibu. Tapare college jibu.
+16/11/22, 9:30 am - Home Minister 😎: Ta photo kanhi be bapa
+16/11/22, 10:11 am - #çhäñdáñ...: Mu uthili 8 : 6 re
+16/11/22, 10:11 am - #çhäñdáñ...: Doudichi tracks pindhiki
+16/11/22, 12:18 pm - Home Minister 😎: Missed video call
+16/11/22, 12:34 pm - Home Minister 😎: Kanhi be
+16/11/22, 12:34 pm - #çhäñdáñ...: <Media omitted>
+16/11/22, 12:34 pm - #çhäñdáñ...: <Media omitted>
+16/11/22, 12:34 pm - #çhäñdáñ...: <Media omitted>
+16/11/22, 12:35 pm - Home Minister 😎: 💓💓💓💓💓
+16/11/22, 12:36 pm - Home Minister 😎: Mo gelha ta
+17/11/22, 9:00 pm - Home Minister 😎: Kn karuchhu
+17/11/22, 9:00 pm - Home Minister 😎: Khailuni na
+17/11/22, 9:16 pm - #çhäñdáñ...: Jauchi khaibaku
+17/11/22, 9:52 pm - #çhäñdáñ...: Network paleila
+17/11/22, 9:53 pm - Home Minister 😎: Missed voice call
+17/11/22, 9:53 pm - Home Minister 😎: Missed video call
+18/11/22, 5:04 pm - Home Minister 😎: Class sari asiluni na
+18/11/22, 5:12 pm - #çhäñdáñ...: Hmm
+18/11/22, 5:44 pm - Home Minister 😎: call uthaunu kanhiki
+18/11/22, 8:07 pm - Home Minister 😎: <Media omitted>
+18/11/22, 8:46 pm - #çhäñdáñ...: Hmm
+19/11/22, 4:19 pm - #çhäñdáñ...: <Media omitted>
+19/11/22, 7:26 pm - Home Minister 😎: <Media omitted>
+19/11/22, 7:56 pm - #çhäñdáñ...: Hau
+20/11/22, 6:23 pm - Home Minister 😎: Priyanshu anila na medicine
+21/11/22, 1:12 pm - Home Minister 😎: Aji medicine neiasibu
+21/11/22, 1:30 pm - #çhäñdáñ...: Hmm
+21/11/22, 2:52 pm - #çhäñdáñ...: You deleted this message
+21/11/22, 4:29 pm - Home Minister 😎: Missed video call
+23/11/22, 8:04 am - Home Minister 😎: Class galuni na
+23/11/22, 8:07 am - #çhäñdáñ...: Hmm
+23/11/22, 8:07 am - Home Minister 😎: Hau
+23/11/22, 8:07 am - #çhäñdáñ...: Hmm
+23/11/22, 8:08 am - Home Minister 😎: Gelu baharuchi exam paini
+23/11/22, 8:08 am - #çhäñdáñ...: Hau
+23/11/22, 8:08 am - #çhäñdáñ...: All the very best
+23/11/22, 8:08 am - #çhäñdáñ...: 👍🏻
+23/11/22, 8:08 am - Home Minister 😎: Hau
+23/11/22, 8:08 am - #çhäñdáñ...: Hm
+23/11/22, 8:08 am - #çhäñdáñ...: Jau se
+23/11/22, 8:08 am - Home Minister 😎: Se asu exam ru call kariba
+23/11/22, 10:55 am - #çhäñdáñ...: Hm
+23/11/22, 10:55 am - Home Minister 😎: Mu asichi
+23/11/22, 10:55 am - Home Minister 😎: Maitapur
+23/11/22, 10:55 am - #çhäñdáñ...: Bhala karicha
+23/11/22, 10:55 am - Home Minister 😎: Hmm
+23/11/22, 10:55 am - #çhäñdáñ...: Hn
+23/11/22, 10:56 am - Home Minister 😎: Class sarilani
+23/11/22, 10:56 am - #çhäñdáñ...: Hn
+23/11/22, 10:56 am - #çhäñdáñ...: Biology class re achi
+23/11/22, 10:56 am - Home Minister 😎: Hau
+23/11/22, 10:56 am - #çhäñdáñ...: Hmm
+23/11/22, 11:47 am - Home Minister 😎: Missed video call
+24/11/22, 7:56 am - Home Minister 😎: Aji recipt re sign kari anibu
+24/11/22, 8:17 am - #çhäñdáñ...: Hmm
+24/11/22, 6:36 pm - Home Minister 😎: Kalu na ticket
+24/11/22, 7:11 pm - #çhäñdáñ...: Hmm
+24/11/22, 8:54 pm - Home Minister 😎: <Media omitted>
+24/11/22, 8:54 pm - Home Minister 😎: <Media omitted>
+24/11/22, 8:54 pm - Home Minister 😎: <Media omitted>
+25/11/22, 10:04 am - Home Minister 😎: Galu na class
+25/11/22, 10:17 am - #çhäñdáñ...: Hmm
+25/11/22, 2:11 pm - Home Minister 😎: Gelu ra exam kharap heichi
+25/11/22, 2:40 pm - #çhäñdáñ...: Ki la
+25/11/22, 2:47 pm - #çhäñdáñ...: Kn heichu
+25/11/22, 2:47 pm - #çhäñdáñ...: i
+25/11/22, 2:47 pm - #çhäñdáñ...: Kete ta bhul heichi ki
+25/11/22, 2:50 pm - Home Minister 😎: Lo time helani mcq paini
+25/11/22, 2:50 pm - Home Minister 😎: 11ta marichi doubt
+25/11/22, 2:51 pm - Home Minister 😎: Question bahut kasta
+25/11/22, 2:51 pm - Home Minister 😎: Mane lengthy thila
+25/11/22, 2:52 pm - Home Minister 😎: Subjective thik achhi
+25/11/22, 3:02 pm - #çhäñdáñ...: Hau
+25/11/22, 3:02 pm - #çhäñdáñ...: Doubt 11 t
+25/11/22, 3:02 pm - #çhäñdáñ...: Au kahara kharap heichi
+25/11/22, 3:02 pm - Home Minister 😎: Attempt neini
+25/11/22, 3:03 pm - #çhäñdáñ...: Marideichi na
+25/11/22, 3:03 pm - #çhäñdáñ...: Marini
+25/11/22, 3:03 pm - Home Minister 😎: Dhala ra 6
+25/11/22, 3:03 pm - Home Minister 😎: Hmm marichi
+25/11/22, 3:03 pm - #çhäñdáñ...: Hauu
+25/11/22, 3:03 pm - #çhäñdáñ...: Tara calculation tk slow
+25/11/22, 3:04 pm - #çhäñdáñ...: Se chhada
+25/11/22, 3:04 pm - Home Minister 😎: Hmm
+25/11/22, 3:04 pm - #çhäñdáñ...: Abe kuhani taku kichi
+25/11/22, 3:04 pm - #çhäñdáñ...: Next kn Achi
+25/11/22, 3:04 pm - Home Minister 😎: Se khali kanduchi
+25/11/22, 3:04 pm - #çhäñdáñ...: Kii
+25/11/22, 3:04 pm - Home Minister 😎: MIL
+25/11/22, 3:04 pm - Home Minister 😎: Kali
+25/11/22, 3:04 pm - #çhäñdáñ...: Kn eita ki parikhya ki
+25/11/22, 3:04 pm - #çhäñdáñ...: Kehi kehi pacharantini
+25/11/22, 3:05 pm - #çhäñdáñ...: Hau se padhu mil
+25/11/22, 3:05 pm - Home Minister 😎: Soichi
+25/11/22, 3:05 pm - #çhäñdáñ...: Mu jae katha hebi
+25/11/22, 3:05 pm - #çhäñdáñ...: Hau
+25/11/22, 3:05 pm - Home Minister 😎: Hau
+25/11/22, 3:05 pm - #çhäñdáñ...: Hmm
+25/11/22, 11:27 pm - Home Minister 😎: Gadi guda bed ru kholi dei tale kanhiki pakeicha
+25/11/22, 11:27 pm - #çhäñdáñ...: Film dekhuchu
+25/11/22, 11:27 pm - #çhäñdáñ...: Misiki
+25/11/22, 11:27 pm - #çhäñdáñ...: Sabu tale soibu aji
+25/11/22, 11:31 pm - Home Minister 😎: Oho
+25/11/22, 11:34 pm - #çhäñdáñ...: Hmm
+25/11/22, 11:34 pm - Home Minister 😎: Dance kala ni Ki
+25/11/22, 11:34 pm - #çhäñdáñ...: Kia
+25/11/22, 11:34 pm - Home Minister 😎: Sthiti
+25/11/22, 11:35 pm - #çhäñdáñ...: Hm karichi
+25/11/22, 11:35 pm - Home Minister 😎: Video pathani
+25/11/22, 11:35 pm - #çhäñdáñ...: You deleted this message
+25/11/22, 11:37 pm - #çhäñdáñ...: <Media omitted>
+26/11/22, 5:58 pm - Home Minister 😎: Kn karuchhu Lo
+26/11/22, 5:58 pm - #çhäñdáñ...: Basichi au
+26/11/22, 5:58 pm - Home Minister 😎: Aji Tike mu Khusi achhi
+26/11/22, 5:59 pm - #çhäñdáñ...: Kahinki ee
+26/11/22, 5:59 pm - Home Minister 😎: Gelu exam paini
+26/11/22, 5:59 pm - #çhäñdáñ...: Hau
+26/11/22, 5:59 pm - Home Minister 😎: MIL re bhala karichi
+26/11/22, 5:59 pm - Home Minister 😎: 95asijiba
+26/11/22, 5:59 pm - #çhäñdáñ...: Sei khusi re mote 100 tanka patheidia biriyani te khaidie 😂
+26/11/22, 6:00 pm - Home Minister 😎: Hmm
+26/11/22, 6:00 pm - #çhäñdáñ...: 🤣🤣
+26/11/22, 6:00 pm - Home Minister 😎: Tu sign kalu na
+26/11/22, 6:00 pm - #çhäñdáñ...: Hm printout achi
+26/11/22, 6:00 pm - #çhäñdáñ...: Monday re karidebi
+26/11/22, 6:01 pm - Home Minister 😎: Tate setiki karibaku time hauni na
+26/11/22, 6:01 pm - #çhäñdáñ...: Hm Monday sure
+26/11/22, 6:01 pm - Home Minister 😎: Puni paisa deposit bele bank dabani
+26/11/22, 6:01 pm - #çhäñdáñ...: Na na
+26/11/22, 6:01 pm - #çhäñdáñ...: Daba
+28/11/22, 6:32 pm - Home Minister 😎: Kn kahila mana
+28/11/22, 7:31 pm - #çhäñdáñ...: Kichi kahini
+28/11/22, 8:11 pm - Home Minister 😎: Hau
+28/11/22, 8:12 pm - #çhäñdáñ...: Hmm
+29/11/22, 10:54 am - #çhäñdáñ...: <Media omitted>
+29/11/22, 6:04 pm - Home Minister 😎: Kn karuchhu
+29/11/22, 6:05 pm - #çhäñdáñ...: Soithili tk
+29/11/22, 6:05 pm - Home Minister 😎: Deha bhala nahi Ki
+29/11/22, 6:06 pm - #çhäñdáñ...: Hm are emiti aau
+29/11/22, 6:06 pm - Home Minister 😎: Hau
+29/11/22, 6:06 pm - #çhäñdáñ...: Soiki kheluchiii
+29/11/22, 6:06 pm - Home Minister 😎: Hau
+29/11/22, 6:07 pm - #çhäñdáñ...: Hmm
+30/11/22, 6:00 am - Home Minister 😎: Ma mobile recharge karidebu
+30/11/22, 6:01 am - Home Minister 😎: Paisa patheili
+30/11/22, 7:43 am - #çhäñdáñ...: Hn karideli
+30/11/22, 8:09 am - Home Minister 😎: Hmm heijaichi
+30/11/22, 8:09 am - #çhäñdáñ...: Hmm
+30/11/22, 8:09 am - Home Minister 😎: Class re achhu na
+30/11/22, 8:10 am - #çhäñdáñ...: Hmm
+30/11/22, 8:10 am - Home Minister 😎: Hau
+30/11/22, 8:10 am - #çhäñdáñ...: Mm
+30/11/22, 4:58 pm - Home Minister 😎: Ticket ta send karide
+30/11/22, 4:58 pm - Home Minister 😎: Ta mobile re delete heijiba
+30/11/22, 4:59 pm - #çhäñdáñ...: <Media omitted>
+30/11/22, 4:59 pm - Home Minister 😎: Di ta jakA patha
+30/11/22, 4:59 pm - #çhäñdáñ...: <Media omitted>
+30/11/22, 4:59 pm - #çhäñdáñ...: 12 ra
+30/11/22, 4:59 pm - #çhäñdáñ...: 10 ra
+01/12/22, 9:50 pm - Home Minister 😎: Kn karuchhu
+01/12/22, 9:51 pm - Home Minister 😎: Khailuni
+01/12/22, 9:54 pm - #çhäñdáñ...: Hm asili khaiki
+01/12/22, 9:54 pm - Home Minister 😎: Hau
+02/12/22, 6:59 am - Home Minister 😎: <Media omitted>
+02/12/22, 9:05 am - Home Minister 😎: Order
+02/12/22, 9:12 am - #çhäñdáñ...: Kn
+02/12/22, 9:53 am - Home Minister 😎: This message was deleted
+02/12/22, 9:53 am - #çhäñdáñ...: Hau
+02/12/22, 9:54 am - Home Minister 😎: Bhala laguchi naa
+02/12/22, 9:54 am - Home Minister 😎: Taara real image ta bhala laguchi
+02/12/22, 9:55 am - #çhäñdáñ...: Hm
+02/12/22, 9:55 am - #çhäñdáñ...: Hau
+02/12/22, 10:33 pm - #çhäñdáñ...: Mo kurta ra photo diani
+04/12/22, 2:59 pm - #çhäñdáñ...: <Media omitted>
+04/12/22, 3:00 pm - #çhäñdáñ...: Paisa nahi auu
+04/12/22, 3:00 pm - #çhäñdáñ...: Last 7 8 dina haba 100 tanka re chaluchi
+04/12/22, 3:16 pm - Home Minister 😎: 300 rupees patheichi
+04/12/22, 10:29 pm - Home Minister 😎: Kn karuchhu
+04/12/22, 10:35 pm - Home Minister 😎: <Media omitted>
+04/12/22, 10:35 pm - Home Minister 😎: Ei paint ta neiasibu
+04/12/22, 10:36 pm - #çhäñdáñ...: Kahinki
+04/12/22, 10:36 pm - #çhäñdáñ...: Mo paisama
+04/12/22, 10:36 pm - Home Minister 😎: He seta jadi nahela
+04/12/22, 10:36 pm - #çhäñdáñ...: Hau
+04/12/22, 10:36 pm - Home Minister 😎: Kn karibu
+04/12/22, 10:37 pm - Home Minister 😎: Hmm
+06/12/22, 6:50 pm - Home Minister 😎: Missed video call
+06/12/22, 9:13 pm - Home Minister 😎: Phone uthaunu kanhiki
+08/12/22, 9:53 pm - Home Minister 😎: Missed video call
+11/12/22, 8:07 am - #çhäñdáñ...: <Media omitted>
+11/12/22, 8:07 am - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+11/12/22, 7:39 pm - #çhäñdáñ...: <Media omitted>
+12/12/22, 7:25 am - #çhäñdáñ...: Markona pahanchili
+12/12/22, 7:25 am - #çhäñdáñ...: Olhei padibi ki 😆😂
+12/12/22, 7:53 am - Home Minister 😎: <Media omitted>
+12/12/22, 7:53 am - #çhäñdáñ...: Hmm eita
+12/12/22, 5:44 pm - Home Minister 😎: Missed video call
+15/12/22, 4:25 pm - Home Minister 😎: <Media omitted>
+15/12/22, 4:27 pm - Home Minister 😎: <Media omitted>
+17/12/22, 12:29 pm - Home Minister 😎: Paisa patheili deidabu
+17/12/22, 12:29 pm - Home Minister 😎: College re
+17/12/22, 12:31 pm - #çhäñdáñ...: Hmm
+17/12/22, 1:18 pm - Home Minister 😎: https://mayurbhanj.nic.in/tourist-places/
+18/12/22, 8:00 pm - Home Minister 😎: Phone uthaunu kanhiki
+18/12/22, 8:20 pm - #çhäñdáñ...: <Media omitted>
+18/12/22, 8:20 pm - #çhäñdáñ...: <Media omitted>
+18/12/22, 8:20 pm - #çhäñdáñ...: <Media omitted>
+18/12/22, 8:25 pm - #çhäñdáñ...: <Media omitted>
+19/12/22, 2:04 am - #çhäñdáñ...: <Media omitted>
+19/12/22, 2:04 am - #çhäñdáñ...: Sabu anile kingfisher beer mu dekha kan anithili
+19/12/22, 2:04 am - #çhäñdáñ...: Rabidi mast gote miluthila mu gote neiasithili. So eina mane padigala photo patheili
+19/12/22, 2:05 am - #çhäñdáñ...: 50 tanka nela kintu mast laguchii
+19/12/22, 6:11 am - Home Minister 😎: Hau bhala karichu ma bapa
+19/12/22, 6:12 am - Home Minister 😎: Semiti bhala budhi tate thakura diantu
+19/12/22, 6:13 am - Home Minister 😎: Mu janichi ta baba ra sammana rakhibu. Kebe se bhul karibu nahi
+20/12/22, 10:07 am - Home Minister 😎: Class re achhu na
+20/12/22, 11:02 am - #çhäñdáñ...: Hmm
+24/12/22, 7:02 pm - Home Minister 😎: 100 tanka patheichi dekhidabu
+24/12/22, 7:02 pm - #çhäñdáñ...: Hmm
+25/12/22, 9:43 am - Home Minister 😎: Galu na
+25/12/22, 12:08 pm - Home Minister 😎: Missed video call
+25/12/22, 2:15 pm - Home Minister 😎: Phone uthaunu kanhiki
+25/12/22, 6:27 pm - Home Minister 😎: Room ku asilani na
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:44 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:45 pm - Home Minister 😎: Msg guda padha serially
+25/12/22, 7:45 pm - Home Minister 😎: Ta bhai tapas ra msg
+25/12/22, 7:46 pm - Home Minister 😎: Tiki Dei pakhaku karichhi
+25/12/22, 7:49 pm - #çhäñdáñ...: Dahara dekhichii
+25/12/22, 7:49 pm - #çhäñdáñ...: Bramhanda dahara dekhichii
+25/12/22, 7:49 pm - #çhäñdáñ...: Yakuu mu nua dekhuchii
+25/12/22, 7:50 pm - Home Minister 😎: Hmm
+25/12/22, 7:50 pm - Home Minister 😎: <Media omitted>
+25/12/22, 7:50 pm - #çhäñdáñ...: He galua katha
+28/12/22, 6:51 pm - #çhäñdáñ...: <Media omitted>
+28/12/22, 6:52 pm - #çhäñdáñ...: Mid term result
+28/12/22, 6:52 pm - Home Minister 😎: Hmm
+28/12/22, 6:53 pm - Home Minister 😎: Bhala heichi
+28/12/22, 6:53 pm - #çhäñdáñ...: hau
+28/12/22, 6:53 pm - Home Minister 😎: 14 kautara rakhichu
+28/12/22, 6:54 pm - Home Minister 😎: Seta Ki patha
+28/12/22, 6:54 pm - #çhäñdáñ...: Computer Organization and Architecture
+28/12/22, 6:54 pm - Home Minister 😎: Hmm je
+28/12/22, 6:54 pm - Home Minister 😎: Sethire Ki patha
+28/12/22, 6:55 pm - Home Minister 😎: Computer bisay na alaga
+28/12/22, 6:55 pm - #çhäñdáñ...: hmm computer
+28/12/22, 6:55 pm - #çhäñdáñ...: but ghosa
+28/12/22, 6:56 pm - Home Minister 😎: Oho
+28/12/22, 6:56 pm - #çhäñdáñ...: bujhibare kichi nai
+28/12/22, 6:56 pm - #çhäñdáñ...: hm
+28/12/22, 6:56 pm - #çhäñdáñ...: mora se habai
+28/12/22, 6:56 pm - #çhäñdáñ...: ni
+28/12/22, 6:56 pm - #çhäñdáñ...: auu mu taku padhibini
+28/12/22, 6:56 pm - #çhäñdáñ...: re evaluation  pakeichi 200/- padila
+28/12/22, 6:57 pm - #çhäñdáñ...: 14 bahut kam heijauchi
+28/12/22, 6:57 pm - #çhäñdáñ...: so pakeichi
+28/12/22, 6:57 pm - Home Minister 😎: Hau
+28/12/22, 6:57 pm - #çhäñdáñ...: hm
+28/12/22, 6:57 pm - Home Minister 😎: Au sabu pila nka ra kete asichi
+28/12/22, 6:58 pm - Home Minister 😎: Badal Priyanshu
+28/12/22, 6:58 pm - #çhäñdáñ...: <Media omitted>
+28/12/22, 6:58 pm - #çhäñdáñ...: <Media omitted>
+28/12/22, 6:59 pm - Home Minister 😎: Kahara
+28/12/22, 6:59 pm - Home Minister 😎: Bahut kam achhi
+28/12/22, 7:00 pm - #çhäñdáñ...: priyanshu
+28/12/22, 7:00 pm - Home Minister 😎: He se jie jaha karu Mu janichi ma bappa bahut bhala kariba
+28/12/22, 7:01 pm - Home Minister 😎: Bahut uparaku jiba ma gelha ta
+28/12/22, 7:01 pm - #çhäñdáñ...: 😌
+29/12/22, 7:03 pm - Home Minister 😎: Bapa kn karuchhu
+29/12/22, 7:03 pm - #çhäñdáñ...: Basi chi
+29/12/22, 7:04 pm - Home Minister 😎: dhua paint shirt anibu
+29/12/22, 7:04 pm - #çhäñdáñ...: Hm
+29/12/22, 7:04 pm - Home Minister 😎: Thakura nka pakhaku jiba
+29/12/22, 7:05 pm - #çhäñdáñ...: Hm
+29/12/22, 7:05 pm - Home Minister 😎: Khaichu na
+29/12/22, 7:29 pm - #çhäñdáñ...: Hm
+30/12/22, 3:30 pm - Home Minister 😎: Pailu na bus
+30/12/22, 5:01 pm - #çhäñdáñ...: <Media omitted>
+30/12/22, 5:12 pm - Home Minister 😎: Hmm
+30/12/22, 5:12 pm - Home Minister 😎: Pura dharmi
+30/12/22, 5:13 pm - #çhäñdáñ...: Hm
+30/12/22, 5:13 pm - Home Minister 😎: Basilu na train re
+30/12/22, 5:13 pm - #çhäñdáñ...: Hmmm basilli
+30/12/22, 5:13 pm - Home Minister 😎: Hau
+30/12/22, 5:13 pm - #çhäñdáñ...: Hm
+31/12/22, 6:40 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 6:40 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 6:40 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 6:40 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 9:43 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 9:43 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 9:43 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 9:43 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 9:43 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 9:43 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 9:43 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 9:43 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 9:43 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 9:43 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 10:52 am - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:39 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+31/12/22, 12:40 pm - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:56 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:58 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:58 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 6:58 am - #çhäñdáñ...: <Media omitted>
+01/01/23, 9:12 pm - Home Minister 😎: <Media omitted>
+02/01/23, 12:44 pm - #çhäñdáñ...: Class re
+02/01/23, 12:54 pm - Home Minister 😎: Hau
+02/01/23, 2:08 pm - Home Minister 😎: Khailuni na
+02/01/23, 11:08 pm - Home Minister 😎: Kn karuchhu Lo
+03/01/23, 6:43 am - #çhäñdáñ...: Mu soilini kali 10 40 ru
+03/01/23, 6:43 am - #çhäñdáñ...: Abe uthili
+03/01/23, 8:26 am - Home Minister 😎: Hau
+04/01/23, 5:38 pm - #çhäñdáñ...: <Media omitted>
+04/01/23, 5:39 pm - #çhäñdáñ...: Dekha bhala laguchi na
+04/01/23, 5:52 pm - Home Minister 😎: Hmm
+04/01/23, 5:52 pm - Home Minister 😎: Kahara
+04/01/23, 5:52 pm - #çhäñdáñ...: Sthiti anila
+04/01/23, 5:52 pm - Home Minister 😎: Kete padila
+04/01/23, 5:53 pm - #çhäñdáñ...: 5000 /-
+04/01/23, 5:53 pm - Home Minister 😎: Hau
+04/01/23, 5:53 pm - #çhäñdáñ...: Hm
+10/01/23, 11:03 am - #çhäñdáñ...: Mama 300/- tanka padila
+10/01/23, 11:03 am - #çhäñdáñ...: Heigala
+10/01/23, 11:03 am - #çhäñdáñ...: Laptop
+10/01/23, 11:03 am - Home Minister 😎: Jaichu na
+10/01/23, 11:03 am - #çhäñdáñ...: Na na jaiki online re heigala
+10/01/23, 11:03 am - Home Minister 😎: Hau
+10/01/23, 11:04 am - Home Minister 😎: Paisa thibani ta
+10/01/23, 11:04 am - #çhäñdáñ...: Hm achi
+10/01/23, 11:04 am - Home Minister 😎: Hau Mu Baba nku kahibi
+10/01/23, 11:04 am - Home Minister 😎: Patheidebe
+10/01/23, 11:05 am - #çhäñdáñ...: Are achi achi
+10/01/23, 11:05 am - Home Minister 😎: Class re achhu na
+10/01/23, 11:05 am - #çhäñdáñ...: Hm
+10/01/23, 12:31 pm - #çhäñdáñ...: <Media omitted>
+10/01/23, 12:31 pm - #çhäñdáñ...: 3 mark badhila COA re
+10/01/23, 12:32 pm - #çhäñdáñ...: 200 tanka deli sabu 3 mark badhichi
+10/01/23, 12:45 pm - Home Minister 😎: Hau jaha badhichi au kn karibu
+10/01/23, 12:46 pm - Home Minister 😎: Baba paisa pathei chanti dekhidabu
+11/01/23, 7:55 pm - Home Minister 😎: Kn karuchhu
+11/01/23, 7:56 pm - #çhäñdáñ...: Basichi au
+11/01/23, 7:56 pm - Home Minister 😎: Padhunu Ki
+11/01/23, 7:56 pm - #çhäñdáñ...: Contest arambha 8 re
+11/01/23, 7:57 pm - Home Minister 😎: Laptop hela na
+11/01/23, 7:57 pm - #çhäñdáñ...: Hm para
+11/01/23, 7:57 pm - Home Minister 😎: Ki contest
+14/01/23, 7:25 pm - Home Minister 😎: Ta canteen au café Bill kete asichi kahuthilu
+14/01/23, 7:26 pm - Home Minister 😎: Kahunu
+14/01/23, 7:27 pm - #çhäñdáñ...: Canteen - 3280
+Cafe - 480
+Re-evaluation - 200
+Total - 3960
+14/01/23, 7:28 pm - #çhäñdáñ...: Priyanshu ra 
+Canteen - 4012
+Cafe - 560
+Re-evaluation - 200
+Total - 4772
+14/01/23, 7:29 pm - Home Minister 😎: Gala na dekh paisa
+14/01/23, 7:29 pm - #çhäñdáñ...: Ameer ho gaya me
+14/01/23, 7:29 pm - #çhäñdáñ...: Yesss
+14/01/23, 7:29 pm - #çhäñdáñ...: Asigala
+15/01/23, 10:07 am - Home Minister 😎: Kanhi be number
+15/01/23, 10:08 am - #çhäñdáñ...: IT Sir.vcf (file attached)
+15/01/23, 11:50 am - #çhäñdáñ...: <Media omitted>
+16/01/23, 6:34 pm - Home Minister 😎: <Media omitted>
+16/01/23, 6:34 pm - Home Minister 😎: <Media omitted>
+17/01/23, 8:27 am - Home Minister 😎: Ma mobile recharge karidabu
+17/01/23, 9:56 pm - Home Minister 😎: Khailuni na
+17/01/23, 10:28 pm - #çhäñdáñ...: Hn
+18/01/23, 11:28 am - Home Minister 😎: <Media omitted>
+18/01/23, 11:28 am - Home Minister 😎: <Media omitted>
+18/01/23, 11:28 am - Home Minister 😎: <Media omitted>
+18/01/23, 11:28 am - Home Minister 😎: <Media omitted>
+18/01/23, 11:34 am - #çhäñdáñ...: Chhabi naa
+18/01/23, 11:49 am - Home Minister 😎: Hmm para
+18/01/23, 6:16 pm - Home Minister 😎: Results asichi pua ra
+18/01/23, 6:21 pm - Home Minister 😎: <Media omitted>
+18/01/23, 6:56 pm - #çhäñdáñ...: <Media omitted>
+18/01/23, 11:11 pm - Home Minister 😎: <Media omitted>
+18/01/23, 11:13 pm - Home Minister 😎: <Media omitted>
+19/01/23, 6:37 pm - Home Minister 😎: Kn karuchhu
+20/01/23, 7:13 am - Home Minister 😎: Jee au neet form fill-up helani na dekhibu tike
+20/01/23, 4:30 pm - Home Minister 😎: <Media omitted>
+20/01/23, 8:31 pm - Home Minister 😎: <Media omitted>
+20/01/23, 8:31 pm - #çhäñdáñ...: Hauu
+20/01/23, 8:32 pm - Home Minister 😎: 35000
+20/01/23, 8:36 pm - #çhäñdáñ...: Hau
+20/01/23, 8:36 pm - #çhäñdáñ...: Tame anila
+20/01/23, 8:36 pm - #çhäñdáñ...: Koita
+20/01/23, 8:36 pm - #çhäñdáñ...: Kouta
+20/01/23, 8:36 pm - Home Minister 😎: Mu kichhi anini
+20/01/23, 8:37 pm - Home Minister 😎: Pua mudi ta kala Mamu
+20/01/23, 8:37 pm - Home Minister 😎: Dele
+20/01/23, 8:37 pm - Home Minister 😎: Jhia mudi semane anichanti
+20/01/23, 8:37 pm - Home Minister 😎: Mu 10000debi
+20/01/23, 8:37 pm - #çhäñdáñ...: Hau
+20/01/23, 8:37 pm - #çhäñdáñ...: Hau
+20/01/23, 8:38 pm - Home Minister 😎: 21000padithiba
+20/01/23, 8:38 pm - #çhäñdáñ...: Hau
+20/01/23, 8:38 pm - Home Minister 😎: Ete paisa mora kie daba
+20/01/23, 8:40 pm - #çhäñdáñ...: Jae katha haba
+23/01/23, 9:51 am - Home Minister 😎: <Media omitted>
+23/01/23, 9:51 am - Home Minister 😎: <Media omitted>
+23/01/23, 9:51 am - Home Minister 😎: <Media omitted>
+23/01/23, 9:53 am - #çhäñdáñ...: Hela au
+23/01/23, 9:54 am - Home Minister 😎: Hmm
+23/01/23, 9:54 am - #çhäñdáñ...: Hm
+23/01/23, 9:55 am - Home Minister 😎: Barajatri botall ku kandhare pakeiki asithile
+23/01/23, 9:55 am - Home Minister 😎: Bag re pureiki
+23/01/23, 9:55 am - #çhäñdáñ...: Mada bota
+23/01/23, 9:55 am - #çhäñdáñ...: L
+23/01/23, 9:55 am - Home Minister 😎: Hmm para
+23/01/23, 9:55 am - #çhäñdáñ...: Basss
+23/01/23, 3:08 pm - #çhäñdáñ...: Anili bahi ta aji
+23/01/23, 3:14 pm - Home Minister 😎: Kete padila
+23/01/23, 3:14 pm - #çhäñdáñ...: 145
+23/01/23, 3:15 pm - Home Minister 😎: Hau mu dauchi
+23/01/23, 3:15 pm - #çhäñdáñ...: <Media omitted>
+23/01/23, 3:15 pm - Home Minister 😎: Setiki patheile haba na
+23/01/23, 3:15 pm - #çhäñdáñ...: Hm hm
+23/01/23, 3:15 pm - #çhäñdáñ...: Setiki
+24/01/23, 6:28 pm - Home Minister 😎: 😊
+24/01/23, 6:28 pm - Home Minister 😎: Eita Ki sticker
+24/01/23, 6:28 pm - Home Minister 😎: Happy na sad
+24/01/23, 6:30 pm - #çhäñdáñ...: Kia patheila
+24/01/23, 6:30 pm - Home Minister 😎: Miti
+24/01/23, 6:30 pm - #çhäñdáñ...: Happy
+24/01/23, 6:31 pm - Home Minister 😎: Hau
+25/01/23, 4:01 pm - #çhäñdáñ...: <Media omitted>
+25/01/23, 7:35 pm - Home Minister 😎: Baba hostel re pahanchile msg karidabu
+26/01/23, 7:31 pm - #çhäñdáñ...: <Media omitted>
+26/01/23, 7:32 pm - #çhäñdáñ...: Amara sadharanatantra dibas
+26/01/23, 7:32 pm - #çhäñdáñ...: Order kalu Zomato ru
+26/01/23, 7:32 pm - Home Minister 😎: Hau khainia
+26/01/23, 7:33 pm - #çhäñdáñ...: Kete tanka kahuna etiki ku
+26/01/23, 7:33 pm - Home Minister 😎: Kete
+26/01/23, 7:33 pm - #çhäñdáñ...: 125
+26/01/23, 7:34 pm - Home Minister 😎: Sabu etiki
+26/01/23, 7:34 pm - #çhäñdáñ...: Hm
+26/01/23, 7:35 pm - Home Minister 😎: Kn darkar thila
+26/01/23, 7:35 pm - #çhäñdáñ...: 4 jana 32 tanka lekha padila
+26/01/23, 7:36 pm - Home Minister 😎: Amara ethi 10 tanka re setiki haba
+26/01/23, 7:36 pm - #çhäñdáñ...: Jibi na kan markona
+26/01/23, 7:36 pm - Home Minister 😎: Chalia
+26/01/23, 7:37 pm - #çhäñdáñ...: Hmm hn
+26/01/23, 7:37 pm - #çhäñdáñ...: Patha satha kichi jana nahi fail hebi eithara
+26/01/23, 7:37 pm - Home Minister 😎: He tu padha
+26/01/23, 7:38 pm - #çhäñdáñ...: Back lagiba biology au COA
+26/01/23, 7:38 pm - #çhäñdáñ...: Jay Jagannath 🙏🏻
+26/01/23, 7:38 pm - Home Minister 😎: Bekar Katha kahi kichhi labha nahi
+26/01/23, 7:38 pm - #çhäñdáñ...: <Media omitted>
+27/01/23, 2:07 pm - Home Minister 😎: Khailuni na
+27/01/23, 2:08 pm - Home Minister 😎: Kn karuchhu
+27/01/23, 2:11 pm - #çhäñdáñ...: Khaiki jauchi room
+27/01/23, 2:11 pm - #çhäñdáñ...: Pass haba pain padha padhi
+27/01/23, 2:12 pm - Home Minister 😎: Hau
+27/01/23, 2:13 pm - #çhäñdáñ...: Hm
+29/01/23, 12:30 pm - #çhäñdáñ...: <Media omitted>
+30/01/23, 3:33 pm - Home Minister 😎: Exam bhala heichi na
+30/01/23, 4:02 pm - #çhäñdáñ...: Hm
+30/01/23, 10:50 pm - Home Minister 😎: <Media omitted>
+30/01/23, 10:50 pm - #çhäñdáñ...: Hm hm
+01/02/23, 5:06 pm - Home Minister 😎: <Media omitted>
+01/02/23, 5:06 pm - Home Minister 😎: <Media omitted>
+01/02/23, 5:06 pm - Home Minister 😎: <Media omitted>
+01/02/23, 6:51 pm - Home Minister 😎: <Media omitted>
+01/02/23, 6:53 pm - Home Minister 😎: <Media omitted>
+01/02/23, 9:57 pm - Home Minister 😎: <Media omitted>
+01/02/23, 9:57 pm - Home Minister 😎: <Media omitted>
+02/02/23, 4:46 pm - #çhäñdáñ...: https://www.myntra.com/watches/fastrack/fastrack-men-black-analogue-watch-3089nm02/10914780/buy
+04/02/23, 3:55 pm - Home Minister 😎: <Media omitted>
+04/02/23, 3:55 pm - Home Minister 😎: <Media omitted>
+04/02/23, 3:55 pm - Home Minister 😎: <Media omitted>
+04/02/23, 3:55 pm - Home Minister 😎: <Media omitted>
+04/02/23, 3:55 pm - Home Minister 😎: <Media omitted>
+05/02/23, 6:25 am - Home Minister 😎: Tu kete paisa delu
+05/02/23, 9:02 am - #çhäñdáñ...: 100 deichi
+05/02/23, 9:10 am - #çhäñdáñ...: Mu badal Priyanshu anshuman swastik sabu 100 lekha
+05/02/23, 9:10 am - #çhäñdáñ...: 1000 tanka diaheichi
+05/02/23, 7:10 pm - Home Minister 😎: Heigala ghara thik
+05/02/23, 7:10 pm - Home Minister 😎: Kali jiba
+05/02/23, 7:10 pm - #çhäñdáñ...: Hau
+05/02/23, 7:10 pm - #çhäñdáñ...: Bhala
+05/02/23, 7:10 pm - #çhäñdáñ...: Bhada kete
+05/02/23, 7:11 pm - Home Minister 😎: 1500
+05/02/23, 7:11 pm - #çhäñdáñ...: Hau
+05/02/23, 7:11 pm - Home Minister 😎: Electric pani sabu tari bhitare
+05/02/23, 7:11 pm - #çhäñdáñ...: Hau
+05/02/23, 7:12 pm - #çhäñdáñ...: Kouthi
+05/02/23, 7:12 pm - Home Minister 😎: Kali paleibi
+05/02/23, 7:12 pm - Home Minister 😎: Rinku kaka ghara pakhare
+05/02/23, 7:12 pm - #çhäñdáñ...: Oho hau
+05/02/23, 7:12 pm - Home Minister 😎: Ramu pattnayak
+05/02/23, 7:12 pm - Home Minister 😎: Ghara
+05/02/23, 7:13 pm - Home Minister 😎: Sthiti Pisa ghara pakhapakhi
+05/02/23, 7:13 pm - #çhäñdáñ...: Hau
+05/02/23, 7:13 pm - Home Minister 😎: Hmm
+06/02/23, 1:26 am - #çhäñdáñ...: 8 re dakidaba
+08/02/23, 7:40 pm - #çhäñdáñ...: Pahanchili
+08/02/23, 7:40 pm - #çhäñdáñ...: Room re
+08/02/23, 7:48 pm - Home Minister 😎: Hau
+08/02/23, 7:48 pm - #çhäñdáñ...: Hm
+09/02/23, 10:50 am - Home Minister 😎: Gala na
+09/02/23, 2:43 pm - Home Minister 😎: Bapa soichu Ki
+09/02/23, 2:44 pm - Home Minister 😎: Khailu na
+09/02/23, 2:44 pm - Home Minister 😎: Jara asichi Ki
+09/02/23, 8:45 pm - #çhäñdáñ...: <Media omitted>
+09/02/23, 8:45 pm - #çhäñdáñ...: <Media omitted>
+10/02/23, 7:13 am - Home Minister 😎: Uthiluni na
+10/02/23, 7:14 am - Home Minister 😎: Deha kemiti achhi
+10/02/23, 11:15 am - Home Minister 😎: Ma mobile recharge karide ni
+10/02/23, 6:33 pm - Home Minister 😎: Bapa kauti
+10/02/23, 6:34 pm - #çhäñdáñ...: Jajpur pakha pakhi
+10/02/23, 6:34 pm - Home Minister 😎: Hau
+10/02/23, 6:34 pm - #çhäñdáñ...: Mm
+10/02/23, 6:35 pm - Home Minister 😎: Ghodi Ki basichu na
+10/02/23, 6:35 pm - #çhäñdáñ...: Hmm
+10/02/23, 6:35 pm - Home Minister 😎: Hau
+11/02/23, 10:14 pm - Home Minister 😎: <Media omitted>
+11/02/23, 10:15 pm - #çhäñdáñ...: Jete tama bayasa badhichalichi sete style b badhi chalichi
+11/02/23, 10:15 pm - #çhäñdáñ...: Hau chalu
+11/02/23, 10:16 pm - Home Minister 😎: Be kharap dekha jauchi na
+11/02/23, 10:16 pm - #çhäñdáñ...: Na na
+11/02/23, 10:16 pm - #çhäñdáñ...: Bhala
+11/02/23, 10:17 pm - Home Minister 😎: Na kaha nahele kapada deiki stich kari anibi
+11/02/23, 10:17 pm - #çhäñdáñ...: Hm kariana
+11/02/23, 10:17 pm - #çhäñdáñ...: Eita karibaku kia kahithila na nije
+11/02/23, 10:18 pm - Home Minister 😎: Tailor karideichi
+11/02/23, 10:18 pm - #çhäñdáñ...: Hau kariana
+11/02/23, 10:18 pm - #çhäñdáñ...: Stitch
+11/02/23, 10:19 pm - Home Minister 😎: Mu kahithili chota karibaku se bada karichi
+11/02/23, 10:19 pm - #çhäñdáñ...: Stitch kariana
+11/02/23, 10:20 pm - Home Minister 😎: Dekhiba
+11/02/23, 10:20 pm - #çhäñdáñ...: Hm
+13/02/23, 7:17 am - Home Minister 😎: <Media omitted>
+13/02/23, 9:46 am - #çhäñdáñ...: Hmm bhala heichi
+13/02/23, 10:03 am - #çhäñdáñ...: <Media omitted>
+18/02/23, 10:16 am - #çhäñdáñ...: <Media omitted>
+18/02/23, 10:16 am - #çhäñdáñ...: <Media omitted>
+18/02/23, 10:16 am - #çhäñdáñ...: <Media omitted>
+18/02/23, 2:15 pm - #çhäñdáñ...: <Media omitted>
+18/02/23, 2:15 pm - #çhäñdáñ...: <Media omitted>
+18/02/23, 2:15 pm - #çhäñdáñ...: <Media omitted>
+18/02/23, 2:24 pm - Home Minister 😎: <Media omitted>
+20/02/23, 11:39 am - #çhäñdáñ...: Auto re asichi kali mandira
+20/02/23, 11:40 am - #çhäñdáñ...: <Media omitted>
+21/02/23, 5:37 pm - Home Minister 😎: Dei photo pathani
+21/02/23, 5:39 pm - #çhäñdáñ...: <Media omitted>
+21/02/23, 5:39 pm - #çhäñdáñ...: <Media omitted>
+21/02/23, 5:39 pm - #çhäñdáñ...: <Media omitted>
+21/02/23, 5:40 pm - Home Minister 😎: Oh  pura kacha photo
+21/02/23, 7:51 pm - Home Minister 😎: <Media omitted>
+21/02/23, 7:51 pm - Home Minister 😎: <Media omitted>
+22/02/23, 10:49 am - Home Minister 😎: Baba ticket karidebu
+22/02/23, 10:50 am - Home Minister 😎: 11ta re
+22/02/23, 10:50 am - #çhäñdáñ...: Hm hm
+23/02/23, 7:48 am - Home Minister 😎: Bhai au dei ra photo pathani
+23/02/23, 7:48 am - #çhäñdáñ...: Debi room ku jae
+24/02/23, 10:30 am - Home Minister 😎: Bapa paisa pathei deichi clear karidabu canteen bill
+24/02/23, 10:30 am - #çhäñdáñ...: Karisarilini
+24/02/23, 10:30 am - Home Minister 😎: Hau
+24/02/23, 10:30 am - #çhäñdáñ...: Hm
+24/02/23, 10:31 am - Home Minister 😎: Hmm
+24/02/23, 10:31 am - #çhäñdáñ...: Mm
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:08 am - Home Minister 😎: <Media omitted>
+25/02/23, 10:11 am - #çhäñdáñ...: Hau
+27/02/23, 8:12 pm - Home Minister 😎: Kn karuchhu
+27/02/23, 9:49 pm - #çhäñdáñ...: Khaibaku asithili
+28/02/23, 1:31 am - #çhäñdáñ...: 7 30 re dakidaba
+01/03/23, 6:42 pm - #çhäñdáñ...: <Media omitted>
+01/03/23, 6:44 pm - #çhäñdáñ...: <Media omitted>
+01/03/23, 6:44 pm - #çhäñdáñ...: Badal
+01/03/23, 6:44 pm - #çhäñdáñ...: <Media omitted>
+01/03/23, 6:45 pm - #çhäñdáñ...: Priyanshu
+01/03/23, 6:57 pm - Home Minister 😎: <Media omitted>
+04/03/23, 11:41 am - Home Minister 😎: Missed video call
+04/03/23, 1:07 pm - Home Minister 😎: Priyanshu ku pachar Kn kari heba
+04/03/23, 1:07 pm - #çhäñdáñ...: Hn hn
+04/03/23, 1:27 pm - Home Minister 😎: Biswala ku call karithili
+04/03/23, 1:28 pm - Home Minister 😎: Se kahila wait kara asijiba
+04/03/23, 1:28 pm - Home Minister 😎: 24hour bhitare heijiba
+04/03/23, 1:28 pm - #çhäñdáñ...: Hau hau
+04/03/23, 1:29 pm - #çhäñdáñ...: Hm paisa kuade jibani asijiba
+04/03/23, 1:29 pm - #çhäñdáñ...: Samaste kahuchanti
+04/03/23, 1:29 pm - #çhäñdáñ...: Paytm customer care saha katha hauchi
+04/03/23, 1:30 pm - Home Minister 😎: Hau
+04/03/23, 1:30 pm - #çhäñdáñ...: Hm
+04/03/23, 1:32 pm - Home Minister 😎: Khaiki asibu ja
+04/03/23, 1:32 pm - Home Minister 😎: Puni upas rahijibu
+04/03/23, 1:33 pm - Home Minister 😎: Ei tension re
+04/03/23, 1:42 pm - Home Minister 😎: Katha helu na
+04/03/23, 1:55 pm - #çhäñdáñ...: Hm
+04/03/23, 1:55 pm - #çhäñdáñ...: Se kahile 6 tarikh jae wait kar
+04/03/23, 1:55 pm - #çhäñdáñ...: Heijiba
+04/03/23, 1:55 pm - #çhäñdáñ...: Mu khaiki jae NTA saha katha hebi
+04/03/23, 1:55 pm - Home Minister 😎: Hau
+04/03/23, 3:28 pm - Home Minister 😎: Ta id password ta mane rakhithibu
+04/03/23, 3:28 pm - #çhäñdáñ...: Hm hm
+04/03/23, 3:28 pm - Home Minister 😎: Kauti lekhiki rakhidabu
+04/03/23, 3:29 pm - Home Minister 😎: Mu chhuamamu Sange Katha heichi
+04/03/23, 3:29 pm - #çhäñdáñ...: Hmm
+04/03/23, 3:30 pm - Home Minister 😎: Se kahila hau deri achhi kichhi Tensionnahi
+04/03/23, 3:30 pm - #çhäñdáñ...: Hmm
+04/03/23, 3:30 pm - Home Minister 😎: OK
+04/03/23, 7:43 pm - Home Minister 😎: Dear Applicant, Your query for Application No 230320064155 has been registered successfully. Your Query Reference No is : 10103231204032023106049. Kindly note down the this for future references. JEE(Main) 2023 - Session 2 .(sent via NICSI)
+04/03/23, 7:43 pm - Home Minister 😎: Mamu patheile mate
+04/03/23, 10:07 pm - Home Minister 😎: Khailuni na
+04/03/23, 10:08 pm - #çhäñdáñ...: Hm
+04/03/23, 10:57 pm - Home Minister 😎: Bapa soipadiluni Ki
+05/03/23, 6:24 am - Home Minister 😎: Uthiluni na
+05/03/23, 7:26 am - #çhäñdáñ...: Hm
+05/03/23, 7:02 pm - Home Minister 😎: <Media omitted>
+05/03/23, 7:02 pm - #çhäñdáñ...: 😂😆😂
+05/03/23, 7:02 pm - #çhäñdáñ...: 😂😂😂😂
+05/03/23, 7:02 pm - #çhäñdáñ...: 😂😂😂😂😂😂😂😅🤣🤣😅😅😅🤣🤣😅
+05/03/23, 7:02 pm - Home Minister 😎: Ki be
+05/03/23, 7:02 pm - #çhäñdáñ...: Pabanaaaaaaa
+05/03/23, 7:03 pm - #çhäñdáñ...: <Media omitted>
+05/03/23, 7:05 pm - Home Minister 😎: <Media omitted>
+05/03/23, 7:06 pm - #çhäñdáñ...: Makeup diaheichi na kan kani
+05/03/23, 7:06 pm - #çhäñdáñ...: 😂
+05/03/23, 7:06 pm - Home Minister 😎: Hmm ta khanda ku dekh
+05/03/23, 7:07 pm - #çhäñdáñ...: Hm hm seita dekhiki hasuchi
+05/03/23, 7:07 pm - #çhäñdáñ...: World war 2 karibaku jiba 😂
+06/03/23, 8:07 am - #çhäñdáñ...: Chagulu bhai na kia
+06/03/23, 8:08 am - Home Minister 😎: Hmm
+06/03/23, 4:06 pm - Home Minister 😎: Ma mobile recharge karidabu
+06/03/23, 7:31 pm - Home Minister 😎: Maun ra jee main asila na
+06/03/23, 9:53 pm - Home Minister 😎: Call karibu ta
+06/03/23, 10:04 pm - #çhäñdáñ...: Hm
+06/03/23, 10:15 pm - #çhäñdáñ...: Bhul ta mu karichi au kahikii. Na kahithile thik heithanta
+06/03/23, 10:20 pm - Home Minister 😎: Hau tu pathei de
+06/03/23, 10:28 pm - #çhäñdáñ...: Registration number : 230320064155
+06/03/23, 10:29 pm - #çhäñdáñ...: Password : Mamun@7100
+06/03/23, 10:30 pm - #çhäñdáñ...: <Media omitted>
+06/03/23, 10:46 pm - Home Minister 😎: Hau tu ta patha padh Baba jaiki bujhidebe kn heichi.
+06/03/23, 10:47 pm - Home Minister 😎: Tension neni
+07/03/23, 9:08 am - Home Minister 😎: Baba biswala pakharu kariki tate patheidebe
+07/03/23, 9:08 am - Home Minister 😎: Tu Mamu ku pathei dabu kahibu tu kari deichu
+07/03/23, 9:14 am - #çhäñdáñ...: Hai
+07/03/23, 9:14 am - #çhäñdáñ...: Hau
+07/03/23, 12:10 pm - Home Minister 😎: Mamu ki main jia phone kari kahibe sidha Mana karibu
+07/03/23, 12:11 pm - Home Minister 😎: Kahibu mote time nahi neet form fill-up paini
+07/03/23, 12:26 pm - #çhäñdáñ...: Hm
+07/03/23, 12:45 pm - Home Minister 😎: Biswala kahila 10re kariba au thare. Baba au chhua Mamu Katha heijaichhanti.
+07/03/23, 12:45 pm - #çhäñdáñ...: Hauuu
+07/03/23, 12:46 pm - #çhäñdáñ...: Mu kan urdu re kahuthili kali
+07/03/23, 12:46 pm - Home Minister 😎: Ebe karidele paisa return habani so
+07/03/23, 12:46 pm - #çhäñdáñ...: Hm
+07/03/23, 12:46 pm - Home Minister 😎: Hau
+07/03/23, 12:47 pm - #çhäñdáñ...: Hm
+07/03/23, 7:57 pm - Home Minister 😎: Baba Kn karuchhu
+08/03/23, 12:30 am - Home Minister 😎: <Media omitted>
+08/03/23, 12:30 am - Home Minister 😎: <Media omitted>
+08/03/23, 12:56 pm - Home Minister 😎: Kn karuchhu
+08/03/23, 12:56 pm - #çhäñdáñ...: Bed re padichi
+08/03/23, 12:56 pm - Home Minister 😎: Phone uthaunu kanhiki
+08/03/23, 12:56 pm - #çhäñdáñ...: Nai ta
+08/03/23, 12:57 pm - Home Minister 😎: Kheluchu Ki
+08/03/23, 12:57 pm - Home Minister 😎: Call Kali para
+08/03/23, 12:57 pm - Home Minister 😎: Utheilu nahi
+08/03/23, 1:05 pm - Home Minister 😎: Lo children spelling bhul achhi
+08/03/23, 1:07 pm - #çhäñdáñ...: Kainn
+08/03/23, 1:07 pm - #çhäñdáñ...: Au kn ki spelling
+08/03/23, 4:29 pm - Home Minister 😎: Baba nka pakhaku pathei de se jaiki karidebe biswala pakharee
+08/03/23, 4:29 pm - #çhäñdáñ...: Already patheideichi
+08/03/23, 5:18 pm - Home Minister 😎: Kn loooooooo ie pana na
+08/03/23, 5:26 pm - #çhäñdáñ...: Hmn
+08/03/23, 8:24 pm - Home Minister 😎: <Media omitted>
+08/03/23, 8:26 pm - #çhäñdáñ...: Hn achi mo pakhare
+08/03/23, 8:27 pm - Home Minister 😎: Tu pailu kemiti
+08/03/23, 8:27 pm - #çhäñdáñ...: Kete nela Biswala
+08/03/23, 8:27 pm - #çhäñdáñ...: Notification asila
+08/03/23, 8:27 pm - #çhäñdáñ...: Ethi password deiki login kali
+08/03/23, 8:27 pm - #çhäñdáñ...: Asigala
+08/03/23, 8:27 pm - Home Minister 😎: 20tanka
+08/03/23, 8:27 pm - Home Minister 😎: Hau
+08/03/23, 8:27 pm - #çhäñdáñ...: Hau
+08/03/23, 8:28 pm - #çhäñdáñ...: Khali ama paisa payment karidela 20 tanka nrla
+08/03/23, 8:28 pm - Home Minister 😎: Sei password rakhitha admit card kadhibu
+08/03/23, 8:28 pm - #çhäñdáñ...: Hm
+08/03/23, 8:28 pm - #çhäñdáñ...: Hm
+08/03/23, 8:28 pm - Home Minister 😎: Hmm
+08/03/23, 8:28 pm - #çhäñdáñ...: Mamu nku mu kahidauchi
+08/03/23, 8:28 pm - #çhäñdáñ...: Heigala boli
+08/03/23, 8:28 pm - Home Minister 😎: Se janichanti
+08/03/23, 8:29 pm - #çhäñdáñ...: Kn
+08/03/23, 8:29 pm - Home Minister 😎: Baba kahideichanti
+08/03/23, 8:29 pm - #çhäñdáñ...: Dekha tame eithi kn kala
+08/03/23, 8:29 pm - #çhäñdáñ...: Kn karidela aithi tamr
+08/03/23, 8:36 pm - #çhäñdáñ...: Padisha loka nka bahaghara ku gala belaku auu parikhya nahii. Reception khaite gala belaku au parikhya nahii
+08/03/23, 8:37 pm - #çhäñdáñ...: Mu katha hela belaku parikhya
+08/03/23, 8:37 pm - #çhäñdáñ...: Hau
+08/03/23, 9:50 pm - Home Minister 😎: Tu janibu kemiti Mu Ki tension re rahuchi
+08/03/23, 10:22 pm - Home Minister 😎: khailuni na
+08/03/23, 10:27 pm - #çhäñdáñ...: Hm
+08/03/23, 10:28 pm - Home Minister 😎: Baba call kale utheiluni kanhiki
+08/03/23, 10:28 pm - #çhäñdáñ...: Dekhini
+08/03/23, 10:29 pm - Home Minister 😎: Ebe call kari Katha heija
+08/03/23, 10:29 pm - Home Minister 😎: Se wait karichhanti
+08/03/23, 10:32 pm - #çhäñdáñ...: Hm
+08/03/23, 10:32 pm - #çhäñdáñ...: Badal ra cake anibaku jaithili
+08/03/23, 10:32 pm - #çhäñdáñ...: Taa cake kataa hela eina
+08/03/23, 10:32 pm - #çhäñdáñ...: Kali taa birthday
+08/03/23, 10:33 pm - Home Minister 😎: Ebe call kari Katha heija
+09/03/23, 11:45 am - Home Minister 😎: Class re achhu na
+09/03/23, 11:46 am - #çhäñdáñ...: Na room re
+09/03/23, 11:46 am - Home Minister 😎: Aji nahi Ki class
+09/03/23, 11:46 am - #çhäñdáñ...: Hm achi mu karunii
+09/03/23, 11:46 am - #çhäñdáñ...: Padhuchi
+09/03/23, 11:46 am - Home Minister 😎: Hau
+09/03/23, 11:46 am - Home Minister 😎: Khaichu na
+09/03/23, 11:47 am - #çhäñdáñ...: Naa
+09/03/23, 11:47 am - #çhäñdáñ...: Khaibi 12 re
+09/03/23, 11:47 am - #çhäñdáñ...: 12 35 re class jibi
+09/03/23, 11:47 am - Home Minister 😎: Gelu exam kali
+09/03/23, 11:47 am - Home Minister 😎: Hau
+09/03/23, 11:50 am - #çhäñdáñ...: Janichi
+09/03/23, 11:50 am - #çhäñdáñ...: Kan achi kali
+09/03/23, 11:50 am - Home Minister 😎: Odia
+09/03/23, 11:51 am - #çhäñdáñ...: Hau
+09/03/23, 4:10 pm - #çhäñdáñ...: 11 thilaa
+09/03/23, 4:36 pm - Home Minister 😎: Kn lekhichu
+09/03/23, 4:36 pm - #çhäñdáñ...: 11 tarikh thila pa
+09/03/23, 4:36 pm - #çhäñdáñ...: Gelu xm
+09/03/23, 4:36 pm - Home Minister 😎: Na
+09/03/23, 4:37 pm - Home Minister 😎: 10 re
+09/03/23, 4:41 pm - #çhäñdáñ...: Hau
+10/03/23, 9:14 am - Home Minister 😎: Kauti bapa
+10/03/23, 9:16 am - #çhäñdáñ...: Uthili
+10/03/23, 11:36 am - Home Minister 😎: Gelu bhala karichi
+10/03/23, 11:37 am - Home Minister 😎: Mcq gote bhul karichi
+10/03/23, 11:37 am - #çhäñdáñ...: Hau hau
+10/03/23, 11:38 am - Home Minister 😎: Class re achhu na
+10/03/23, 11:38 am - #çhäñdáñ...: Hm
+10/03/23, 11:38 am - Home Minister 😎: Hau
+10/03/23, 7:09 pm - Home Minister 😎: Kn karuchhu
+10/03/23, 7:09 pm - Home Minister 😎: Evening re khaichu na
+10/03/23, 7:10 pm - Home Minister 😎: Ta deha bhala achhi na
+10/03/23, 7:13 pm - #çhäñdáñ...: Hmm hm
+10/03/23, 7:14 pm - Home Minister 😎: Padhuchu na
+10/03/23, 7:14 pm - #çhäñdáñ...: Hm
+10/03/23, 7:14 pm - Home Minister 😎: Hau
+10/03/23, 8:46 pm - Home Minister 😎: Tara Kn problem heichi Ki
+10/03/23, 8:47 pm - Home Minister 😎: Emiti chidchida heiki Katha hauchu always
+10/03/23, 9:31 pm - Home Minister 😎: Paisa patheichi dekhidabu
+10/03/23, 10:12 pm - Home Minister 😎: Phone kalu na
+10/03/23, 10:13 pm - #çhäñdáñ...: Kali karidebi
+10/03/23, 10:13 pm - #çhäñdáñ...: Ate rati helani
+10/03/23, 10:13 pm - Home Minister 😎: Tu nakar
+10/03/23, 10:13 pm - Home Minister 😎: Mu kahidebi
+10/03/23, 10:14 pm - #çhäñdáñ...: Hau
+10/03/23, 10:14 pm - #çhäñdáñ...: Ta pare tk pare tk oto jiba
+10/03/23, 10:14 pm - #çhäñdáñ...: Ea ta jou loka
+10/03/23, 10:14 pm - #çhäñdáñ...: Dura re rahiki jama karihabani
+10/03/23, 10:14 pm - #çhäñdáñ...: So mana kara tame
+10/03/23, 10:16 pm - Home Minister 😎: Hau
+10/03/23, 10:17 pm - #çhäñdáñ...: Hm
+10/03/23, 10:18 pm - Home Minister 😎: <Media omitted>
+10/03/23, 10:18 pm - #çhäñdáñ...: Paisa mo pakhare bahut achii
+10/03/23, 10:18 pm - Home Minister 😎: <Media omitted>
+10/03/23, 10:18 pm - #çhäñdáñ...: Are bahot paisa he
+10/03/23, 10:19 pm - #çhäñdáñ...: Paiso ki kami nahi he
+10/03/23, 10:19 pm - #çhäñdáñ...: Main dele daba
+10/03/23, 10:19 pm - #çhäñdáñ...: Abe kichi darkar nahi
+10/03/23, 10:19 pm - Home Minister 😎: <Media omitted>
+10/03/23, 10:20 pm - #çhäñdáñ...: Hm patheideoi
+10/03/23, 10:20 pm - #çhäñdáñ...: Li
+10/03/23, 10:20 pm - #çhäñdáñ...: Jaa enjoy kar 😎
+10/03/23, 10:29 pm - Home Minister 😎: <Media omitted>
+10/03/23, 10:32 pm - Home Minister 😎: Kali Maini phone kale tu utheibuni
+10/03/23, 10:32 pm - #çhäñdáñ...: Bahut bada
+10/03/23, 10:33 pm - Home Minister 😎: Msg karidabu class re achhu boli
+10/03/23, 10:33 pm - Home Minister 😎: Paisa daba Katha kahile kahibu Mama pakhaku patheidia
+10/03/23, 10:34 pm - #çhäñdáñ...: <Media omitted>
+10/03/23, 10:34 pm - Home Minister 😎: Se mote deichanti
+10/03/23, 10:34 pm - #çhäñdáñ...: Kan
+10/03/23, 10:34 pm - #çhäñdáñ...: Deichanti
+11/03/23, 12:01 pm - Home Minister 😎: Khailuni na
+11/03/23, 12:02 pm - #çhäñdáñ...: Hm
+12/03/23, 4:02 pm - Home Minister 😎: Bapa kn karuchhu
+12/03/23, 4:03 pm - Home Minister 😎: Aji khaichu na biriyani
+12/03/23, 4:04 pm - #çhäñdáñ...: Hm
+12/03/23, 4:05 pm - Home Minister 😎: Hau
+12/03/23, 4:05 pm - #çhäñdáñ...: Hm
+12/03/23, 4:06 pm - Home Minister 😎: Tu bhala achhu na
+12/03/23, 4:06 pm - #çhäñdáñ...: Hmm mora kan haba
+12/03/23, 4:07 pm - Home Minister 😎: Na ta deha bhala achhi na
+12/03/23, 4:07 pm - #çhäñdáñ...: Hmm
+12/03/23, 4:07 pm - Home Minister 😎: Thanda hauchi ebe pray lokanku so dara laguchi
+12/03/23, 4:14 pm - #çhäñdáñ...: Thanda ta sateki Cancer
+13/03/23, 9:16 am - Home Minister 😎: Class jaichu na
+13/03/23, 9:25 am - #çhäñdáñ...: Hm
+13/03/23, 9:27 am - Home Minister 😎: Hau mu achhi maitapur re
+13/03/23, 9:28 am - #çhäñdáñ...: Hm hm
+13/03/23, 3:57 pm - Home Minister 😎: Galuna market
+13/03/23, 4:01 pm - #çhäñdáñ...: Na jaini
+13/03/23, 4:01 pm - #çhäñdáñ...: Thau pare kinibi auu
+13/03/23, 4:01 pm - #çhäñdáñ...: Kehi galeni
+13/03/23, 4:01 pm - #çhäñdáñ...: Eka kan jibi
+13/03/23, 4:01 pm - #çhäñdáñ...: Thau se
+13/03/23, 4:02 pm - Home Minister 😎: Hau
+13/03/23, 4:02 pm - Home Minister 😎: Sunday re  chalijibu
+13/03/23, 4:02 pm - #çhäñdáñ...: Hm dekhiba au
+14/03/23, 9:34 pm - Home Minister 😎: Khaiba paisa deidabu
+14/03/23, 9:34 pm - #çhäñdáñ...: Ate paisa kahinki deicha
+14/03/23, 9:34 pm - #çhäñdáñ...: 500 deidauchi
+14/03/23, 9:35 pm - Home Minister 😎: Hee
+14/03/23, 9:35 pm - Home Minister 😎: Thau
+14/03/23, 9:35 pm - Home Minister 😎: Ei month paini deli
+14/03/23, 9:35 pm - #çhäñdáñ...: Na
+14/03/23, 9:35 pm - #çhäñdáñ...: Achi mo pakhare
+14/03/23, 9:36 pm - Home Minister 😎: Eka Katha
+14/03/23, 9:36 pm - Home Minister 😎: Kunu.vouja deini na paisa
+14/03/23, 9:36 pm - #çhäñdáñ...: Naa
+14/03/23, 9:36 pm - #çhäñdáñ...: Pa
+14/03/23, 9:37 pm - Home Minister 😎: He vikari guda
+14/03/23, 9:37 pm - #çhäñdáñ...: Hmm
+14/03/23, 9:37 pm - Home Minister 😎: Se nadiantu mu jetiki dauchi setiki re chalija
+14/03/23, 9:37 pm - #çhäñdáñ...: Hm
+14/03/23, 9:38 pm - Home Minister 😎: Au kamdina rahila
+14/03/23, 9:38 pm - #çhäñdáñ...: Hm
+14/03/23, 9:38 pm - Home Minister 😎: Tapare nije income karibu kharcha karibu
+14/03/23, 9:38 pm - #çhäñdáñ...: Hm hm
+14/03/23, 9:38 pm - Home Minister 😎: Khaibu ja
+14/03/23, 9:39 pm - #çhäñdáñ...: Hm
+14/03/23, 9:39 pm - Home Minister 😎: Mane Kari katidabu
+14/03/23, 9:39 pm - #çhäñdáñ...: Hm
+14/03/23, 10:50 pm - Home Minister 😎: Missed video call
+14/03/23, 10:51 pm - Home Minister 😎: Ki Lo
+14/03/23, 10:51 pm - Home Minister 😎: Phone kalu puni uthaunu
+16/03/23, 10:14 am - #çhäñdáñ...: Parikhya kmti hela
+16/03/23, 10:21 am - Home Minister 😎: Bhala
+16/03/23, 10:37 am - #çhäñdáñ...: Hau
+16/03/23, 11:00 am - Home Minister 😎: Question bhala padichi
+16/03/23, 11:01 am - Home Minister 😎: 2 ta bhul gote doubt
+16/03/23, 11:03 am - Home Minister 😎: <Media omitted>
+16/03/23, 11:03 am - Home Minister 😎: Seita Tara doubt
+16/03/23, 11:05 am - #çhäñdáñ...: Question bhul achi
+16/03/23, 11:05 am - #çhäñdáñ...: Only option 1 ta thik
+16/03/23, 11:05 am - #çhäñdáñ...: Auu 3 ta jaka bhul
+16/03/23, 11:06 am - Home Minister 😎: Oho
+16/03/23, 11:06 am - #çhäñdáñ...: Hm
+16/03/23, 11:08 am - #çhäñdáñ...: 9.32 sgpa asila mora
+16/03/23, 11:08 am - Home Minister 😎: Hau
+16/03/23, 11:09 am - #çhäñdáñ...: Hm
+16/03/23, 11:09 am - #çhäñdáñ...: Cgpa 9.48
+16/03/23, 11:10 am - Home Minister 😎: Hau
+16/03/23, 11:10 am - #çhäñdáñ...: Hm
+16/03/23, 11:12 am - Home Minister 😎: Tara sa1 re jetiki bhul thila sa2 setiki bhul
+16/03/23, 11:12 am - #çhäñdáñ...: Hauu
+16/03/23, 11:12 am - Home Minister 😎: Di ta life science bhul
+16/03/23, 11:13 am - Home Minister 😎: Physics thik achhi sabu
+16/03/23, 7:39 pm - Home Minister 😎: Kn karuchhu
+16/03/23, 7:39 pm - #çhäñdáñ...: Padhuhi
+16/03/23, 7:40 pm - Home Minister 😎: Hau padha
+16/03/23, 7:40 pm - #çhäñdáñ...: Um
+17/03/23, 1:18 pm - Home Minister 😎: Gala na Puri
+17/03/23, 1:25 pm - #çhäñdáñ...: Hm jibu
+17/03/23, 4:34 pm - Home Minister 😎: Bus pailu na
+17/03/23, 4:34 pm - #çhäñdáñ...: Hm
+17/03/23, 4:34 pm - #çhäñdáñ...: Basichi bus re
+17/03/23, 4:35 pm - Home Minister 😎: Train kete ta re
+17/03/23, 4:35 pm - #çhäñdáñ...: 6
+17/03/23, 4:35 pm - Home Minister 😎: Pahanchiki call karibu
+17/03/23, 4:38 pm - #çhäñdáñ...: Hm
+17/03/23, 5:06 pm - Home Minister 😎: 6jana gote room re rahiba na
+17/03/23, 5:06 pm - Home Minister 😎: Badal Priyanshu sabu jaichhanti na
+17/03/23, 7:17 pm - #çhäñdáñ...: <Media omitted>
+17/03/23, 7:17 pm - Home Minister 😎: ❤❤❤❤❤
+17/03/23, 7:18 pm - #çhäñdáñ...: 🙂
+17/03/23, 8:51 pm - Home Minister 😎: Free hele call karibu
+17/03/23, 10:10 pm - Home Minister 😎: Paisa ta baba send kale gala na msg karidabu
+17/03/23, 11:55 pm - Home Minister 😎: Room ku asilani na
+18/03/23, 12:08 am - #çhäñdáñ...: Hm
+18/03/23, 4:32 am - #çhäñdáñ...: Uthilu jibu bahariki mandira
+18/03/23, 4:32 am - Home Minister 😎: Hau
+18/03/23, 4:32 am - #çhäñdáñ...: Chahincha na kan
+18/03/23, 4:33 am - Home Minister 😎: Uthilu 4re
+18/03/23, 4:33 am - #çhäñdáñ...: Hauuu
+18/03/23, 4:33 am - Home Minister 😎: Ete belu kn mandira jiba
+18/03/23, 4:33 am - Home Minister 😎: Soipada
+18/03/23, 4:34 am - Home Minister 😎: Au tike jau
+18/03/23, 4:34 am - Home Minister 😎: Mobile rakhiki jiba
+18/03/23, 4:34 am - #çhäñdáñ...: Hmmm hm
+18/03/23, 4:34 am - #çhäñdáñ...: Na mangala alati dekhibu
+18/03/23, 4:35 am - Home Minister 😎: Oho
+18/03/23, 4:35 am - #çhäñdáñ...: Hm
+18/03/23, 8:06 am - Home Minister 😎: Bapa kauti
+18/03/23, 1:08 pm - Home Minister 😎: Photo uthauna Ki be send karibu ta
+18/03/23, 8:55 pm - Home Minister 😎: Ta photo au tee-shirt photo send karibu ta
+18/03/23, 8:55 pm - Home Minister 😎: Gala na room ku
+18/03/23, 9:25 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:27 pm - Home Minister 😎: Bhal laguchi
+18/03/23, 9:27 pm - Home Minister 😎: Ghare pahanchi galu na
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: <Media omitted>
+18/03/23, 9:29 pm - #çhäñdáñ...: Hm
+18/03/23, 9:29 pm - #çhäñdáñ...: 300 tanka sabu
+19/03/23, 11:03 am - Home Minister 😎: Bapa pahanchigalu na hostel re
+19/03/23, 11:13 am - #çhäñdáñ...: Hmm DN REGALIA re
+19/03/23, 11:14 am - #çhäñdáñ...: Jibu aau
+20/03/23, 3:25 pm - Home Minister 😎: <Media omitted>
+20/03/23, 3:26 pm - Home Minister 😎: <Media omitted>
+23/03/23, 11:57 am - #çhäñdáñ...: Priyanshu bhai b padhiba
+23/03/23, 11:57 am - #çhäñdáñ...: Adyant
+23/03/23, 2:03 pm - Home Minister 😎: Hau
+23/03/23, 11:32 pm - #çhäñdáñ...: Mo blazer ta neiasiba
+23/03/23, 11:32 pm - Home Minister 😎: OK ok
+23/03/23, 11:33 pm - Home Minister 😎: Mama soileni
+23/03/23, 11:33 pm - #çhäñdáñ...: Kebe asiba
+23/03/23, 11:33 pm - Home Minister 😎: Kauthiki
+23/03/23, 11:33 pm - #çhäñdáñ...: Bhubaneswar
+23/03/23, 11:33 pm - Home Minister 😎: April 2
+23/03/23, 11:34 pm - #çhäñdáñ...: Hau
+23/03/23, 11:34 pm - Home Minister 😎: Tu soinu Ki
+23/03/23, 11:34 pm - #çhäñdáñ...: Naa
+23/03/23, 11:34 pm - #çhäñdáñ...: 2 ta bajile
+23/03/23, 11:34 pm - #çhäñdáñ...: Soibu
+23/03/23, 11:34 pm - Home Minister 😎: Ki be
+23/03/23, 11:35 pm - #çhäñdáñ...: Gelu na
+23/03/23, 11:35 pm - Home Minister 😎: Yes bosss
+23/03/23, 11:35 pm - #çhäñdáñ...: Sounu tu
+23/03/23, 11:35 pm - #çhäñdáñ...: Kn karuchu phone re
+23/03/23, 11:35 pm - Home Minister 😎: Nehi bro
+23/03/23, 11:35 pm - Home Minister 😎: 😁😁😁
+24/03/23, 12:00 am - #çhäñdáñ...: Happy Birthday 🎈🎂🎂
+24/03/23, 12:01 am - #çhäñdáñ...: Very many happy returns of the day
+24/03/23, 3:54 am - Home Minister 😎: Thank you so much my bro (dessi munda) 😁😁
+24/03/23, 11:03 am - #çhäñdáñ...: Ishh pura khela auu
+24/03/23, 11:27 am - Home Minister 😎: 😁😁😁🤓🤓
+24/03/23, 11:27 am - #çhäñdáñ...: Chasama kahara
+24/03/23, 11:27 am - Home Minister 😎: Mora
+24/03/23, 11:27 am - #çhäñdáñ...: Hau hau
+24/03/23, 11:28 am - Home Minister 😎: Bhala laguchi naa
+24/03/23, 11:28 am - #çhäñdáñ...: Hmm hmm
+24/03/23, 11:28 am - Home Minister 😎: OK
+24/03/23, 11:28 am - Home Minister 😎: Thank you
+24/03/23, 11:28 am - Home Minister 😎: Tu class re achhu naa
+24/03/23, 11:29 am - #çhäñdáñ...: Hm
+24/03/23, 11:31 am - Home Minister 😎: Phone kemiti chalauchu
+25/03/23, 10:42 pm - Home Minister 😎: Adyant photo guda pathani
+25/03/23, 10:50 pm - #çhäñdáñ...: <Media omitted>
+25/03/23, 10:50 pm - #çhäñdáñ...: <Media omitted>
+25/03/23, 10:50 pm - #çhäñdáñ...: <Media omitted>
+25/03/23, 10:50 pm - #çhäñdáñ...: <Media omitted>
+25/03/23, 10:50 pm - #çhäñdáñ...: <Media omitted>
+25/03/23, 10:50 pm - #çhäñdáñ...: <Media omitted>
+25/03/23, 10:50 pm - #çhäñdáñ...: <Media omitted>
+25/03/23, 10:50 pm - #çhäñdáñ...: <Media omitted>
+26/03/23, 10:37 am - #çhäñdáñ...: https://www.instagram.com/reel/CqNLyNvJkh3x43MNw0ZJObGbk6JqxpZOJ4-7ko0/?igshid=MDJmNzVkMjY=
+26/03/23, 10:37 am - #çhäñdáñ...: Dekha dekha
+26/03/23, 10:37 am - #çhäñdáñ...: 😂😆😂
+26/03/23, 6:10 pm - #çhäñdáñ...: <Media omitted>
+28/03/23, 12:59 pm - Home Minister 😎: <Media omitted>
+30/03/23, 12:00 pm - #çhäñdáñ...: <Media omitted>
+30/03/23, 12:00 pm - #çhäñdáñ...: <Media omitted>
+30/03/23, 12:00 pm - #çhäñdáñ...: <Media omitted>
+30/03/23, 8:17 pm - Home Minister 😎: <Media omitted>
+30/03/23, 10:54 pm - Home Minister 😎: <Media omitted>
+31/03/23, 1:58 pm - Home Minister 😎: Hmm paigali
+31/03/23, 3:51 pm - #çhäñdáñ...: <Media omitted>
+31/03/23, 3:51 pm - #çhäñdáñ...: <Media omitted>
+31/03/23, 3:59 pm - Home Minister 😎: Ma gelha ta
+01/04/23, 7:07 pm - Home Minister 😎: Blesar ta maila heichi ta khola hengar sabu neijibi na
+01/04/23, 8:23 pm - #çhäñdáñ...: Hm
+01/04/23, 8:23 pm - #çhäñdáñ...: Neiasiba
+02/04/23, 9:53 am - #çhäñdáñ...: location: https://maps.google.com/?q=20.3513125,85.8067888
+02/04/23, 9:25 pm - #çhäñdáñ...: 9556771881
+02/04/23, 9:26 pm - #çhäñdáñ...: Subham sir
+02/04/23, 9:32 pm - Home Minister 😎: Hmm
+04/04/23, 1:15 pm - Home Minister 😎: April month paini pocket money deli
+04/04/23, 1:15 pm - Home Minister 😎: 1000
+04/04/23, 1:16 pm - Home Minister 😎: Au magibuni
+04/04/23, 2:35 pm - Home Minister 😎: Kauti
+04/04/23, 3:20 pm - Home Minister 😎: Kauti pahanchilu
+04/04/23, 3:20 pm - #çhäñdáñ...: Patrapda
+04/04/23, 3:20 pm - Home Minister 😎: Hau
+04/04/23, 3:20 pm - #çhäñdáñ...: Hm
+04/04/23, 3:20 pm - #çhäñdáñ...: Ahuri 30 minutes
+04/04/23, 3:21 pm - Home Minister 😎: Hmm
+04/04/23, 4:42 pm - Home Minister 😎: Missed video call
+04/04/23, 7:13 pm - Home Minister 😎: Gelu photo guda send karani
+04/04/23, 7:13 pm - #çhäñdáñ...: <Media omitted>
+04/04/23, 7:13 pm - #çhäñdáñ...: <Media omitted>
+04/04/23, 7:13 pm - #çhäñdáñ...: <Media omitted>
+04/04/23, 7:19 pm - Home Minister 😎: Kauti pahanchilu
+04/04/23, 7:20 pm - #çhäñdáñ...: Bhubaneswar
+04/04/23, 7:20 pm - Home Minister 😎: Ete sighra
+04/04/23, 7:20 pm - #çhäñdáñ...: Hm
+04/04/23, 7:20 pm - Home Minister 😎: Sabu ta bhubaneswar
+04/04/23, 7:20 pm - Home Minister 😎: Re jauchi
+04/04/23, 7:21 pm - #çhäñdáñ...: Acharya vihar au 10 mins
+04/04/23, 7:21 pm - Home Minister 😎: Hauy
+04/04/23, 7:21 pm - #çhäñdáñ...: Hm
+04/04/23, 8:11 pm - Home Minister 😎: Room re pahanchiki msg karidabu
+04/04/23, 8:12 pm - #çhäñdáñ...: Pahanchili
+04/04/23, 8:36 pm - Home Minister 😎: Hau
+04/04/23, 11:11 pm - Home Minister 😎: Soipadiluni Ki
+05/04/23, 5:31 am - Home Minister 😎: Train re basigalu
+09/04/23, 10:44 pm - Home Minister 😎: Bapa padhuchu na
+09/04/23, 10:44 pm - Home Minister 😎: Phone uthaunu kanhiki
+10/04/23, 12:54 am - #çhäñdáñ...: 8 re dakidaba
+10/04/23, 11:52 pm - Home Minister 😎: Ame ghare pahanchi soiluni. Tu byasta habuni
+10/04/23, 11:53 pm - #çhäñdáñ...: Hau
+11/04/23, 7:18 pm - Home Minister 😎: <Media omitted>
+11/04/23, 7:18 pm - Home Minister 😎: <Media omitted>
+11/04/23, 7:18 pm - Home Minister 😎: <Media omitted>
+12/04/23, 12:26 am - #çhäñdáñ...: 7 30 re dakidaba
+12/04/23, 1:18 am - #çhäñdáñ...: Urgent
+12/04/23, 10:56 pm - #çhäñdáñ...: Kali 7 30
+12/04/23, 10:56 pm - #çhäñdáñ...: Urgent
+13/04/23, 12:04 pm - #çhäñdáñ...: Phone ta kain uthaunaa
+13/04/23, 12:05 pm - #çhäñdáñ...: Hello
+13/04/23, 12:17 pm - Home Minister 😎: Na bus highway re jiba
+13/04/23, 12:18 pm - #çhäñdáñ...: Hau tame jaa
+13/04/23, 1:21 pm - #çhäñdáñ...: Pahanchilani
+13/04/23, 1:21 pm - #çhäñdáñ...: ??
+13/04/23, 1:56 pm - Home Minister 😎: He ei barmunda bus  chhadila
+13/04/23, 1:59 pm - #çhäñdáñ...: Hauu
+15/04/23, 1:35 am - #çhäñdáñ...: Kali 7 re dakiba
+15/04/23, 4:06 pm - Home Minister 😎: Pailu na bus
+15/04/23, 4:07 pm - #çhäñdáñ...: Na
+15/04/23, 4:07 pm - #çhäñdáñ...: Chhida heichi
+15/04/23, 4:07 pm - Home Minister 😎: Kete belu chhida heluni
+15/04/23, 4:16 pm - #çhäñdáñ...: Basiliii
+15/04/23, 4:16 pm - #çhäñdáñ...: Bus re
+15/04/23, 4:16 pm - Home Minister 😎: Hau
+15/04/23, 4:16 pm - #çhäñdáñ...: Hmm
+15/04/23, 4:17 pm - Home Minister 😎: Time heba na
+15/04/23, 4:17 pm - #çhäñdáñ...: Hm hm
+15/04/23, 4:17 pm - Home Minister 😎: Hau
+15/04/23, 5:05 pm - Home Minister 😎: Kauti
+17/04/23, 7:28 am - #çhäñdáñ...: Paigalu seat
+17/04/23, 7:29 am - Home Minister 😎: Hau
+17/04/23, 7:29 am - #çhäñdáñ...: Hmm
+17/04/23, 7:29 am - Home Minister 😎: Bag guda teki daba
+17/04/23, 7:30 am - #çhäñdáñ...: Hm tame tension niani
+17/04/23, 8:44 am - Home Minister 😎: <Media omitted>
+17/04/23, 8:44 am - Home Minister 😎: <Media omitted>
+17/04/23, 8:44 am - Home Minister 😎: <Media omitted>
+17/04/23, 10:00 am - #çhäñdáñ...: <Media omitted>
+17/04/23, 10:00 am - #çhäñdáñ...: <Media omitted>
+17/04/23, 11:36 am - Home Minister 😎: Bus re basilani na
+17/04/23, 11:43 am - #çhäñdáñ...: Hmm
+17/04/23, 11:43 am - Home Minister 😎: Hau
+17/04/23, 11:56 am - Home Minister 😎: Seat paichu na
+17/04/23, 12:58 pm - Home Minister 😎: College pahanchile msg karidabu
+17/04/23, 5:47 pm - Home Minister 😎: Bus paigalu na
+17/04/23, 5:47 pm - Home Minister 😎: Room re pahanchile msg karidabu
+17/04/23, 5:53 pm - #çhäñdáñ...: Hmm pahanchilii
+18/04/23, 3:12 pm - Home Minister 😎: Khaiba paisa deidelu na
+18/04/23, 3:50 pm - #çhäñdáñ...: Hm
+18/04/23, 3:50 pm - #çhäñdáñ...: Deideichi
+18/04/23, 3:50 pm - Home Minister 😎: Hau
+18/04/23, 3:51 pm - #çhäñdáñ...: Hmm
+18/04/23, 7:24 pm - #çhäñdáñ...: Mama
+18/04/23, 7:24 pm - #çhäñdáñ...: Mate 1000 tanka patheila
+18/04/23, 7:24 pm - #çhäñdáñ...: Kali return karidebi
+18/04/23, 7:24 pm - #çhäñdáñ...: Se badal ra kan darkar gote na
+18/04/23, 7:24 pm - #çhäñdáñ...: Kali deidaba
+18/04/23, 7:28 pm - Home Minister 😎: Hau
+20/04/23, 10:54 pm - #çhäñdáñ...: Aauu 200 /- patheideichi
+22/04/23, 9:08 pm - Home Minister 😎: Eguda kn Lo
+23/04/23, 5:13 pm - Home Minister 😎: Ma mobile recharge karide
+23/04/23, 5:18 pm - #çhäñdáñ...: Hm
+25/04/23, 5:57 pm - #çhäñdáñ...: <Media omitted>
+25/04/23, 6:13 pm - Home Minister 😎: Hau au gote neiasibu
+25/04/23, 6:13 pm - #çhäñdáñ...: Hau
+25/04/23, 6:48 pm - Home Minister 😎: <Media omitted>
+25/04/23, 6:48 pm - #çhäñdáñ...: Aheee
+25/04/23, 6:49 pm - Home Minister 😎: He se chhadijiba
+25/04/23, 6:49 pm - #çhäñdáñ...: Rosei fosei kichi karibani tame
+25/04/23, 6:49 pm - Home Minister 😎: Tu tension nabuni
+25/04/23, 6:49 pm - Home Minister 😎: Tarkari achhi ruti 4ta karibi
+25/04/23, 6:49 pm - #çhäñdáñ...: Tension nuhe tame lageidaba kichi seithire
+25/04/23, 6:50 pm - Home Minister 😎: Na
+25/04/23, 6:50 pm - #çhäñdáñ...: Na kale havani naa
+25/04/23, 6:50 pm - Home Minister 😎: Khali ruti karibi Baba khaibe
+25/04/23, 6:51 pm - #çhäñdáñ...: Hau hau
+25/04/23, 6:51 pm - Home Minister 😎: Kali kamijiba
+25/04/23, 6:51 pm - #çhäñdáñ...: Hauu poduchi naa
+25/04/23, 6:52 pm - Home Minister 😎: Na
+25/04/23, 6:53 pm - #çhäñdáñ...: Naa mana karuthiba
+25/04/23, 6:53 pm - #çhäñdáñ...: Hau dekhiki kara roti foti jaha kariba
+25/04/23, 6:54 pm - Home Minister 😎: Tu byasta hani hela mu thik achhi
+25/04/23, 6:58 pm - #çhäñdáñ...: Hm hm
+25/04/23, 6:59 pm - #çhäñdáñ...: Pani fani  lageibani
+25/04/23, 10:45 pm - Home Minister 😎: Kn msg karithilu delete karidelu
+25/04/23, 10:51 pm - #çhäñdáñ...: Kichi nai
+26/04/23, 5:01 pm - #çhäñdáñ...: <Media omitted>
+26/04/23, 6:39 pm - #çhäñdáñ...: Hata kemiti achi tamara
+26/04/23, 6:41 pm - #çhäñdáñ...: <Media omitted>
+26/04/23, 6:41 pm - #çhäñdáñ...: <Media omitted>
+26/04/23, 6:41 pm - #çhäñdáñ...: <Media omitted>
+26/04/23, 6:41 pm - #çhäñdáñ...: <Media omitted>
+26/04/23, 6:41 pm - #çhäñdáñ...: <Media omitted>
+26/04/23, 6:42 pm - Home Minister 😎: Hmm Bhala achhi
+26/04/23, 6:43 pm - #çhäñdáñ...: Hauu
+26/04/23, 9:42 pm - Home Minister 😎: Jee main results asilani Ki tike check karidabu
+26/04/23, 10:12 pm - #çhäñdáñ...: Na asini
+28/04/23, 9:10 am - Home Minister 😎: Gelu paini horlicks 500 au gote khira pia bada cup neiasibu. Glass re khira anila belaku ta hata podijauchi.
+28/04/23, 9:31 am - #çhäñdáñ...: Hmm
+28/04/23, 11:46 am - Home Minister 😎: Free hele call karibu
+28/04/23, 11:47 am - Home Minister 😎: Katha achhi
+28/04/23, 4:57 pm - Home Minister 😎: Galu na anibaku
+28/04/23, 4:57 pm - #çhäñdáñ...: Aniki bus re basichi
+28/04/23, 4:57 pm - #çhäñdáñ...: Jauchi gelu pakhaku
+28/04/23, 4:57 pm - #çhäñdáñ...: Para
+28/04/23, 4:57 pm - Home Minister 😎: Ebe na
+28/04/23, 4:57 pm - #çhäñdáñ...: Hmm
+28/04/23, 4:57 pm - Home Minister 😎: Ki
+28/04/23, 4:58 pm - #çhäñdáñ...: Railway station pahanchilinii
+28/04/23, 4:58 pm - #çhäñdáñ...: Paleiasili auu
+28/04/23, 4:58 pm - #çhäñdáñ...: Bus achi 5 minutes re
+28/04/23, 4:58 pm - #çhäñdáñ...: Baba nku kahichi
+28/04/23, 4:58 pm - Home Minister 😎: Ekutia asichu na
+28/04/23, 4:59 pm - #çhäñdáñ...: Na priyanshu b
+28/04/23, 4:59 pm - Home Minister 😎: Oho Hau
+28/04/23, 4:59 pm - #çhäñdáñ...: Hmm
+28/04/23, 4:59 pm - Home Minister 😎: Cup pailu na
+28/04/23, 4:59 pm - #çhäñdáñ...: Naq
+28/04/23, 4:59 pm - #çhäñdáñ...: Cup aniparilinii
+28/04/23, 5:00 pm - Home Minister 😎: Paisa nathiba patheibi na
+28/04/23, 5:00 pm - #çhäñdáñ...: Na na achii
+28/04/23, 5:00 pm - Home Minister 😎: Hau
+28/04/23, 5:00 pm - #çhäñdáñ...: Hmm
+28/04/23, 5:14 pm - Home Minister 😎: Chhadilani na bus
+28/04/23, 5:15 pm - #çhäñdáñ...: Na chhadiba
+28/04/23, 5:15 pm - Home Minister 😎: Semane Self study paleibe
+28/04/23, 5:15 pm - #çhäñdáñ...: Keteta
+28/04/23, 5:15 pm - Home Minister 😎: 6.45
+28/04/23, 5:19 pm - #çhäñdáñ...: Bahut time achii
+28/04/23, 5:19 pm - #çhäñdáñ...: Tension niani
+28/04/23, 5:19 pm - Home Minister 😎: Hau
+28/04/23, 5:20 pm - #çhäñdáñ...: Mmm
+28/04/23, 5:56 pm - Home Minister 😎: Kauti pahanchilu
+28/04/23, 6:04 pm - Home Minister 😎: Ki Lo kaha sangare Katha hauchu phone busy dekhauchi
+28/04/23, 6:27 pm - Home Minister 😎: Adyant re rahijauna aji rati ta
+28/04/23, 6:40 pm - #çhäñdáñ...: Gee
+28/04/23, 6:40 pm - #çhäñdáñ...: Hee
+28/04/23, 7:31 pm - Home Minister 😎: Sir kauti chhadibe
+28/04/23, 8:15 pm - Home Minister 😎: Bus paigalu na
+28/04/23, 8:15 pm - #çhäñdáñ...: Hm bus re
+28/04/23, 8:15 pm - #çhäñdáñ...: Baramunda pahanchili
+28/04/23, 8:15 pm - Home Minister 😎: Hau
+28/04/23, 8:15 pm - #çhäñdáñ...: Hmm
+28/04/23, 8:16 pm - Home Minister 😎: Acharya bihar ru kemiti galu msg karidabu
+28/04/23, 8:16 pm - Home Minister 😎: Bus napaile auto Kari paleibu
+28/04/23, 8:16 pm - #çhäñdáñ...: 8 45 re ac bus achi
+28/04/23, 8:21 pm - Home Minister 😎: Hau
+28/04/23, 8:48 pm - #çhäñdáñ...: Pahanchilini
+28/04/23, 8:48 pm - #çhäñdáñ...: Pakha pakhi
+28/04/23, 8:48 pm - #çhäñdáñ...: Silicon
+28/04/23, 8:50 pm - Home Minister 😎: Bus paigalu na acharya bihar ru
+28/04/23, 8:55 pm - #çhäñdáñ...: Hm
+28/04/23, 10:37 pm - Home Minister 😎: Khailu na asiki
+28/04/23, 10:38 pm - Home Minister 😎: Gelu au phone karithila Ki
+28/04/23, 10:44 pm - #çhäñdáñ...: Na
+28/04/23, 10:44 pm - Home Minister 😎: Hau
+28/04/23, 10:44 pm - #çhäñdáñ...: Tamaku karichi kii
+28/04/23, 10:44 pm - Home Minister 😎: Khailu nay
+28/04/23, 10:45 pm - Home Minister 😎: Na
+28/04/23, 10:45 pm - Home Minister 😎: Kali kariba
+28/04/23, 11:35 pm - #çhäñdáñ...: Taku kahithili rati re cl karibaku
+29/04/23, 12:25 pm - #çhäñdáñ...: <Media omitted>
+29/04/23, 12:35 pm - Home Minister 😎: Kalu na
+29/04/23, 12:35 pm - #çhäñdáñ...: Hmmm
+29/04/23, 1:51 pm - Home Minister 😎: <Media omitted>
+29/04/23, 1:55 pm - Home Minister 😎: Chhua Maini mobile ku send karidabu
+29/04/23, 1:56 pm - Home Minister 😎: Kahibu eita ma results
+29/04/23, 2:13 pm - Home Minister 😎: Send kalu na
+29/04/23, 2:36 pm - Home Minister 😎: <Media omitted>
+29/04/23, 2:51 pm - #çhäñdáñ...: Hmmmmm
+29/04/23, 2:57 pm - #çhäñdáñ...: <Media omitted>
+29/04/23, 2:57 pm - #çhäñdáñ...: <Media omitted>
+29/04/23, 2:59 pm - #çhäñdáñ...: <Media omitted>
+29/04/23, 10:41 pm - #çhäñdáñ...: <Media omitted>
+29/04/23, 10:41 pm - #çhäñdáñ...: Paint taa
+29/04/23, 10:41 pm - #çhäñdáñ...: <Media omitted>
+30/04/23, 3:38 pm - Home Minister 😎: Nandankanan re group photo ta utheithilu kanhi patha se photo ta
+30/04/23, 3:50 pm - #çhäñdáñ...: <Media omitted>
+30/04/23, 3:50 pm - #çhäñdáñ...: <Media omitted>
+30/04/23, 3:50 pm - #çhäñdáñ...: <Media omitted>
+30/04/23, 3:50 pm - #çhäñdáñ...: <Media omitted>
+30/04/23, 3:50 pm - #çhäñdáñ...: <Media omitted>
+30/04/23, 3:50 pm - #çhäñdáñ...: <Media omitted>
+30/04/23, 3:50 pm - #çhäñdáñ...: <Media omitted>
+30/04/23, 3:50 pm - #çhäñdáñ...: <Media omitted>
+30/04/23, 3:50 pm - #çhäñdáñ...: <Media omitted>
+30/04/23, 3:50 pm - #çhäñdáñ...: <Media omitted>
+30/04/23, 3:50 pm - #çhäñdáñ...: <Media omitted>
+30/04/23, 9:58 pm - Home Minister 😎: Ferilani na
+01/05/23, 1:04 am - #çhäñdáñ...: <Media omitted>
+01/05/23, 1:04 am - #çhäñdáñ...: <Media omitted>
+01/05/23, 1:04 am - #çhäñdáñ...: <Media omitted>
+01/05/23, 1:04 am - #çhäñdáñ...: <Media omitted>
+01/05/23, 1:04 am - #çhäñdáñ...: <Media omitted>
+01/05/23, 1:04 am - #çhäñdáñ...: <Media omitted>
+01/05/23, 1:04 am - #çhäñdáñ...: <Media omitted>
+01/05/23, 1:04 am - #çhäñdáñ...: <Media omitted>
+01/05/23, 1:04 am - #çhäñdáñ...: <Media omitted>
+02/05/23, 3:53 pm - Home Minister 😎: Gelu phone karithila Ki
+02/05/23, 3:53 pm - #çhäñdáñ...: Hm para mu paleithili toilet
+02/05/23, 3:53 pm - #çhäñdáñ...: Saroj baba nka phone ru
+02/05/23, 3:53 pm - Home Minister 😎: Hmm
+02/05/23, 3:54 pm - Home Minister 😎: Kahuthila kariba boli
+02/05/23, 3:54 pm - Home Minister 😎: Hau
+02/05/23, 7:50 pm - Home Minister 😎: <Media omitted>
+02/05/23, 7:51 pm - #çhäñdáñ...: Hau hau
+02/05/23, 7:51 pm - #çhäñdáñ...: Hela auuu
+02/05/23, 7:51 pm - #çhäñdáñ...: Government chakiri mane raja
+02/05/23, 7:51 pm - Home Minister 😎: Hmm
+02/05/23, 7:51 pm - #çhäñdáñ...: Kintu luxury nahiii
+02/05/23, 7:52 pm - Home Minister 😎: Hmm training re khatei Ki maridebe
+02/05/23, 7:52 pm - Home Minister 😎: Bahut kasta
+02/05/23, 7:52 pm - #çhäñdáñ...: Hmm
+02/05/23, 7:53 pm - Home Minister 😎: Baban bhali ac room re basiki rahibani
+02/05/23, 7:54 pm - Home Minister 😎: Toka AC room neichi
+02/05/23, 7:54 pm - #çhäñdáñ...: Hauu
+02/05/23, 7:54 pm - Home Minister 😎: https://youtu.be/Xjez5y7jBK8
+02/05/23, 7:55 pm - #çhäñdáñ...: Basss
+02/05/23, 7:55 pm - Home Minister 😎: Kie kahani
+02/05/23, 7:56 pm - #çhäñdáñ...: Miti dei bara
+02/05/23, 7:56 pm - Home Minister 😎: Hmm
+02/05/23, 7:56 pm - #çhäñdáñ...: Mmm
+02/05/23, 7:56 pm - Home Minister 😎: Rajasthan ra kn karuchi
+02/05/23, 7:56 pm - #çhäñdáñ...: Charted na kan pa
+02/05/23, 7:56 pm - Home Minister 😎: Miti ku neijiba seitiki
+02/05/23, 7:57 pm - Home Minister 😎: Chhenaguda
+02/05/23, 7:57 pm - #çhäñdáñ...: 😂
+02/05/23, 7:57 pm - Home Minister 😎: Jau marubhumi ku
+02/05/23, 7:57 pm - #çhäñdáñ...: Hmmmm
+02/05/23, 7:58 pm - Home Minister 😎: Sabu ta gote gote heroine
+02/05/23, 7:58 pm - #çhäñdáñ...: Hmmm
+06/05/23, 12:51 pm - Home Minister 😎: Hela na
+06/05/23, 2:55 pm - Home Minister 😎: 200 rupees rakhiki au paisa patheide
+08/05/23, 1:40 pm - Home Minister 😎: <Media omitted>
+10/05/23, 4:41 pm - #çhäñdáñ...: Free hele cl kariba
+13/05/23, 11:07 pm - Home Minister 😎: Canteen bill asilani na
+13/05/23, 11:10 pm - #çhäñdáñ...: Hmm
+13/05/23, 11:10 pm - Home Minister 😎: Kahunu ta
+13/05/23, 11:10 pm - #çhäñdáñ...: Kahini mane nabi
+13/05/23, 11:10 pm - Home Minister 😎: Kete asichi
+13/05/23, 11:11 pm - Home Minister 😎: Kete asichi
+13/05/23, 11:12 pm - #çhäñdáñ...: 3680 + 500 + 600 = 4780
+13/05/23, 11:16 pm - Home Minister 😎: Hau
+13/05/23, 11:17 pm - #çhäñdáñ...: Hm
+17/05/23, 6:57 pm - Home Minister 😎: Ma mobile recharge karideni
+18/05/23, 9:39 am - Home Minister 😎: <Media omitted>
+18/05/23, 9:39 am - Home Minister 😎: <Media omitted>
+18/05/23, 9:40 am - #çhäñdáñ...: Hau
+18/05/23, 9:40 am - #çhäñdáñ...: Asini results
+18/05/23, 9:40 am - #çhäñdáñ...: Mu check karuthili
+18/05/23, 9:40 am - Home Minister 😎: OK
+18/05/23, 9:40 am - #çhäñdáñ...: Hmm
+18/05/23, 9:41 am - Home Minister 😎: Class jainu ki tu
+18/05/23, 9:46 am - #çhäñdáñ...: Hmm
+18/05/23, 10:28 am - #çhäñdáñ...: <Media omitted>
+18/05/23, 10:28 am - #çhäñdáñ...: <Media omitted>
+18/05/23, 10:43 am - #çhäñdáñ...: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:52 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:53 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:53 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:53 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:53 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:53 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:53 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:53 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:53 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:54 pm - Home Minister 😎: Class re achhu Ki
+19/05/23, 3:55 pm - Home Minister 😎: Phone uthaunu
+19/05/23, 3:55 pm - #çhäñdáñ...: Library re
+19/05/23, 3:55 pm - Home Minister 😎: <Media omitted>
+19/05/23, 3:56 pm - Home Minister 😎: Sambada re baharichi
+19/05/23, 3:56 pm - #çhäñdáñ...: Hauu
+19/05/23, 8:59 pm - Home Minister 😎: https://youtu.be/EVRJY6RzjkU
+20/05/23, 6:04 pm - Home Minister 😎: Photo utheiki send karani
+20/05/23, 6:15 pm - #çhäñdáñ...: <Media omitted>
+20/05/23, 6:15 pm - #çhäñdáñ...: <Media omitted>
+20/05/23, 6:15 pm - #çhäñdáñ...: <Media omitted>
+20/05/23, 8:34 pm - Home Minister 😎: Baba asiluni na room ku
+20/05/23, 8:34 pm - #çhäñdáñ...: Hmm
+20/05/23, 8:34 pm - Home Minister 😎: Kn khailu
+20/05/23, 8:35 pm - #çhäñdáñ...: Bara vegetable chop
+20/05/23, 8:35 pm - #çhäñdáñ...: Samosa
+20/05/23, 8:35 pm - #çhäñdáñ...: Mitha
+20/05/23, 8:36 pm - Home Minister 😎: Hau
+20/05/23, 8:36 pm - #çhäñdáñ...: Hmm
+20/05/23, 8:36 pm - Home Minister 😎: 👍🏻👍🏻👍🏻
+20/05/23, 8:36 pm - Home Minister 😎: Rati re khainabu
+20/05/23, 8:37 pm - #çhäñdáñ...: Hmm
+20/05/23, 8:38 pm - Home Minister 😎: Aji bahut Khusi laguchi ma chhua Mane kau jaga re pahanchuchhanti
+20/05/23, 8:38 pm - Home Minister 😎: Proud of you my son
+20/05/23, 11:07 pm - Home Minister 😎: Phone pay re check Karine
+20/05/23, 11:23 pm - Home Minister 😎: <Media omitted>
+20/05/23, 11:24 pm - Home Minister 😎: <Media omitted>
+20/05/23, 11:26 pm - #çhäñdáñ...: Khynika sukha sabu aau
+20/05/23, 11:30 pm - Home Minister 😎: Felicitation of Ratnasagar Dash ,Balasore District Topper and state rank -7 by Adyant  College .
+20/05/23, 11:30 pm - Home Minister 😎: <Media omitted>
+20/05/23, 11:33 pm - #çhäñdáñ...: Kete rakhichi
+21/05/23, 8:02 am - Home Minister 😎: https://youtu.be/_Jnm6Bcjpvo
+29/05/23, 5:58 pm - #çhäñdáñ...: LN Mohanty Sir.vcf (file attached)
+30/05/23, 4:00 pm - Home Minister 😎: Missed video call
+31/05/23, 11:29 am - Home Minister 😎: Asilani na results
+31/05/23, 11:30 am - #çhäñdáñ...: Naa
+31/05/23, 12:03 pm - Home Minister 😎: Ebe dekhibu asijaithiba
+31/05/23, 12:03 pm - #çhäñdáñ...: Na asini
+31/05/23, 12:04 pm - Home Minister 😎: TV re delani
+31/05/23, 12:04 pm - Home Minister 😎: Asijiba
+31/05/23, 12:05 pm - #çhäñdáñ...: Hmm
+31/05/23, 1:12 pm - Home Minister 😎: Kanhi be marksheet
+31/05/23, 1:19 pm - #çhäñdáñ...: <Media omitted>
+31/05/23, 3:50 pm - #çhäñdáñ...: <Media omitted>
+31/05/23, 8:56 pm - Home Minister 😎: <Media omitted>
+31/05/23, 8:56 pm - Home Minister 😎: <Media omitted>
+31/05/23, 8:56 pm - Home Minister 😎: <Media omitted>
+04/06/23, 10:32 pm - #çhäñdáñ...: https://www.instagram.com/reel/CtBZkB4LUc0/?igshid=MTc4MmM1YmI2Ng==
+08/06/23, 8:42 pm - #çhäñdáñ...: https://stopify.co/7XZ149
+10/06/23, 1:51 pm - #çhäñdáñ...: Khaiki asili
+10/06/23, 1:51 pm - #çhäñdáñ...: Library re
+10/06/23, 1:51 pm - #çhäñdáñ...: Padhuchi
+10/06/23, 1:58 pm - Home Minister 😎: Hau
+10/06/23, 2:39 pm - #çhäñdáñ...: Hmm
+10/06/23, 6:29 pm - Home Minister 😎: Ma mobile recharge karideni
+10/06/23, 6:40 pm - Home Minister 😎: Karichu na recharge
+10/06/23, 6:40 pm - #çhäñdáñ...: Msg jaini ki
+10/06/23, 6:40 pm - Home Minister 😎: Hmm
+10/06/23, 6:40 pm - #çhäñdáñ...: Kali para
+10/06/23, 6:40 pm - Home Minister 😎: But net chaluni
+10/06/23, 6:41 pm - Home Minister 😎: Hau
+11/06/23, 10:59 pm - Home Minister 😎: Baba khaichu na
+11/06/23, 11:34 pm - #çhäñdáñ...: Hmm
+11/06/23, 11:34 pm - #çhäñdáñ...: Khaihxi
+11/06/23, 11:34 pm - #çhäñdáñ...: Kali 6 re dakidaba ta
+12/06/23, 8:20 am - #çhäñdáñ...: Jauchi exam
+15/06/23, 2:23 pm - Home Minister 😎: Kn karuchhu
+15/06/23, 2:24 pm - Home Minister 😎: Khailuni na
+15/06/23, 4:33 pm - #çhäñdáñ...: Hmmm hm
+15/06/23, 10:35 pm - Home Minister 😎: Bapa kn karuchhu
+15/06/23, 10:36 pm - #çhäñdáñ...: Padhuchi
+15/06/23, 10:36 pm - #çhäñdáñ...: 6 re dakidabu
+15/06/23, 10:36 pm - Home Minister 😎: Hau
+15/06/23, 10:37 pm - #çhäñdáñ...: Hmm
+16/06/23, 3:02 pm - #çhäñdáñ...: Kn hauchi network total nahi na kan
+18/06/23, 12:40 pm - Home Minister 😎: Phone uthaunu kanhiki
+18/06/23, 2:27 pm - #çhäñdáñ...: Padhuthili
+18/06/23, 11:22 pm - #çhäñdáñ...: 6 re dakidaba
+18/06/23, 11:24 pm - #çhäñdáñ...: Pura urgent
+21/06/23, 8:13 am - #çhäñdáñ...: Jauchi exam
+21/06/23, 9:48 am - Home Minister 😎: Hau
+21/06/23, 9:49 am - Home Minister 😎: Mu phone dekhinathili sakale
+21/06/23, 3:35 pm - Home Minister 😎: <Media omitted>
+21/06/23, 3:50 pm - #çhäñdáñ...: Hm
+22/06/23, 11:09 am - #çhäñdáñ...: <Media omitted>
+22/06/23, 8:48 pm - Home Minister 😎: <Media omitted>
+22/06/23, 8:58 pm - #çhäñdáñ...: 😂
+22/06/23, 8:58 pm - #çhäñdáñ...: Hau hau
+22/06/23, 10:14 pm - Home Minister 😎: Kuade jaichu ete rati re
+22/06/23, 10:14 pm - Home Minister 😎: <Media omitted>
+23/06/23, 3:51 pm - Home Minister 😎: Asilu na
+23/06/23, 6:19 pm - Home Minister 😎: Ki be 150 tanka patheichu kanhiki
+23/06/23, 6:40 pm - #çhäñdáñ...: Deichi auu
+26/06/23, 7:41 pm - Home Minister 😎: <Media omitted>
+28/06/23, 12:02 pm - #çhäñdáñ...: Sana bau dakuchi
+28/06/23, 12:02 pm - #çhäñdáñ...: Asuna
+28/06/23, 12:02 pm - #çhäñdáñ...: Pacharila kahinki asileni
+28/06/23, 12:02 pm - #çhäñdáñ...: Mu kahili baba late kale kalasa budeiparileni sethipain baba nka upare ragiki soichanti
+28/06/23, 12:03 pm - #çhäñdáñ...: Seitu hasila
+28/06/23, 12:03 pm - #çhäñdáñ...: Asuna tame
+28/06/23, 12:03 pm - #çhäñdáñ...: Dakuchi bau
+29/06/23, 9:24 am - Home Minister 😎: <Media omitted>
+05/07/23, 12:31 pm - Home Minister 😎: Mobile recharge karide
+05/07/23, 12:31 pm - Home Minister 😎: Ma mobile
+10/07/23, 3:13 pm - Home Minister 😎: Be sarini na
+10/07/23, 3:13 pm - Home Minister 😎: Kama
+10/07/23, 5:36 pm - Home Minister 😎: Kauti
+10/07/23, 5:55 pm - #çhäñdáñ...: Basichi train re
+15/07/23, 3:09 pm - Home Minister 😎: <Media omitted>
+15/07/23, 3:09 pm - Home Minister 😎: <Media omitted>
+15/07/23, 3:09 pm - Home Minister 😎: <Media omitted>
+15/07/23, 3:09 pm - Home Minister 😎: <Media omitted>
+15/07/23, 3:09 pm - Home Minister 😎: <Media omitted>
+15/07/23, 3:09 pm - Home Minister 😎: <Media omitted>
+15/07/23, 3:09 pm - Home Minister 😎: <Media omitted>
+15/07/23, 3:09 pm - Home Minister 😎: <Media omitted>
+17/07/23, 3:58 pm - #çhäñdáñ...: https://onlinecourses.nptel.ac.in/noc23_cs126/course?user_email=cn807947@gmail.com
+19/07/23, 9:56 pm - Home Minister 😎: Be kaibu na
+22/07/23, 1:36 pm - #çhäñdáñ...: <Media omitted>
+22/07/23, 8:08 pm - Home Minister 😎: Bapa kn karuchhu be
+22/07/23, 8:33 pm - Home Minister 😎: <Media omitted>
+22/07/23, 9:13 pm - #çhäñdáñ...: Sunduri te haba
+22/07/23, 10:07 pm - Home Minister 😎: Galuni na gharaku
+22/07/23, 10:48 pm - Home Minister 😎: Ekutia soibu na bhai ghara
+22/07/23, 10:49 pm - Home Minister 😎: Jadi soibu ekutia door ta khali aujidabu lock karibuni
+22/07/23, 10:50 pm - Home Minister 😎: Kanhiki na sakale jhadu karibe ghara au tu ta late re uthibu
+23/07/23, 1:34 am - #çhäñdáñ...: Bhai ghara
+24/07/23, 7:54 pm - Home Minister 😎: Bapu kauti
+25/07/23, 1:20 pm - Home Minister 😎: <Media omitted>
+26/07/23, 9:17 pm - #çhäñdáñ...: <Media omitted>
+29/07/23, 9:39 pm - Home Minister 😎: Bhoka helani chal khaiba
+30/07/23, 4:21 pm - Home Minister 😎: Beee
+01/08/23, 1:08 pm - Home Minister 😎: Maun status dekh
+01/08/23, 1:09 pm - #çhäñdáñ...: Hmm dekhichi
+04/08/23, 11:09 pm - #çhäñdáñ...: <Media omitted>
+04/08/23, 11:10 pm - Home Minister 😎: <Media omitted>
+05/08/23, 1:22 pm - Home Minister 😎: Gadheibu jaaaaa
+05/08/23, 10:48 pm - Home Minister 😎: Hot-spot on kar
+08/08/23, 4:33 pm - #çhäñdáñ...: https://youtube.com/shorts/1DQzKzG3QNA?feature=share
+08/08/23, 7:45 pm - Home Minister 😎: <Media omitted>
+13/08/23, 3:32 pm - #çhäñdáñ...: https://youtu.be/8lRkPUS_0nM
+13/08/23, 3:55 pm - #çhäñdáñ...: https://youtu.be/HVpuTyehKdo
+15/08/23, 9:48 am - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:48 am - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:48 am - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:48 am - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:48 am - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:48 am - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:48 am - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:48 am - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:48 am - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:48 am - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:48 am - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:19 pm - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:19 pm - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:19 pm - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:19 pm - #çhäñdáñ...: <Media omitted>
+15/08/23, 9:19 pm - #çhäñdáñ...: <Media omitted>
+16/08/23, 8:29 pm - Home Minister 😎: Wi-Fi on karani
+18/08/23, 5:48 pm - #çhäñdáñ...: <Media omitted>
+18/08/23, 5:56 pm - Home Minister 😎: <Media omitted>
+18/08/23, 6:19 pm - #çhäñdáñ...: <Media omitted>
+18/08/23, 6:19 pm - #çhäñdáñ...: <Media omitted>
+18/08/23, 9:44 pm - #çhäñdáñ...: <Media omitted>
+18/08/23, 9:44 pm - #çhäñdáñ...: <Media omitted>
+18/08/23, 9:44 pm - #çhäñdáñ...: <Media omitted>
+18/08/23, 9:44 pm - #çhäñdáñ...: <Media omitted>
+18/08/23, 9:44 pm - #çhäñdáñ...: <Media omitted>
+18/08/23, 9:44 pm - #çhäñdáñ...: <Media omitted>
+18/08/23, 9:44 pm - #çhäñdáñ...: <Media omitted>
+19/08/23, 8:19 pm - Home Minister 😎: <Media omitted>
+20/08/23, 5:35 pm - Home Minister 😎: hela na ta kama
+20/08/23, 5:36 pm - #çhäñdáñ...: Chalichii
+20/08/23, 5:37 pm - #çhäñdáñ...: Badhiya internet speed
+20/08/23, 5:37 pm - #çhäñdáñ...: Kali jouta 4 hours lagila
+20/08/23, 5:37 pm - #çhäñdáñ...: Aji seita 20 minutes
+20/08/23, 5:37 pm - #çhäñdáñ...: 😎
+20/08/23, 5:37 pm - Home Minister 😎: Hau
+20/08/23, 5:37 pm - #çhäñdáñ...: Yo yo
+20/08/23, 5:37 pm - #çhäñdáñ...: Emiti internet chaliba
+20/08/23, 5:37 pm - #çhäñdáñ...: Gote icha haba laptop chaleibaku
+20/08/23, 5:37 pm - Home Minister 😎: Kauti basichu
+20/08/23, 5:38 pm - #çhäñdáñ...: Kali mote atee chida lagilaa
+20/08/23, 5:38 pm - #çhäñdáñ...: Rasta ree
+20/08/23, 5:38 pm - Home Minister 😎: Hee
+20/08/23, 5:38 pm - Home Minister 😎: Tale na upare
+20/08/23, 5:38 pm - #çhäñdáñ...: Tanka bed room samna room re
+20/08/23, 5:39 pm - Home Minister 😎: Hau
+20/08/23, 5:39 pm - #çhäñdáñ...: Mmm
+21/08/23, 3:38 pm - #çhäñdáñ...: <Media omitted>
+22/08/23, 8:50 am - #çhäñdáñ...: <Media omitted>
+22/08/23, 1:19 pm - Home Minister 😎: Ma mobile recharge karide
+22/08/23, 1:46 pm - Home Minister 😎: Gadheibu jaaa
+22/08/23, 1:47 pm - #çhäñdáñ...: Hmehm
+25/08/23, 11:13 am - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 1:31 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 5:41 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 5:41 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 5:41 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 5:41 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 5:41 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 5:41 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 5:41 pm - #çhäñdáñ...: <Media omitted>
+26/08/23, 5:41 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 2:09 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 11:00 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 11:00 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 11:00 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 11:00 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 11:00 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 11:00 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 11:00 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 11:00 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 11:00 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 11:00 pm - #çhäñdáñ...: <Media omitted>
+27/08/23, 11:32 pm - #çhäñdáñ...: Yaaaku status pakeibaku kia kahila delete kara
+29/08/23, 7:33 pm - #çhäñdáñ...: <Media omitted>
+30/08/23, 5:46 pm - Home Minister 😎: <Media omitted>
+30/08/23, 7:30 pm - Home Minister 😎: Beeee
+30/08/23, 7:30 pm - Home Minister 😎: Asunu
+31/08/23, 7:50 pm - Home Minister 😎: Bee
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+01/09/23, 11:10 am - #çhäñdáñ...: <Media omitted>
+02/09/23, 4:21 pm - #çhäñdáñ...: <Media omitted>
+02/09/23, 4:21 pm - #çhäñdáñ...: <Media omitted>
+02/09/23, 4:21 pm - #çhäñdáñ...: <Media omitted>
+02/09/23, 4:21 pm - #çhäñdáñ...: <Media omitted>
+02/09/23, 4:21 pm - #çhäñdáñ...: <Media omitted>
+02/09/23, 4:21 pm - #çhäñdáñ...: <Media omitted>
+02/09/23, 4:21 pm - #çhäñdáñ...: <Media omitted>
+02/09/23, 4:21 pm - #çhäñdáñ...: <Media omitted>
+02/09/23, 4:21 pm - #çhäñdáñ...: <Media omitted>
+06/09/23, 4:18 pm - Home Minister 😎: <Media omitted>
+06/09/23, 4:27 pm - #çhäñdáñ...: Hm hm tanku tekiki mundeiki buliba
+06/09/23, 10:56 pm - Home Minister 😎: Soipadiluni na bapa
+11/09/23, 9:13 pm - Home Minister 😎: <Media omitted>
+14/09/23, 6:26 pm - Home Minister 😎: Phone uthaunu kanhiki
+14/09/23, 6:54 pm - Home Minister 😎: Manas 96 percentile kariki iiit re computer science engineering karuchi
+14/09/23, 6:57 pm - #çhäñdáñ...: Hela auu
+14/09/23, 6:57 pm - #çhäñdáñ...: Eii year join kalaa
+14/09/23, 7:32 pm - Home Minister 😎: Hmm
+15/09/23, 8:51 am - Home Minister 😎: Ma mobile ta recharge karide
+15/09/23, 9:11 am - #çhäñdáñ...: Heigala
+21/09/23, 9:23 am - Home Minister 😎: Free hele call karibu
+21/09/23, 7:05 pm - #çhäñdáñ...: 113.1435 x 53.03 kadi
+21/09/23, 7:06 pm - #çhäñdáñ...: 1 kadi = 0.66 fit
+21/09/23, 7:07 pm - #çhäñdáñ...: 1 fit = 1.52 kadi
+22/09/23, 9:28 am - Home Minister 😎: Ebe baharilu markona ru
+22/09/23, 9:31 am - #çhäñdáñ...: Hauuu
+22/09/23, 9:32 am - #çhäñdáñ...: Maitapur pareilani
+22/09/23, 9:32 am - Home Minister 😎: Call karithilu kanhiki
+22/09/23, 9:32 am - Home Minister 😎: He na
+22/09/23, 9:32 am - #çhäñdáñ...: Seia pacharibaku
+22/09/23, 9:32 am - Home Minister 😎: Markona Market re
+22/09/23, 9:32 am - #çhäñdáñ...: Hauu
+22/09/23, 1:12 pm - #çhäñdáñ...: 1 decimeal = 435.56 sqft
+23/09/23, 11:13 am - #çhäñdáñ...: Paisa nahi mo pakhare
+23/09/23, 11:13 am - #çhäñdáñ...: 300 tanka loan heigalani
+23/09/23, 11:13 am - #çhäñdáñ...: Badal thu
+23/09/23, 11:13 am - #çhäñdáñ...: Se maguchiu
+23/09/23, 11:13 am - #çhäñdáñ...: Mote patheidaba
+23/09/23, 11:50 am - Home Minister 😎: 800 tanka patheideichi
+23/09/23, 1:23 pm - #çhäñdáñ...: 500 darkar thila
+23/09/23, 1:23 pm - #çhäñdáñ...: Aauu 300 patheideichi
+24/09/23, 4:40 pm - Home Minister 😎: <Media omitted>
+24/09/23, 4:43 pm - Home Minister 😎: Kn karuchhu
+24/09/23, 5:51 pm - #çhäñdáñ...: Eii asili
+25/09/23, 7:56 am - Home Minister 😎: Puja kie
+25/09/23, 1:37 pm - Home Minister 😎: Free hele call karibu
+26/09/23, 6:17 pm - Home Minister 😎: Library re achhu na
+26/09/23, 6:17 pm - #çhäñdáñ...: Hm
+26/09/23, 6:17 pm - Home Minister 😎: Hau
+26/09/23, 6:18 pm - Home Minister 😎: Free hele call karibu
+27/09/23, 7:29 pm - Home Minister 😎: Ma mobile re 25 paisa pKeideni
+27/09/23, 7:29 pm - Home Minister 😎: Only data
+27/09/23, 7:30 pm - Home Minister 😎: Sorry 25 tanka
+27/09/23, 7:50 pm - #çhäñdáñ...: Heigala
+27/09/23, 7:50 pm - Home Minister 😎: Hau
+27/09/23, 7:51 pm - #çhäñdáñ...: Hm
+27/09/23, 7:51 pm - Home Minister 😎: Kete GB
+27/09/23, 7:51 pm - #çhäñdáñ...: 2 gb
+28/09/23, 12:05 am - Home Minister 😎: Soiluni na lo
+28/09/23, 12:06 am - #çhäñdáñ...: Naaa
+28/09/23, 12:06 am - Home Minister 😎: Hau
+28/09/23, 12:06 am - Home Minister 😎: Ame bi soinu
+28/09/23, 12:06 am - #çhäñdáñ...: Hau hau
+28/09/23, 12:06 am - Home Minister 😎: Gelu padhuchi
+28/09/23, 12:07 am - #çhäñdáñ...: Hau se padhu
+28/09/23, 12:07 am - Home Minister 😎: Hmm mu ta pahara dauchi rati re
+28/09/23, 12:07 am - #çhäñdáñ...: Hmm HMMDo your duty
+28/09/23, 12:07 am - Home Minister 😎: Mo duty saribani
+28/09/23, 12:08 am - #çhäñdáñ...: Hmmmmmmm
+28/09/23, 9:12 am - Home Minister 😎: Ta Baba status dekhuchu na. Daily tama di vai nka photo rakhidauchanti
+28/09/23, 9:54 am - #çhäñdáñ...: Hm
+29/09/23, 5:31 pm - #çhäñdáñ...: <Media omitted>
+29/09/23, 11:15 pm - Home Minister 😎: https://www.flipkart.com@bit.ly/big-billions-days-sprizes
+01/10/23, 3:24 pm - Home Minister 😎: Pailu na bus
+01/10/23, 3:24 pm - #çhäñdáñ...: Auu 7 min re ahci
+01/10/23, 3:24 pm - Home Minister 😎: Hau
+01/10/23, 3:32 pm - #çhäñdáñ...: Basili
+04/10/23, 7:10 pm - Home Minister 😎: <Media omitted>
+04/10/23, 7:10 pm - Home Minister 😎: <Media omitted>
+05/10/23, 5:58 pm - Home Minister 😎: Phone uthaunu kanhiki
+07/10/23, 11:09 am - Home Minister 😎: <Media omitted>
+07/10/23, 11:09 am - Home Minister 😎: <Media omitted>
+07/10/23, 2:35 pm - Home Minister 😎: Bapa khailu na
+07/10/23, 2:35 pm - #çhäñdáñ...: Hmm
+07/10/23, 2:35 pm - Home Minister 😎: Mu 500 rupees dauchi
+07/10/23, 2:36 pm - Home Minister 😎: Ta account zero heijaithiba
+07/10/23, 2:36 pm - #çhäñdáñ...: Kii
+07/10/23, 2:36 pm - #çhäñdáñ...: Nai achii
+07/10/23, 2:36 pm - Home Minister 😎: Hee
+07/10/23, 2:36 pm - Home Minister 😎: Kautu asiba
+07/10/23, 2:39 pm - Home Minister 😎: Patheichi check karine
+07/10/23, 2:39 pm - #çhäñdáñ...: Hm
+07/10/23, 2:39 pm - Home Minister 😎: hau
+08/10/23, 2:23 pm - Home Minister 😎: <Media omitted>
+08/10/23, 3:03 pm - #çhäñdáñ...: Thik ta hauchi
+08/10/23, 3:04 pm - Home Minister 😎: Hmm Sie ranga Hauchi
+08/10/23, 3:05 pm - #çhäñdáñ...: Hm hm
+09/10/23, 9:47 am - Home Minister 😎: Ma mobile recharge karideni
+09/10/23, 9:47 am - Home Minister 😎: Paisa patheideichi
+09/10/23, 10:40 am - #çhäñdáñ...: Done
+09/10/23, 10:40 am - Home Minister 😎: Hmm
+09/10/23, 10:41 am - Home Minister 😎: Class re achhu na
+09/10/23, 10:41 am - #çhäñdáñ...: Hm
+13/10/23, 6:41 pm - Home Minister 😎: Ta phone laguni kanhiki
+14/10/23, 8:22 am - Home Minister 😎: <Media omitted>
+14/10/23, 8:30 am - #çhäñdáñ...: Poco bhala nuhe
+14/10/23, 8:37 am - Home Minister 😎: Hau
+14/10/23, 8:37 am - Home Minister 😎: <Media omitted>
+14/10/23, 8:45 am - #çhäñdáñ...: <Media omitted>
+14/10/23, 8:59 am - #çhäñdáñ...: Deal of the day: realme narzo 60X 5G（Stellar Green,6GB,128GB Storage ） Up to 2TB External Memory | 50 MP AI Primary Camera | Segments only 33W Supervooc Charge https://amzn.eu/d/55ncuDk
+14/10/23, 9:12 am - #çhäñdáñ...: <Media omitted>
+14/10/23, 11:13 am - Home Minister 😎: Order karichu jau screen shot ta patha
+14/10/23, 11:28 am - #çhäñdáñ...: <Media omitted>
+14/10/23, 11:29 am - Home Minister 😎: Hau
+14/10/23, 11:29 am - #çhäñdáñ...: Hmm
+15/10/23, 2:33 pm - Home Minister 😎: Kn paini phone karithilu kahunu
+15/10/23, 2:34 pm - #çhäñdáñ...: Kichi nai
+15/10/23, 2:34 pm - #çhäñdáñ...: Kahili para
+15/10/23, 2:34 pm - Home Minister 😎: Na kahunu
+15/10/23, 2:36 pm - #çhäñdáñ...: He bhagaban
+17/10/23, 9:48 am - #çhäñdáñ...: 4595 ei month canteen bill
+17/10/23, 10:01 am - Home Minister 😎: College ru due receipt nei asibu. Bank re diajiba
+17/10/23, 10:35 am - Home Minister 😎: Ta deha bhal nahi mate kahinu ta
+17/10/23, 10:35 am - Home Minister 😎: Khaibaku asile call karibu
+17/10/23, 10:07 pm - Home Minister 😎: Khailu na
+17/10/23, 10:08 pm - Home Minister 😎: Medicine khailu na aau jara asila Ki
+18/10/23, 11:07 am - Home Minister 😎: Be kanhi se Mobile loka
+18/10/23, 11:07 am - Home Minister 😎: Ta number ta deni
+18/10/23, 11:07 am - #çhäñdáñ...: Kahila ta cl kariba boli
+18/10/23, 11:07 am - #çhäñdáñ...: +91 22 3551 1005
+18/10/23, 11:08 am - #çhäñdáñ...: +912231124049
+18/10/23, 11:08 am - Home Minister 😎: Hau
+18/10/23, 11:08 am - #çhäñdáñ...: Hmm
+18/10/23, 11:09 am - Home Minister 😎: Kau number ru call asithilA
+18/10/23, 11:09 am - #çhäñdáñ...: 2 ta jaka
+18/10/23, 11:09 am - Home Minister 😎: Hau
+18/10/23, 11:09 am - #çhäñdáñ...: Hm
+18/10/23, 12:44 pm - Home Minister 😎: Au phone kala na
+18/10/23, 3:48 pm - #çhäñdáñ...: Kali asiba order
+18/10/23, 3:49 pm - Home Minister 😎: Kie kahila
+18/10/23, 3:49 pm - #çhäñdáñ...: Se delivery boy
+18/10/23, 3:49 pm - Home Minister 😎: Phone karithila na
+18/10/23, 3:50 pm - #çhäñdáñ...: Na mu karithilu
+18/10/23, 3:50 pm - #çhäñdáñ...: Se id number deli kahila kali asiba
+18/10/23, 3:50 pm - Home Minister 😎: Hee sie galua te
+18/10/23, 3:51 pm - #çhäñdáñ...: Hm
+19/10/23, 6:25 am - Home Minister 😎: Ma bus Katha bujhiki ticket karibu
+19/10/23, 6:26 am - Home Minister 😎: Nahele auto re paleiba station
+19/10/23, 6:27 am - Home Minister 😎: Tu bi auto re paleiasibu
+19/10/23, 6:56 am - Home Minister 😎: 11 ta re tatkala ticket ta urgent maribu
+19/10/23, 7:47 am - Home Minister 😎: Paisa patheideichi
+19/10/23, 7:47 am - Home Minister 😎: Ticket paini
+19/10/23, 11:07 am - Home Minister 😎: Hela na tara ticket
+19/10/23, 11:07 am - #çhäñdáñ...: Hm heigala
+19/10/23, 11:07 am - Home Minister 😎: Hau
+19/10/23, 11:08 am - Home Minister 😎: Ame paleiba aji bus re
+19/10/23, 11:08 am - #çhäñdáñ...: Hau
+19/10/23, 1:26 pm - #çhäñdáñ...: Delete kara status
+19/10/23, 1:26 pm - #çhäñdáñ...: Gawar nka bhalia status chii
+19/10/23, 1:26 pm - Home Minister 😎: Hee mora thau
+19/10/23, 1:27 pm - #çhäñdáñ...: Na na
+19/10/23, 1:27 pm - Home Minister 😎: Tu dekhna
+19/10/23, 1:27 pm - #çhäñdáñ...: Delete kara taku
+19/10/23, 1:27 pm - Home Minister 😎: Mankada Te tu
+19/10/23, 1:28 pm - #çhäñdáñ...: Kahinki emiti chhotia munda bhalia kama guda karucha
+19/10/23, 3:16 pm - Home Minister 😎: Bapa bus re basigali
+19/10/23, 3:34 pm - #çhäñdáñ...: Kou bus
+19/10/23, 3:43 pm - Home Minister 😎: Kejani
+19/10/23, 3:43 pm - Home Minister 😎: Mu janini
+19/10/23, 4:17 pm - Home Minister 😎: Brundaban bus
+19/10/23, 4:27 pm - #çhäñdáñ...: Hau hau
+19/10/23, 7:24 pm - Home Minister 😎: <Media omitted>
+19/10/23, 7:25 pm - Home Minister 😎: <Media omitted>
+20/10/23, 12:25 pm - Home Minister 😎: Be bapa kn karuchu
+20/10/23, 12:58 pm - Home Minister 😎: Khailuni
+20/10/23, 12:59 pm - Home Minister 😎: Msg karibu free hele
+20/10/23, 5:57 pm - #çhäñdáñ...: Basili train re
+20/10/23, 6:24 pm - Home Minister 😎: Hau hau
+20/10/23, 6:24 pm - Home Minister 😎: Kauthi heluni ebe
+20/10/23, 6:24 pm - #çhäñdáñ...: Cuttack
+20/10/23, 6:25 pm - Home Minister 😎: Hau
+20/10/23, 6:25 pm - #çhäñdáñ...: Hm
+24/10/23, 10:42 am - #çhäñdáñ...: https://youtu.be/AGeyQzhQE-E?si=8HC_NbLBZ1-nDNED
+24/10/23, 10:48 am - #çhäñdáñ...: https://youtu.be/0O6NS0Vn8z4?si=i_C20SAxJqbLQLDJ
+24/10/23, 2:21 pm - Home Minister 😎: https://open.spotify.com/track/7Dyt8yFhWSdiFlgKMocq3p?si=PoGDSuSpSxKu8ZgKnR4CSw&utm_source=whatsapp
+24/10/23, 4:06 pm - #çhäñdáñ...: <Media omitted>
+25/10/23, 3:12 pm - Home Minister 😎: Sarilani na kama
+25/10/23, 3:38 pm - #çhäñdáñ...: Bus re basichu auu
+27/10/23, 11:07 am - #çhäñdáñ...: <Media omitted>
+28/10/23, 1:57 pm - #çhäñdáñ...: https://www.instagram.com/reel/Cy7hXv8xU6p/?igshid=MTc4MmM1YmI2Ng==
+28/10/23, 5:56 pm - Home Minister 😎: Asilani na Badal
+28/10/23, 6:00 pm - #çhäñdáñ...: Hm
+29/10/23, 6:05 pm - Home Minister 😎: <Media omitted>
+29/10/23, 6:06 pm - Home Minister 😎: Ei msg ta kn tike kahani
+29/10/23, 6:23 pm - #çhäñdáñ...: Kichi naii ea
+29/10/23, 6:31 pm - Home Minister 😎: Hau
+29/10/23, 8:18 pm - #çhäñdáñ...: Aji kharcha 270
+29/10/23, 8:18 pm - #çhäñdáñ...: Kali dina khaiba 120
+29/10/23, 8:18 pm - #çhäñdáñ...: Total 2 days kharcha= 400
+29/10/23, 8:18 pm - #çhäñdáñ...: Auu rahila 400
+29/10/23, 8:19 pm - #çhäñdáñ...: Sarile magibi
+29/10/23, 8:19 pm - #çhäñdáñ...: Don't worry
+29/10/23, 8:19 pm - #çhäñdáñ...: Ok
+29/10/23, 8:19 pm - Home Minister 😎: Hau
+29/10/23, 8:19 pm - #çhäñdáñ...: Hm
+29/10/23, 8:19 pm - Home Minister 😎: Ta baba phone karuchhanti na
+29/10/23, 8:19 pm - #çhäñdáñ...: Tamaku
+29/10/23, 8:20 pm - #çhäñdáñ...: Karunahanti ki
+29/10/23, 8:20 pm - Home Minister 😎: Na
+29/10/23, 8:20 pm - #çhäñdáñ...: Oho
+29/10/23, 8:20 pm - #çhäñdáñ...: Hau
+29/10/23, 8:20 pm - #çhäñdáñ...: Tame b karuna
+29/10/23, 8:20 pm - Home Minister 😎: Na
+29/10/23, 8:20 pm - #çhäñdáñ...: Ki
+29/10/23, 8:20 pm - Home Minister 😎: Aji karithili
+29/10/23, 8:20 pm - #çhäñdáñ...: Hm
+29/10/23, 8:21 pm - Home Minister 😎: Msg ta kn bujhibaku
+29/10/23, 8:21 pm - Home Minister 😎: Setiki kahichi
+29/10/23, 8:21 pm - #çhäñdáñ...: Hau
+29/10/23, 8:21 pm - Home Minister 😎: Tate karuchanti na
+29/10/23, 8:22 pm - #çhäñdáñ...: Mora kn heichi ki
+29/10/23, 8:22 pm - #çhäñdáñ...: Karibebi
+29/10/23, 8:22 pm - #çhäñdáñ...: Ni
+29/10/23, 8:22 pm - Home Minister 😎: Aji phone karichanti na tate
+29/10/23, 8:22 pm - #çhäñdáñ...: Hm
+29/10/23, 8:22 pm - #çhäñdáñ...: 3 thara
+29/10/23, 8:22 pm - #çhäñdáñ...: Kaleni
+29/10/23, 8:22 pm - Home Minister 😎: Hau
+29/10/23, 8:23 pm - #çhäñdáñ...: Hmm
+29/10/23, 8:23 pm - #çhäñdáñ...: Tame bigaadi deicha auu
+29/10/23, 8:23 pm - Home Minister 😎: Hau bhala heichi
+29/10/23, 8:23 pm - #çhäñdáñ...: 😂👍🏻
+29/10/23, 8:23 pm - Home Minister 😎: Tate phone kale hela
+29/10/23, 8:27 pm - #çhäñdáñ...: Jetebele cl kala belaku gharaku cl karithilu na
+29/10/23, 8:27 pm - #çhäñdáñ...: Ghare katha heichu na
+29/10/23, 8:27 pm - #çhäñdáñ...: Ei question
+29/10/23, 8:27 pm - Home Minister 😎: Kie Lo
+29/10/23, 8:28 pm - #çhäñdáñ...: Baba
+29/10/23, 8:28 pm - Home Minister 😎: Kau ghara
+29/10/23, 8:28 pm - #çhäñdáñ...: Mane tamaku
+29/10/23, 8:28 pm - #çhäñdáñ...: Gelu ku
+29/10/23, 8:28 pm - Home Minister 😎: Gangapada na
+29/10/23, 8:29 pm - #çhäñdáñ...: Mama saha katha heichu na
+29/10/23, 8:29 pm - Home Minister 😎: Oho number nahi ki gelu sangare katha hebaku
+29/10/23, 8:29 pm - Home Minister 😎: Hau chhada
+29/10/23, 8:29 pm - #çhäñdáñ...: 😂
+29/10/23, 8:30 pm - #çhäñdáñ...: Seibhlia kamuda kumudi naaga budha bayasa re
+29/10/23, 8:30 pm - Home Minister 😎: Se ghara owner 6000nela
+29/10/23, 8:30 pm - #çhäñdáñ...: 5500
+29/10/23, 8:30 pm - #çhäñdáñ...: Nelani
+29/10/23, 8:30 pm - Home Minister 😎: Electric bill nabaani
+29/10/23, 8:30 pm - Home Minister 😎: Na
+29/10/23, 8:30 pm - #çhäñdáñ...: Kete kahithile
+29/10/23, 8:31 pm - Home Minister 😎: 6000
+29/10/23, 8:31 pm - #çhäñdáñ...: Hm
+29/10/23, 8:31 pm - #çhäñdáñ...: Setiki nebe auu
+29/10/23, 8:31 pm - Home Minister 😎: Kahithile
+29/10/23, 8:31 pm - #çhäñdáñ...: Hm
+29/10/23, 8:31 pm - #çhäñdáñ...: Hau hau
+29/10/23, 8:31 pm - Home Minister 😎: 5500 deithili au 500 debaku kahile
+29/10/23, 8:32 pm - #çhäñdáñ...: Hauu
+30/10/23, 7:56 pm - Home Minister 😎: <Media omitted>
+30/10/23, 7:56 pm - Home Minister 😎: Sankiri dance
+30/10/23, 7:57 pm - #çhäñdáñ...: Hm hm
+30/10/23, 7:57 pm - Home Minister 😎: <Media omitted>
+30/10/23, 8:01 pm - Home Minister 😎: <Media omitted>
+31/10/23, 6:48 am - Home Minister 😎: <Media omitted>
+31/10/23, 6:48 am - Home Minister 😎: <Media omitted>
+31/10/23, 12:37 pm - Home Minister 😎: <Media omitted>
+31/10/23, 12:37 pm - Home Minister 😎: <Media omitted>
+31/10/23, 12:37 pm - Home Minister 😎: <Media omitted>
+31/10/23, 12:41 pm - Home Minister 😎: <Media omitted>
+31/10/23, 12:41 pm - #çhäñdáñ...: Hm bhala dekha hauchi
+31/10/23, 12:42 pm - Home Minister 😎: Tu gali dabu boli send karunathili
+31/10/23, 12:42 pm - Home Minister 😎: 3dina hela utheilini
+31/10/23, 12:43 pm - Home Minister 😎: Khailuni na
+31/10/23, 12:43 pm - #çhäñdáñ...: Hm
+31/10/23, 12:43 pm - Home Minister 😎: College ru asile call Karibu
+31/10/23, 12:43 pm - #çhäñdáñ...: Hm
+01/11/23, 4:19 pm - Home Minister 😎: Asiluni na college ru
+01/11/23, 4:19 pm - #çhäñdáñ...: Hm
+01/11/23, 5:55 pm - Home Minister 😎: Ki Lo emiti sukhila munha te dp rakhichu kanhiki
+01/11/23, 5:56 pm - Home Minister 😎: Ma bapa ra ki chinta padichi
+02/11/23, 8:37 am - #çhäñdáñ...: https://www.instagram.com/reel/CzIHER4JpNb/?igshid=MTc4MmM1YmI2Ng==
+02/11/23, 9:27 am - Home Minister 😎: Hela auu
+02/11/23, 10:00 am - #çhäñdáñ...: Hm
+02/11/23, 3:48 pm - Home Minister 😎: Patheichi 500 rupees Baba mobile recharge karide
+02/11/23, 4:04 pm - Home Minister 😎: Ki be
+02/11/23, 4:04 pm - Home Minister 😎: 200 tanka patheilu je
+02/11/23, 5:02 pm - #çhäñdáñ...: Heigala
+02/11/23, 5:02 pm - #çhäñdáñ...: Pare darkar hele mu magibebi
+04/11/23, 8:10 am - Home Minister 😎: <Media omitted>
+04/11/23, 8:11 am - Home Minister 😎: Ma phone pay chaluni
+04/11/23, 8:11 am - Home Minister 😎: Eita asuchi kn karibi
+04/11/23, 12:55 pm - Home Minister 😎: Khailuni na
+08/11/23, 1:20 am - #çhäñdáñ...: 7 15 re dakidaba
+08/11/23, 1:20 am - #çhäñdáñ...: Urgent
+08/11/23, 6:00 pm - Home Minister 😎: Kn kahuthilu ki
+08/11/23, 6:09 pm - #çhäñdáñ...: Kichi nai bhul re
+10/11/23, 2:22 am - #çhäñdáñ...: 7 30 re dakiba
+10/11/23, 7:23 am - Home Minister 😎: Ame ebe bus re jauchu gharaku
+10/11/23, 8:18 am - #çhäñdáñ...: Hau
+11/11/23, 8:42 pm - Home Minister 😎: <Media omitted>
+11/11/23, 8:44 pm - #çhäñdáñ...: Kuha
+12/11/23, 2:43 pm - #çhäñdáñ...: <Media omitted>
+12/11/23, 2:43 pm - #çhäñdáñ...: <Media omitted>
+12/11/23, 2:43 pm - #çhäñdáñ...: Mo diwali
+12/11/23, 2:44 pm - Home Minister 😎: Hela auu
+12/11/23, 2:47 pm - #çhäñdáñ...: Hm
+12/11/23, 6:41 pm - Home Minister 😎: <Media omitted>
+12/11/23, 6:41 pm - Home Minister 😎: <Media omitted>
+12/11/23, 6:41 pm - Home Minister 😎: <Media omitted>
+12/11/23, 6:41 pm - Home Minister 😎: <Media omitted>
+12/11/23, 6:41 pm - Home Minister 😎: <Media omitted>
+12/11/23, 6:41 pm - Home Minister 😎: <Media omitted>
+12/11/23, 6:41 pm - Home Minister 😎: <Media omitted>
+13/11/23, 6:42 am - Home Minister 😎: Pua ra mobile number add heijaichi adhar re
+13/11/23, 8:34 am - #çhäñdáñ...: Hau
+13/11/23, 9:23 am - Home Minister 😎: Galu na college
+13/11/23, 9:24 am - #çhäñdáñ...: Hm
+13/11/23, 9:25 am - #çhäñdáñ...: <Media omitted>
+13/11/23, 9:25 am - #çhäñdáñ...: <Media omitted>
+13/11/23, 9:25 am - #çhäñdáñ...: <Media omitted>
+13/11/23, 9:25 am - #çhäñdáñ...: <Media omitted>
+13/11/23, 9:25 am - #çhäñdáñ...: <Media omitted>
+13/11/23, 9:25 am - #çhäñdáñ...: <Media omitted>
+13/11/23, 9:25 am - #çhäñdáñ...: <Media omitted>
+13/11/23, 9:25 am - #çhäñdáñ...: <Media omitted>
+13/11/23, 1:53 pm - #çhäñdáñ...: Gelu ra adhhar taa patheila
+13/11/23, 2:04 pm - Home Minister 😎: <Media omitted>
+13/11/23, 2:04 pm - Home Minister 😎: <Media omitted>
+13/11/23, 2:04 pm - #çhäñdáñ...: Otp kuha ta
+13/11/23, 2:05 pm - Home Minister 😎: Baba mobile ku jaithiba
+13/11/23, 2:08 pm - #çhäñdáñ...: Tanka number dabaku kia kahithila
+13/11/23, 2:09 pm - #çhäñdáñ...: Otp kadhiparunahanti se
+13/11/23, 5:27 pm - Home Minister 😎: Abcd@123
+13/11/23, 5:28 pm - Home Minister 😎: <Media omitted>
+13/11/23, 5:28 pm - #çhäñdáñ...: Hau
+13/11/23, 5:29 pm - Home Minister 😎: <Media omitted>
+13/11/23, 11:59 pm - Home Minister 😎: Bapa kalu na
+13/11/23, 11:59 pm - #çhäñdáñ...: National
+13/11/23, 11:59 pm - #çhäñdáñ...: ?
+13/11/23, 11:59 pm - Home Minister 😎: Hm
+13/11/23, 11:59 pm - #çhäñdáñ...: Website kholuni
+13/11/23, 11:59 pm - Home Minister 😎: Oho
+14/11/23, 12:00 am - Home Minister 😎: Tara date heinathiba bodhe
+14/11/23, 12:01 am - #çhäñdáñ...: Hm
+14/11/23, 2:06 pm - #çhäñdáñ...: Canteen bill : 3110
+14/11/23, 2:06 pm - #çhäñdáñ...: Cafeteria bill : 640
+14/11/23, 10:50 pm - Home Minister 😎: Ta bill deidabu na mu patheidebi paisa
+14/11/23, 11:10 pm - #çhäñdáñ...: Bujhiparilini
+14/11/23, 11:11 pm - Home Minister 😎: Ebe patheibi na
+14/11/23, 11:11 pm - Home Minister 😎: Canteen bill
+15/11/23, 11:36 am - Home Minister 😎: Patheichi paisa dekhidabu
+15/11/23, 1:27 pm - Home Minister 😎: Delu na
+15/11/23, 1:27 pm - #çhäñdáñ...: 3700 deideliii
+15/11/23, 1:27 pm - Home Minister 😎: Au
+15/11/23, 1:28 pm - #çhäñdáñ...: 3500 taa bujhinu
+15/11/23, 1:28 pm - #çhäñdáñ...: ii
+15/11/23, 1:28 pm - #çhäñdáñ...: Kemiti dia jibaa
+15/11/23, 1:28 pm - Home Minister 😎: Hau bujhidebu
+15/11/23, 1:28 pm - #çhäñdáñ...: Hmm
+15/11/23, 1:29 pm - Home Minister 😎: Nahele mate patheidabu bujhisariki mate kahibu deidebi
+15/11/23, 1:29 pm - Home Minister 😎: Ta subidha anujayi Karibu
+15/11/23, 1:33 pm - #çhäñdáñ...: Patheideichi
+15/11/23, 1:33 pm - Home Minister 😎: Hmm
+15/11/23, 1:33 pm - Home Minister 😎: Bujhiki kahile mu deidebi
+15/11/23, 1:34 pm - #çhäñdáñ...: Hmm
+16/11/23, 7:23 pm - Home Minister 😎: <Media omitted>
+16/11/23, 7:23 pm - Home Minister 😎: <Media omitted>
+16/11/23, 7:23 pm - #çhäñdáñ...: Helaaaa auuu
+16/11/23, 7:24 pm - Home Minister 😎: Chantuna ku nabina dela bruti
+16/11/23, 7:25 pm - #çhäñdáñ...: Sei jou asithila 5 hajar
+16/11/23, 7:25 pm - #çhäñdáñ...: Eitaa naa ??
+16/11/23, 7:26 pm - Home Minister 😎: Hm
+16/11/23, 7:35 pm - #çhäñdáñ...: Mmm
+18/11/23, 11:27 am - #çhäñdáñ...: 100
+18/11/23, 2:03 pm - #çhäñdáñ...: <Media omitted>
+19/11/23, 11:48 am - Home Minister 😎: Phone katilu kanhiki
+19/11/23, 6:01 pm - Home Minister 😎: Lo kn hela lo
+19/11/23, 6:01 pm - #çhäñdáñ...: Indian 240 Matra
+19/11/23, 6:02 pm - Home Minister 😎: Hmmm mu janichi
+19/11/23, 6:02 pm - Home Minister 😎: Gelu dekhuthila
+19/11/23, 6:02 pm - #çhäñdáñ...: Hmm
+21/11/23, 5:40 pm - Home Minister 😎: 200 tanka patheili
+21/11/23, 5:59 pm - #çhäñdáñ...: Dhanyawad
+22/11/23, 12:38 am - #çhäñdáñ...: Kali 7 re dakidaba
+22/11/23, 12:56 am - #çhäñdáñ...: At least f5 thara cl kariba
+22/11/23, 11:51 pm - #çhäñdáñ...: Kali 7 re dakidaba
+24/11/23, 2:52 am - #çhäñdáñ...: 8 re dakidaba
+24/11/23, 2:52 am - #çhäñdáñ...: Kali
+25/11/23, 2:26 am - #çhäñdáñ...: 8 30 re dakidaba kali
+26/11/23, 10:50 pm - Home Minister 😎: Bapa kn karuchu
+26/11/23, 10:51 pm - Home Minister 😎: Phone utheiluni kanhiki
+27/11/23, 7:42 pm - Home Minister 😎: <Media omitted>
+27/11/23, 7:43 pm - Home Minister 😎: <Media omitted>
+27/11/23, 8:18 pm - #çhäñdáñ...: Hela auu
+28/11/23, 4:37 pm - Home Minister 😎: Deichi dekhidabu
+28/11/23, 4:40 pm - Home Minister 😎: Jadi adhika padila kahibu mu patheidebi
+29/11/23, 3:31 pm - Home Minister 😎: Galu na dress anibaku
+29/11/23, 3:38 pm - #çhäñdáñ...: Hmm 4 30 re jibu
+29/11/23, 3:50 pm - Home Minister 😎: Hau
+29/11/23, 6:32 pm - #çhäñdáñ...: <Media omitted>
+29/11/23, 6:32 pm - #çhäñdáñ...: <Media omitted>
+29/11/23, 11:04 pm - #çhäñdáñ...: <Media omitted>
+29/11/23, 11:04 pm - #çhäñdáñ...: <Media omitted>
+29/11/23, 11:04 pm - #çhäñdáñ...: <Media omitted>
+29/11/23, 11:04 pm - #çhäñdáñ...: <Media omitted>
+29/11/23, 11:04 pm - #çhäñdáñ...: Kouta bhala laguchi
+29/11/23, 11:06 pm - Home Minister 😎: <Media omitted>
+29/11/23, 11:06 pm - Home Minister 😎: <Media omitted>
+29/11/23, 11:06 pm - Home Minister 😎: Ei dita bhal lallguchi
+29/11/23, 11:07 pm - #çhäñdáñ...: Eita tight hauchi
+29/11/23, 11:07 pm - #çhäñdáñ...: Eita neiasichi
+29/11/23, 11:07 pm - #çhäñdáñ...: Auu eii white ta neiasichi
+29/11/23, 11:08 pm - #çhäñdáñ...: Bhabuchi eita return kariki arataa tame jouta patheicha seita neiasibi
+30/11/23, 3:04 am - #çhäñdáñ...: Mora kan gote heichii o
+30/11/23, 3:04 am - #çhäñdáñ...: Body saaara kundeiheiki rashes asijauchi
+30/11/23, 3:04 am - #çhäñdáñ...: Kali kiims jibi
+30/11/23, 3:05 am - #çhäñdáñ...: Peta saara bharti heigalani
+30/11/23, 8:05 am - Home Minister 😎: Ja doctor dekheiki medicine aniki asibu
+30/11/23, 8:06 am - Home Minister 😎: Medical re kete paisa lagiba kahibu mu send karibi
+30/11/23, 8:33 am - #çhäñdáñ...: Hmm
+30/11/23, 10:14 am - Home Minister 😎: Galu na
+30/11/23, 10:14 am - Home Minister 😎: Ketebele jibu
+30/11/23, 12:48 pm - Home Minister 😎: Bapa karide recharge
+30/11/23, 4:44 pm - #çhäñdáñ...: <Media omitted>
+30/11/23, 4:44 pm - #çhäñdáñ...: Eita dekhila
+30/11/23, 4:45 pm - #çhäñdáñ...: Badhia laguchi
+30/11/23, 4:53 pm - Home Minister 😎: Hm neia
+30/11/23, 6:24 pm - Home Minister 😎: Anilu na
+30/11/23, 6:30 pm - #çhäñdáñ...: Hmm
+30/11/23, 6:30 pm - Home Minister 😎: Kauta annilu
+30/11/23, 6:30 pm - #çhäñdáñ...: Eita
+30/11/23, 6:30 pm - #çhäñdáñ...: Auu eita
+30/11/23, 6:31 pm - Home Minister 😎: <Media omitted>
+30/11/23, 6:31 pm - Home Minister 😎: Eita nathila ki
+30/11/23, 6:34 pm - #çhäñdáñ...: He se uniform
+30/11/23, 6:34 pm - #çhäñdáñ...: Adyant uniform
+30/11/23, 6:34 pm - #çhäñdáñ...: Dhere pindhichi
+30/11/23, 7:07 pm - Home Minister 😎: Hau
+30/11/23, 7:17 pm - Home Minister 😎: Kali asibu sure
+30/11/23, 7:18 pm - Home Minister 😎: Kn khaibu
+30/11/23, 7:18 pm - Home Minister 😎: Fish na chicken
+30/11/23, 8:14 pm - Home Minister 😎: <Media omitted>
+30/11/23, 8:14 pm - Home Minister 😎: <Media omitted>
+30/11/23, 8:14 pm - Home Minister 😎: <Media omitted>
+30/11/23, 8:14 pm - Home Minister 😎: Puchuki ra puni gote bhauni heichi
+30/11/23, 11:15 pm - #çhäñdáñ...: <Media omitted>
+01/12/23, 5:57 am - Home Minister 😎: Medicine 💊 jaiki agara aniki asibu
+01/12/23, 5:58 am - Home Minister 😎: Kete bill hela mate seitu call karibu
+01/12/23, 8:54 am - Home Minister 😎: Galu na
+01/12/23, 10:32 am - Home Minister 😎: Jaha medicine lekhichi 3 dina lagi anibu
+01/12/23, 10:33 am - Home Minister 😎: Lotion sabun medicine sabu anibu
+01/12/23, 10:35 am - Home Minister 😎: Bapa sabu neiki asibu jaha paisa lagiba mu debi tension nabuni
+02/12/23, 1:39 pm - #çhäñdáñ...: <Media omitted>
+02/12/23, 1:39 pm - #çhäñdáñ...: <Media omitted>
+02/12/23, 1:39 pm - #çhäñdáñ...: <Media omitted>
+02/12/23, 1:39 pm - #çhäñdáñ...: <Media omitted>
+02/12/23, 1:39 pm - #çhäñdáñ...: <Media omitted>
+02/12/23, 1:39 pm - #çhäñdáñ...: <Media omitted>
+02/12/23, 3:17 pm - Home Minister 😎: Ma bus paigale MSG karidabu
+02/12/23, 3:17 pm - #çhäñdáñ...: Hmm
+02/12/23, 3:35 pm - Home Minister 😎: Pailu na
+02/12/23, 4:36 pm - #çhäñdáñ...: Acharya vihar
+02/12/23, 4:36 pm - Home Minister 😎: Hau
+02/12/23, 7:26 pm - Home Minister 😎: Evening re medicine ta khaibu
+02/12/23, 7:26 pm - Home Minister 😎: Au lotion ointment lageibu
+02/12/23, 7:33 pm - #çhäñdáñ...: Hm hm
+02/12/23, 11:03 pm - #çhäñdáñ...: <Media omitted>
+02/12/23, 11:03 pm - #çhäñdáñ...: <Media omitted>
+02/12/23, 11:03 pm - #çhäñdáñ...: <Media omitted>
+02/12/23, 11:03 pm - #çhäñdáñ...: <Media omitted>
+02/12/23, 11:03 pm - #çhäñdáñ...: <Media omitted>
+02/12/23, 11:03 pm - #çhäñdáñ...: <Media omitted>
+02/12/23, 11:03 pm - #çhäñdáñ...: <Media omitted>
+04/12/23, 3:01 pm - Home Minister 😎: Chhuamamu deithile paisa ta pakhaku patheideichi 200 rupees khainabu kali
+04/12/23, 3:01 pm - Home Minister 😎: Astami re
+04/12/23, 5:23 pm - #çhäñdáñ...: Hau auu
+04/12/23, 6:36 pm - Home Minister 😎: Sanu ra jee main form fillup karichu jau gote session paini na dita session paini
+04/12/23, 6:37 pm - #çhäñdáñ...: Gote
+04/12/23, 6:37 pm - Home Minister 😎: Oho
+04/12/23, 6:37 pm - #çhäñdáñ...: Hmm
+04/12/23, 6:38 pm - Home Minister 😎: Puni second ta kale au 1000 nebe
+04/12/23, 6:38 pm - #çhäñdáñ...: Hmm
+04/12/23, 6:38 pm - Home Minister 😎: Hau
+05/12/23, 10:36 am - Home Minister 😎: Be photo pathaunu
+05/12/23, 10:36 am - Home Minister 😎: New shirt ra photo kanhi
+05/12/23, 10:37 am - Home Minister 😎: Pindhichu na
+05/12/23, 4:14 pm - #çhäñdáñ...: <Media omitted>
+05/12/23, 4:14 pm - #çhäñdáñ...: <Media omitted>
+05/12/23, 4:14 pm - #çhäñdáñ...: <Media omitted>
+06/12/23, 12:32 am - #çhäñdáñ...: 6 re dakidaba
+06/12/23, 9:01 am - Home Minister 😎: Bapa class re achhu na
+06/12/23, 9:50 am - #çhäñdáñ...: Hmm
+06/12/23, 9:52 am - Home Minister 😎: Ticket karidabu
+06/12/23, 9:53 am - Home Minister 😎: 11ta re
+06/12/23, 9:53 am - Home Minister 😎: Baba paleijaichanti
+06/12/23, 9:56 am - #çhäñdáñ...: Hauuuu
+06/12/23, 11:26 am - Home Minister 😎: Kalu na ticket
+06/12/23, 11:39 am - #çhäñdáñ...: <Media omitted>
+06/12/23, 5:46 pm - Home Minister 😎: Kn karuchu
+06/12/23, 5:49 pm - Home Minister 😎: Game kheluchu na
+06/12/23, 5:49 pm - #çhäñdáñ...: N ana
+06/12/23, 5:50 pm - Home Minister 😎: Form fillup kalu na
+06/12/23, 5:50 pm - #çhäñdáñ...: Nai nai karibi
+06/12/23, 5:50 pm - #çhäñdáñ...: Exam Registration start heini
+06/12/23, 5:50 pm - Home Minister 😎: Karidaunu
+06/12/23, 5:51 pm - Home Minister 😎: Kahuthulu para kali heijaichi boli
+07/12/23, 2:51 pm - Home Minister 😎: Bapa sarilani na class
+07/12/23, 2:51 pm - #çhäñdáñ...: naa 3.20
+07/12/23, 2:52 pm - Home Minister 😎: Sweater neiki jibu
+07/12/23, 2:52 pm - Home Minister 😎: Thanda laguchi
+07/12/23, 2:54 pm - Home Minister 😎: Jaldi bahariki paleibu late karibuni train fail heijibu
+07/12/23, 3:41 pm - Home Minister 😎: 300 rupees patheichi
+07/12/23, 3:41 pm - Home Minister 😎: Khaiba kininabu station ru
+07/12/23, 3:42 pm - Home Minister 😎: Train re khaibu
+07/12/23, 4:10 pm - #çhäñdáñ...: Chhodaheichi bus stand re
+07/12/23, 4:10 pm - Home Minister 😎: Paibuna
+07/12/23, 4:10 pm - Home Minister 😎: Train
+07/12/23, 4:11 pm - #çhäñdáñ...: Hm hm
+07/12/23, 4:11 pm - Home Minister 😎: Nahele auto kariki paleibu
+07/12/23, 4:12 pm - #çhäñdáñ...: Hm
+07/12/23, 4:12 pm - Home Minister 😎: Hau
+07/12/23, 4:15 pm - #çhäñdáñ...: Hmm
+07/12/23, 4:16 pm - Home Minister 😎: Ebe ma bus nahi ki
+07/12/23, 4:18 pm - #çhäñdáñ...: Na gote local bus re basili
+07/12/23, 4:19 pm - Home Minister 😎: Master canteen jaba na
+07/12/23, 4:19 pm - #çhäñdáñ...: Hm
+07/12/23, 4:19 pm - Home Minister 😎: Hau
+07/12/23, 4:19 pm - #çhäñdáñ...: Hmm
+07/12/23, 5:17 pm - Home Minister 😎: Baba basigale train re msg karidabu
+07/12/23, 5:18 pm - #çhäñdáñ...: Hmm
+07/12/23, 5:19 pm - Home Minister 😎: Station pahanchigalu na
+07/12/23, 5:19 pm - #çhäñdáñ...: Hm hm
+07/12/23, 5:19 pm - #çhäñdáñ...: Station re hi achi
+07/12/23, 5:19 pm - Home Minister 😎: Hau
+07/12/23, 5:39 pm - #çhäñdáñ...: Basili train re
+07/12/23, 5:39 pm - Home Minister 😎: Hau
+07/12/23, 5:39 pm - Home Minister 😎: Khaiba neichu na
+07/12/23, 5:49 pm - #çhäñdáñ...: Hm
+08/12/23, 6:36 pm - Home Minister 😎: 15 tanka recharge karideni
+08/12/23, 7:54 pm - Home Minister 😎: Kala na deposit sie
+08/12/23, 8:03 pm - #çhäñdáñ...: Na
+08/12/23, 8:03 pm - #çhäñdáñ...: Baba kheluchanti
+08/12/23, 8:04 pm - #çhäñdáñ...: Dokan bhida achi
+08/12/23, 8:04 pm - #çhäñdáñ...: Raati re jibe baba
+08/12/23, 8:04 pm - #çhäñdáñ...: Karibe se
+08/12/23, 8:04 pm - Home Minister 😎: Hau
+08/12/23, 8:04 pm - #çhäñdáñ...: Hm
+08/12/23, 9:03 pm - Home Minister 😎: Bapa kauti
+08/12/23, 9:04 pm - #çhäñdáñ...: Ghare
+08/12/23, 9:04 pm - Home Minister 😎: Kete check deposit karithila
+08/12/23, 9:06 pm - #çhäñdáñ...: 311
+08/12/23, 9:07 pm - Home Minister 😎: Hau
+08/12/23, 9:08 pm - #çhäñdáñ...: Hmm
+09/12/23, 10:57 am - #çhäñdáñ...: Mu aji mali auu
+09/12/23, 11:06 am - Home Minister 😎: Ki
+09/12/23, 11:06 am - Home Minister 😎: Kn hela
+09/12/23, 11:07 am - #çhäñdáñ...: He se tk rahuchanti puni jauchanti ei jae baharinu MKO ru
+09/12/23, 11:08 am - Home Minister 😎: Oho au kie achhi
+09/12/23, 11:08 am - Home Minister 😎: Ta sangare
+09/12/23, 11:09 am - #çhäñdáñ...: Paglulu pua mane jou jayanta vinei
+09/12/23, 11:09 am - #çhäñdáñ...: Salaa matali
+09/12/23, 11:10 am - Home Minister 😎: Baharilani na
+09/12/23, 11:10 am - #çhäñdáñ...: Hm ei baharilu
+09/12/23, 11:11 am - Home Minister 😎: Hau ase byasta hani
+09/12/23, 11:11 am - Home Minister 😎: Teru achhi na
+09/12/23, 11:18 am - #çhäñdáñ...: Hmm
+09/12/23, 12:38 pm - Home Minister 😎: Kauti
+09/12/23, 12:50 pm - #çhäñdáñ...: CTC
+09/12/23, 12:54 pm - Home Minister 😎: Hau
+09/12/23, 1:05 pm - #çhäñdáñ...: Basili bus re
+09/12/23, 1:05 pm - Home Minister 😎: Hau
+09/12/23, 1:05 pm - Home Minister 😎: Baramunda ku paleiasibu
+09/12/23, 1:06 pm - Home Minister 😎: Sethu puni bus re asibu
+09/12/23, 1:06 pm - #çhäñdáñ...: Hmm
+09/12/23, 2:02 pm - #çhäñdáñ...: Olheiki basili local bus gote re
+09/12/23, 2:03 pm - Home Minister 😎: Hau aa voka helani asile khaiba
+09/12/23, 2:03 pm - #çhäñdáñ...: Hmm
+09/12/23, 2:22 pm - Home Minister 😎: Kauti
+10/12/23, 3:35 pm - #çhäñdáñ...: Basili bus re
+10/12/23, 3:47 pm - Home Minister 😎: Hau
+10/12/23, 3:48 pm - Home Minister 😎: College re pahanchigale msg karidabu
+10/12/23, 4:22 pm - Home Minister 😎: Kauti
+10/12/23, 4:24 pm - #çhäñdáñ...: Jaydev vihar
+10/12/23, 4:38 pm - #çhäñdáñ...: Basili bus re
+10/12/23, 5:32 pm - Home Minister 😎: Be phone uthauna kanhiki
+10/12/23, 5:32 pm - Home Minister 😎: Pahanchigalu na college re
+10/12/23, 9:02 pm - Home Minister 😎: Bapa khailuni na
+10/12/23, 9:02 pm - Home Minister 😎: Paisa payment karidelu na
+10/12/23, 9:24 pm - #çhäñdáñ...: Hmm
+11/12/23, 6:42 pm - Home Minister 😎: Kn karuchhu
+11/12/23, 11:45 pm - #çhäñdáñ...: Kali 7 re dakidaba
+14/12/23, 11:34 pm - #çhäñdáñ...: Mote patheiba ta 500
+16/12/23, 11:04 am - #çhäñdáñ...: <Media omitted>
+16/12/23, 11:07 am - #çhäñdáñ...: <Media omitted>
+16/12/23, 3:38 pm - Home Minister 😎: <Media omitted>
+16/12/23, 3:38 pm - Home Minister 😎: <Media omitted>
+16/12/23, 3:38 pm - Home Minister 😎: <Media omitted>
+16/12/23, 3:38 pm - Home Minister 😎: <Media omitted>
+16/12/23, 5:36 pm - Home Minister 😎: null
+16/12/23, 9:35 pm - #çhäñdáñ...: <Media omitted>
+16/12/23, 9:35 pm - #çhäñdáñ...: <Media omitted>
+16/12/23, 9:35 pm - #çhäñdáñ...: <Media omitted>
+16/12/23, 9:35 pm - #çhäñdáñ...: <Media omitted>
+16/12/23, 9:35 pm - #çhäñdáñ...: <Media omitted>
+16/12/23, 9:35 pm - #çhäñdáñ...: <Media omitted>
+16/12/23, 9:36 pm - #çhäñdáñ...: <Media omitted>
+16/12/23, 9:36 pm - #çhäñdáñ...: <Media omitted>
+16/12/23, 9:37 pm - #çhäñdáñ...: <Media omitted>
+16/12/23, 9:37 pm - #çhäñdáñ...: <Media omitted>
+17/12/23, 7:35 am - #çhäñdáñ...: <Media omitted>
+17/12/23, 7:46 pm - Home Minister 😎: <Media omitted>
+17/12/23, 8:04 pm - Home Minister 😎: <Media omitted>
+19/12/23, 11:07 pm - Home Minister 😎: Kn karuchu
+19/12/23, 11:08 pm - Home Minister 😎: Khailu na
+19/12/23, 11:54 pm - #çhäñdáñ...: Hmm
+20/12/23, 11:17 pm - Home Minister 😎: Khailuni na
+21/12/23, 4:28 pm - #çhäñdáñ...: <Media omitted>
+22/12/23, 6:02 pm - Home Minister 😎: Be phone kali uthaunu kanhiki
+25/12/23, 7:03 am - Home Minister 😎: Uthile call karibu
+25/12/23, 4:10 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:10 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:10 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:10 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:10 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:10 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:10 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:11 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:11 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:11 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:11 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:11 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:11 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:11 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:11 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:11 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:11 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:11 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:12 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:12 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:12 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:12 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:12 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:12 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:12 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:12 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:12 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:12 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:13 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:13 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:13 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:13 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:13 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:13 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:13 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:13 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:13 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:14 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:14 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:14 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:14 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:14 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:14 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:14 pm - Home Minister 😎: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+25/12/23, 4:16 pm - #çhäñdáñ...: <Media omitted>
+29/12/23, 4:00 pm - Home Minister 😎: Kauti
+29/12/23, 4:20 pm - Home Minister 😎: Lo Phone kale ta uthauna
+30/12/23, 11:06 pm - #çhäñdáñ...: You deleted this message
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 4:31 pm - #çhäñdáñ...: <Media omitted>
+31/12/23, 6:05 pm - #çhäñdáñ...: Got the bus 😎
+31/12/23, 6:46 pm - Home Minister 😎: Iss
+31/12/23, 6:46 pm - Home Minister 😎: Kauthi be
+31/12/23, 6:48 pm - Home Minister 😎: Room re pahanchigale MSG karidabu
+31/12/23, 7:16 pm - #çhäñdáñ...: Again got the bus
+31/12/23, 7:45 pm - #çhäñdáñ...: Reached silicon
+31/12/23, 7:48 pm - Home Minister 😎: Ok
+02/01/24, 10:21 am - Home Minister 😎: ₹1000 patheideichi
+02/01/24, 8:54 pm - Home Minister 😎: Kn karuchu
+02/01/24, 8:54 pm - #çhäñdáñ...: Basichi auu
+02/01/24, 8:54 pm - Home Minister 😎: <Media omitted>
+02/01/24, 8:54 pm - #çhäñdáñ...: Padhuchi
+02/01/24, 8:55 pm - Home Minister 😎: <Media omitted>
+02/01/24, 8:55 pm - Home Minister 😎: Thanda kamichi na
+02/01/24, 8:55 pm - Home Minister 😎: Medicine khaichu na
+02/01/24, 8:55 pm - #çhäñdáñ...: Hmm khaichi
+02/01/24, 8:56 pm - #çhäñdáñ...: Kamijaichi thanda
+02/01/24, 8:56 pm - Home Minister 😎: Hau call karibu ta
+02/01/24, 8:56 pm - #çhäñdáñ...: null
+04/01/24, 2:27 pm - #çhäñdáñ...: Send 125 /-
+04/01/24, 2:27 pm - #çhäñdáñ...: Khaibaku jaithili ajii
+04/01/24, 2:55 pm - Home Minister 😎: Pathei deichi 200
+04/01/24, 3:30 pm - #çhäñdáñ...: hau
+05/01/24, 2:36 pm - Home Minister 😎: Khaichu na
+05/01/24, 2:36 pm - Home Minister 😎: Time re
+06/01/24, 3:30 pm - #çhäñdáñ...: <Media omitted>
+06/01/24, 3:30 pm - #çhäñdáñ...: <Media omitted>
+06/01/24, 3:30 pm - #çhäñdáñ...: <Media omitted>
+06/01/24, 3:30 pm - #çhäñdáñ...: Mo daanta dekhila
+06/01/24, 4:03 pm - Home Minister 😎: Ta exam kebe sariba
+06/01/24, 8:02 pm - Home Minister 😎: Dita jaka danta feeling karidele heijiba adhika nasta heini.so byasta hani patha padh exam saru.
+06/01/24, 8:02 pm - Home Minister 😎: Aram se heijiba
+06/01/24, 8:10 pm - #çhäñdáñ...: Hmm
+07/01/24, 11:27 am - Home Minister 😎: Padhuchu naa
+07/01/24, 11:28 am - #çhäñdáñ...: Hmmm
+07/01/24, 11:28 am - Home Minister 😎: Hau
+07/01/24, 11:28 am - #çhäñdáñ...: Hmm
+07/01/24, 9:31 pm - Home Minister 😎: Kya karis
+07/01/24, 9:31 pm - Home Minister 😎: Admit card mane kariki nabu
+07/01/24, 9:32 pm - Home Minister 😎: Kete bele exam time re jibu
+07/01/24, 10:28 pm - #çhäñdáñ...: Hmm
+07/01/24, 10:28 pm - #çhäñdáñ...: 10 30
+08/01/24, 9:33 am - Home Minister 😎: Uthisariluni na
+08/01/24, 9:34 am - Home Minister 😎: Kichhi khaiki jibu exam
+08/01/24, 9:54 am - #çhäñdáñ...: Hm
+08/01/24, 9:54 am - #çhäñdáñ...: Uthilini 5 ru
+08/01/24, 9:54 am - Home Minister 😎: Hau
+08/01/24, 9:54 am - Home Minister 😎: Kichhi khaiki jibu
+08/01/24, 9:54 am - #çhäñdáñ...: Hmmm
+09/01/24, 5:25 pm - Home Minister 😎: Gelu kede tiki te heithila
+09/01/24, 5:25 pm - Home Minister 😎: Pura cute
+09/01/24, 5:32 pm - #çhäñdáñ...: Hm hm
+10/01/24, 7:00 am - Home Minister 😎: Uthichu na
+10/01/24, 7:00 am - #çhäñdáñ...: Mmm
+10/01/24, 7:10 am - Home Minister 😎: Kali gelu 2ta re soila tapare mu soili 7re uthili
+10/01/24, 7:25 am - #çhäñdáñ...: Hai
+10/01/24, 7:25 am - #çhäñdáñ...: Hau
+10/01/24, 9:52 am - Home Minister 😎: Kichhi khaiki jibu exam debaku
+10/01/24, 9:52 am - Home Minister 😎: Admit card neiki jibu
+10/01/24, 10:16 am - #çhäñdáñ...: Hm
+10/01/24, 1:29 pm - Home Minister 😎: Asiluni exam deiki
+10/01/24, 1:29 pm - Home Minister 😎: Khailuni na
+10/01/24, 2:23 pm - #çhäñdáñ...: Hm
+10/01/24, 2:23 pm - #çhäñdáñ...: Eii room asili
+12/01/24, 1:30 pm - Home Minister 😎: Exam sarilani na
+12/01/24, 1:30 pm - Home Minister 😎: Jaiki khaide
+12/01/24, 2:32 pm - #çhäñdáñ...: Hmm
+12/01/24, 6:11 pm - Home Minister 😎: <Media omitted>
+12/01/24, 6:18 pm - #çhäñdáñ...: hmm sata katha ta
+12/01/24, 6:37 pm - Home Minister 😎: Hm para
+13/01/24, 8:35 pm - Home Minister 😎: January re khaiba paisa asini ki
+13/01/24, 8:39 pm - #çhäñdáñ...: Naaa
+13/01/24, 8:39 pm - Home Minister 😎: Hau
+13/01/24, 8:39 pm - #çhäñdáñ...: Hmm
+13/01/24, 8:39 pm - Home Minister 😎: Khaithilu na
+13/01/24, 8:39 pm - Home Minister 😎: Kichhi
+13/01/24, 8:39 pm - #çhäñdáñ...: Hmm
+13/01/24, 8:40 pm - Home Minister 😎: Michha kahuthubu
+13/01/24, 8:40 pm - Home Minister 😎: Khainathibu
+13/01/24, 8:40 pm - #çhäñdáñ...: Hm eii khaibi
+13/01/24, 8:40 pm - Home Minister 😎: Dinner time re karine
+13/01/24, 8:40 pm - #çhäñdáñ...: Hmm
+14/01/24, 10:52 pm - Home Minister 😎: Be kauti ki asithila aparajita sadangi
+14/01/24, 10:52 pm - #çhäñdáñ...: Eii ama clg pakhare
+14/01/24, 10:53 pm - Home Minister 😎: Jaithilu na tu
+14/01/24, 10:53 pm - #çhäñdáñ...: Hmm
+14/01/24, 10:53 pm - Home Minister 😎: Feriluni na
+14/01/24, 10:53 pm - #çhäñdáñ...: Hm ketebelu
+14/01/24, 10:53 pm - #çhäñdáñ...: 20 minutes re paleiasilu
+14/01/24, 10:54 pm - Home Minister 😎: Khaichu na
+14/01/24, 10:54 pm - #çhäñdáñ...: Hmm
+15/01/24, 10:01 am - Home Minister 😎: Bahariluni exam
+15/01/24, 10:22 am - #çhäñdáñ...: Hmm
+16/01/24, 10:42 am - Home Minister 😎: Ma phone recharge karideni
+16/01/24, 10:42 am - Home Minister 😎: 1.5 gb pakeibu
+17/01/24, 4:12 pm - #çhäñdáñ...: LTIMindtree
+17/01/24, 5:28 pm - Home Minister 😎: Ma mobile 25 tanka recharge karideni
+18/01/24, 10:21 pm - Home Minister 😎: Bapa khailuni na
+18/01/24, 10:34 pm - #çhäñdáñ...: Mmm
+18/01/24, 10:40 pm - Home Minister 😎: Hau
+19/01/24, 2:03 pm - Home Minister 😎: <Media omitted>
+19/01/24, 3:42 pm - Home Minister 😎: Galu na medical
+19/01/24, 3:43 pm - #çhäñdáñ...: Naa
+19/01/24, 3:43 pm - Home Minister 😎: Ki
+19/01/24, 3:43 pm - #çhäñdáñ...: Kali
+19/01/24, 7:03 pm - Home Minister 😎: Kya karis
+19/01/24, 7:04 pm - #çhäñdáñ...: Basisss
+19/01/24, 7:16 pm - Home Minister 😎: Khaichu na
+19/01/24, 7:16 pm - #çhäñdáñ...: Hm
+19/01/24, 7:16 pm - Home Minister 😎: Kali medical jibu
+19/01/24, 7:16 pm - #çhäñdáñ...: Hm
+19/01/24, 9:00 pm - #çhäñdáñ...: Canteen Bill : 4337 /-
+Cafeteria Bill : 868 /-
+Total : 5205 /-
+19/01/24, 9:02 pm - Home Minister 😎: Hau
+19/01/24, 9:03 pm - #çhäñdáñ...: Hmm
+19/01/24, 9:16 pm - Home Minister 😎: <Media omitted>
+19/01/24, 9:16 pm - Home Minister 😎: <Media omitted>
+19/01/24, 9:16 pm - Home Minister 😎: <Media omitted>
+19/01/24, 9:16 pm - Home Minister 😎: <Media omitted>
+19/01/24, 9:16 pm - Home Minister 😎: <Media omitted>
+19/01/24, 9:16 pm - Home Minister 😎: <Media omitted>
+19/01/24, 9:16 pm - Home Minister 😎: <Media omitted>
+19/01/24, 9:16 pm - Home Minister 😎: <Media omitted>
+19/01/24, 9:16 pm - Home Minister 😎: <Media omitted>
+19/01/24, 9:16 pm - Home Minister 😎: <Media omitted>
+19/01/24, 9:16 pm - Home Minister 😎: <Media omitted>
+19/01/24, 9:16 pm - Home Minister 😎: <Media omitted>
+19/01/24, 11:33 pm - #çhäñdáñ...: <Media omitted>
+19/01/24, 11:33 pm - #çhäñdáñ...: <Media omitted>
+20/01/24, 9:56 am - Home Minister 😎: Pathani sanu jee main Card
+20/01/24, 12:54 pm - Home Minister 😎: Paisa patheichi canteen bill deidabu
+20/01/24, 1:57 pm - #çhäñdáñ...: hm
+20/01/24, 5:03 pm - Home Minister 😎: Bapa kn karuchu
+20/01/24, 5:23 pm - Home Minister 😎: Phone uthaunu kanhiki
+21/01/24, 11:06 am - Home Minister 😎: Kauthi
+21/01/24, 6:15 pm - #çhäñdáñ...: <Media omitted>
+22/01/24, 2:33 pm - #çhäñdáñ...: Basili bus re
+22/01/24, 2:33 pm - Home Minister 😎: Hau
+22/01/24, 2:33 pm - #çhäñdáñ...: Hm
+22/01/24, 2:33 pm - Home Minister 😎: Mo bus re
+22/01/24, 2:33 pm - Home Minister 😎: Na
+22/01/24, 2:34 pm - #çhäñdáñ...: Na private
+22/01/24, 2:34 pm - Home Minister 😎: Hau
+22/01/24, 2:34 pm - #çhäñdáñ...: Hm
+22/01/24, 2:34 pm - Home Minister 😎: Jaydeb bihar re rahibu na
+22/01/24, 2:34 pm - #çhäñdáñ...: Na baramunda
+22/01/24, 2:34 pm - Home Minister 😎: Master canteen jibu
+22/01/24, 2:34 pm - #çhäñdáñ...: Sethu auu gote bus
+22/01/24, 2:35 pm - Home Minister 😎: Hau
+22/01/24, 2:35 pm - #çhäñdáñ...: Hm
+22/01/24, 2:35 pm - Home Minister 😎: Pura silicon jae paleibu
+22/01/24, 2:37 pm - #çhäñdáñ...: Hm
+22/01/24, 3:24 pm - Home Minister 😎: Kauti
+22/01/24, 3:27 pm - #çhäñdáñ...: Acharya vihar
+22/01/24, 3:28 pm - Home Minister 😎: Hau
+22/01/24, 4:30 pm - #çhäñdáñ...: Silicon
+23/01/24, 8:27 am - Home Minister 😎: Baba nka paini gote ticket karidabu baripada re.
+23/01/24, 8:28 am - Home Minister 😎: Kali asibe
+23/01/24, 10:51 am - Home Minister 😎: Ticket ta Karibu
+23/01/24, 11:03 am - #çhäñdáñ...: <Media omitted>
+23/01/24, 11:04 am - #çhäñdáñ...: <Media omitted>
+23/01/24, 11:04 am - #çhäñdáñ...: D1 60
+23/01/24, 11:07 am - Home Minister 😎: Ok
+23/01/24, 7:52 pm - Home Minister 😎: Asiluni na
+23/01/24, 7:54 pm - #çhäñdáñ...: Hm
+24/01/24, 12:48 am - #çhäñdáñ...: Kali 7 re dakidaba ta
+25/01/24, 8:36 am - Home Minister 😎: Phone katilu kn paini
+25/01/24, 8:36 am - Home Minister 😎: Uthile call karibu
+25/01/24, 8:48 am - #çhäñdáñ...: Class
+25/01/24, 8:48 am - #çhäñdáñ...: Kuha
+25/01/24, 11:12 am - Home Minister 😎: Aji paleibu priyanshu ku neiki
+25/01/24, 11:13 am - Home Minister 😎: Doctor pakhaku mu patheidebi Paisa
+25/01/24, 6:22 pm - Home Minister 😎: Galu na
+25/01/24, 6:23 pm - #çhäñdáñ...: Khauchi
+25/01/24, 6:25 pm - Home Minister 😎: Khaiki ja jaldi
+25/01/24, 6:26 pm - Home Minister 😎: Kn hela phone karibu
+25/01/24, 6:26 pm - Home Minister 😎: 2000 patheideichi
+25/01/24, 8:31 pm - Home Minister 😎: null
+25/01/24, 8:43 pm - Home Minister 😎: Pathani photo utheiki
+25/01/24, 8:43 pm - #çhäñdáñ...: Hm
+26/01/24, 7:32 am - Home Minister 😎: Uthiluni na
+26/01/24, 7:33 am - #çhäñdáñ...: Hm
+26/01/24, 10:05 am - Home Minister 😎: Asiluna bapa
+26/01/24, 10:05 am - #çhäñdáñ...: Bus stand
+26/01/24, 10:06 am - Home Minister 😎: Hau
+26/01/24, 6:03 pm - #çhäñdáñ...: https://maps.app.goo.gl/UtSgp2bv4beSDbdE9
+26/01/24, 6:16 pm - #çhäñdáñ...: Khaata 2
+Surf
+Pen 2
+
+Biscuits
+Paste ( Sesodyne )
+
+Soap
+26/01/24, 6:29 pm - #çhäñdáñ...: <Media omitted>
+28/01/24, 3:30 pm - Home Minister 😎: Galu na
+28/01/24, 3:30 pm - #çhäñdáñ...: Yes yes got the bus 😎
+28/01/24, 3:30 pm - #çhäñdáñ...: Online
+28/01/24, 3:30 pm - Home Minister 😎: Mk okkkkkkk
+28/01/24, 3:30 pm - #çhäñdáñ...: Hm
+28/01/24, 5:47 pm - Home Minister 😎: College pahanchigalu na
+28/01/24, 11:10 pm - Home Minister 😎: Kya karis
+28/01/24, 11:17 pm - #çhäñdáñ...: Eiii Kalinga stadium me hockey khelishhh
+28/01/24, 11:17 pm - Home Minister 😎: Hm khela
+28/01/24, 11:17 pm - Home Minister 😎: Khaichu na
+28/01/24, 11:18 pm - #çhäñdáñ...: Hm
+29/01/24, 8:17 pm - Home Minister 😎: Exam sarila na
+29/01/24, 8:48 pm - Home Minister 😎: Free hele call karibu
+29/01/24, 8:54 pm - #çhäñdáñ...: <Media omitted>
+29/01/24, 8:54 pm - #çhäñdáñ...: <Media omitted>
+29/01/24, 8:55 pm - #çhäñdáñ...: <Media omitted>
+29/01/24, 8:56 pm - #çhäñdáñ...: <Media omitted>
+29/01/24, 8:56 pm - #çhäñdáñ...: <Media omitted>
+29/01/24, 8:56 pm - #çhäñdáñ...: <Media omitted>
+29/01/24, 8:59 pm - Home Minister 😎: Tate karichanti secret rakhibaku
+29/01/24, 8:59 pm - #çhäñdáñ...: Hm
+29/01/24, 8:59 pm - Home Minister 😎: Seita manerakhiki kama karibu
+29/01/24, 9:00 pm - Home Minister 😎: Patha gas bala phone number
+29/01/24, 9:00 pm - #çhäñdáñ...: Hm
+29/01/24, 9:00 pm - #çhäñdáñ...: Eita gas bala number
+31/01/24, 11:58 am - Home Minister 😎: Guardian mananku entry karunahanti
+31/01/24, 11:58 am - Home Minister 😎: Stadium bhitaraku
+31/01/24, 12:05 pm - #çhäñdáñ...: Hau
+31/01/24, 12:51 pm - Home Minister 😎: Japydeb bihar jauchu
+31/01/24, 12:51 pm - Home Minister 😎: Ma bus re
+31/01/24, 4:01 pm - Home Minister 😎: Bapa asibu na
+31/01/24, 4:02 pm - Home Minister 😎: Kete time lagiba
+31/01/24, 4:02 pm - #çhäñdáñ...: Na auu jibini mu
+31/01/24, 4:02 pm - #çhäñdáñ...: Tame bhitaraku paleicha ta
+31/01/24, 4:03 pm - Home Minister 😎: Hm
+31/01/24, 4:03 pm - #çhäñdáñ...: Hau
+31/01/24, 4:03 pm - Home Minister 😎: Asibuni na
+31/01/24, 4:03 pm - #çhäñdáñ...: Na auu jibina eina
+31/01/24, 4:04 pm - Home Minister 😎: Hau
+31/01/24, 4:04 pm - #çhäñdáñ...: Hm tame attend kara
+31/01/24, 4:11 pm - Home Minister 😎: <Media omitted>
+31/01/24, 4:11 pm - Home Minister 😎: <Media omitted>
+31/01/24, 4:11 pm - Home Minister 😎: <Media omitted>
+31/01/24, 4:11 pm - Home Minister 😎: <Media omitted>
+31/01/24, 4:26 pm - #çhäñdáñ...: Naa eina bus nahi
+31/01/24, 4:27 pm - Home Minister 😎: Hau na asana hairana habu puni jibaku
+31/01/24, 4:27 pm - #çhäñdáñ...: Hm
+31/01/24, 4:33 pm - #çhäñdáñ...: Ki gawar status ea delete kara
+31/01/24, 4:34 pm - Home Minister 😎: 50000 paiba
+31/01/24, 4:34 pm - #çhäñdáñ...: I feel proud of my son
+31/01/24, 4:35 pm - Home Minister 😎: Se thau
