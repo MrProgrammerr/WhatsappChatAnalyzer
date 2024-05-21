@@ -17,5 +17,4 @@
     <li>Matplotlib</li>
     <li>Seaborn</li>
   </ul>
-  <li>Installation</li>
 </ol>
