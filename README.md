@@ -27,7 +27,7 @@ This Streamlit application allows users to upload their WhatsApp chat files and 
 1. Clone the repository:
    ```bash
    git clone https://github.com/MrProgrammerr/WhatsappChatAnalyzer
-   cd whatsapp-chat-analyzer
+   cd WhatsappChatAnalyzer
    ```
 Create a virtual environment and activate it:
 
