@@ -44,7 +44,7 @@ def most_commom_words(selected_user, df):
         df = df[df['User'] == selected_user]
     pure_df = df[df['User'] != 'notification']
     pure_df = pure_df[pure_df['Message'] != '<Media omitted>\n']
-    f = open('C:/Users/cn807/OneDrive/Desktop/ML And DL/ML_AND_DL/My_Projects/Whatsapp Chat Analyzer/stop_hinglish.txt', 'r', encoding='utf-8')
+    f = open('stop_hinglish.txt', 'r', encoding='utf-8')
     stop_words = f.read()
     stop_words = stop_words.split('\n')
     words = []
@@ -58,7 +58,7 @@ def emoji_func(selected_user, df):
         df = df[df['User'] == selected_user]
     emojis = []
     for msg in df['Message']:
-        emojis.extend([c for c in msg if c in emoji.UNICODE_EMOJI['en']])
+        emojis.extend([c for c in msg if emoji.is_emoji(c)])
     emojidf = pd.DataFrame(Counter(emojis).most_common(len(Counter(emojis))))
     return emojidf
 
