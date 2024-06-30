@@ -56,3 +56,26 @@ Upload your WhatsApp chat file using the sidebar.
 Select a user from the dropdown to analyze the chat data.
 
 Click on the "Analyze" button to view various statistics and trends.
+
+## Screenshots
+
+### Home Page
+
+![home](screenshots/ss1.png)
+
+### Upload File
+
+![home](screenshots/ss2.png)
+
+### Click Analyze
+
+![home](screenshots/ss3.png)
+![home](screenshots/ss4.png)
+![home](screenshots/ss5.png)
+
+### Select Chat Member
+
+![home](screenshots/ss6.png)
+
+### Click Analyze
+![home](screenshots/ss7.png)
