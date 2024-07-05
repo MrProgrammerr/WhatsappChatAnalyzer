@@ -26,10 +26,12 @@ def fetch_stats(selected_user,df) :
 
     return num_msgs, words, medias,links
 def most_busy_users(df):
+    df=df[df['User']!="notification"]
     chat_percentage = round(df['User'].value_counts() / df.shape[0], 3).reset_index()
     chat_percentage.columns = ['User', 'Percentage']
     return df['User'].value_counts().head(), chat_percentage
 def least_busy_users(df) :
+    df=df[df['User']!="notification"]
     return df['User'].value_counts().tail()
 
 def create_wordcloud(selected_user, df):
