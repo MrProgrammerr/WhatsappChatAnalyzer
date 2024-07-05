@@ -5,11 +5,16 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 st.sidebar.title("Whatsapp Chat Analyzer")
-uploaded_file = st.sidebar.file_uploader("Choose a file")
+uploaded_file = st.sidebar.file_uploader("Upload Whatsapp extracted chat file : ", type=["txt"])
 if uploaded_file is not None:
-    bytes_data = uploaded_file.getvalue()
-    data = bytes_data.decode("utf-8")
-    df = preprocessor.preprocess(data)
+    try:
+        bytes_data = uploaded_file.getvalue()
+        data = bytes_data.decode("utf-8")
+        df = preprocessor.preprocess(data)
+        # You can add further processing and visualization code here
+    except Exception as e:
+        st.title("Please upload a correctly extracted .txt file from Whatsapp and ensure to omit the media-files.")
+        st.stop()
 
     # Fetch unique users
     user_list = df['User'].unique().tolist()
